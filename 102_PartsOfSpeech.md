@@ -13,21 +13,441 @@ Each part of speech has its own unique function and plays a vital role in constr
 
 > **Nouns are words that name a person, place, animal, thing, event or idea.**
 
-Example : Ram, Mumbai, Lion, Book, love etc
+**Noun = Naming word**
 
-Example : Person - Rahul, teacher, doctor, student etc <br/>
-Example : Place - India, school, office, Delhi etc <br/>
-Example : Thing - phone, computer, book, table etc <br/>
-Example : Animal - Cow, Tiger, Lion, Elephant etc <br/>
-Example : Idea - happiness, freedom, knowledge, honesty etc <br/>
+Example : `Ram, Mumbai, Lion, Book, love etc`
+
+Person - `Rahul, teacher, doctor, student etc` <br/>
+Place - `India, school, office, Delhi etc` <br/>
+Thing - `phone, computer, book, table etc` <br/>
+Animal - `Cow, Tiger, Lion, Elephant etc` <br/>
+Ideas - `happiness, freedom, knowledge, honesty etc` <br/>
 
 
 ```
 Rahul works in an office.  Noun = Rahul(Sub), Office(Obj)
 ```
 
+### Classification of Noun
+
+| Noun on different Basis	| Types of Nouns	                        |   Examples                                     |
+|-------------------------|-----------------------------------------|------------------------------------------------|
+| Type of Noun	| 1. Proper Noun <br/> 2. Common Noun <br/> 3. Collective Noun <br/> 4. Material Noun <br/> 5. Abstract Noun |	Ram, Mumbai <br/> city, doctor <br/> group, team <br/> water, sand <br/> love, honesty |
+| Number	| 1. Singular Noun <br/> 2. Plural Noun |	cat, book <br/> cats, books |
+| Countability	| 1. Countable Noun <br/> 2. Uncountable Noun | book, books <br/> water, ideas |
+| Function | 1. Subject Noun <br/> 2. Object Noun <br/> 3. Possessive Noun	| The dog barks (subject) <br/> She loves music (object) <br/> Ram's car (possessive) |
+| Concreteness	| 1. Concrete Noun <br/> 2. Abstract Noun	| tree, chair  <br/> happiness, love |
+| Specificity	  | 1. Proper Noun <br/> 2. Common Noun	 | Ram, Mumbai <br/> city, person  |
+| Composition	  | 1. Compound Noun	| toothpaste, bedroom |
+
+
+<details>
+  <summary> Type of Noun </summary>
+
+### 1. Proper Noun
+
+> A proper noun is the **specific name** of a particular person, place, organization, day, month, etc.
+
+It normally begins with a **capital letter**.
+
+Example : <br/>
+Person - `Rahul, Amit, Shakespeare` <br/>
+Places - `India, Delhi, London, Himalayas` <br/>
+Organizations - `Parliament, Microsoft, Google, United Nations` <br/>
+Days/Months/Years - `Monday, January, 2026` <br/>
+
+```
+I saw Rahul.                proper noun = Rahul bcuz we know specific Rahul
+We went to the TajMahal.    proper noun = TajMahal bcuz we know specific TajMahal
+```
+
+### 2. Common Noun
+
+> A common noun is a **general name** for a person, place, animal, thing, etc.
+
+Example : `boy, girl, teacher, city, country, company, dog, laptop, river, school`
+
+```
+I saw a boy.   common noun = boy bcuz we don't know specific boy, rather it's general 
+I saw Rahul.   proper noun = Rahul bcuz we know specific Rahul
+```
+
+### 3. Collective Noun
+
+> A collective noun refers to **a group** of people, animals, or things considered as one unit.
+
+Example : <br/>
+People - `team, family, committee, audience, class, crowd, army, group, gang` <br/>
+Animals - `herd, flock, pack, swarm, school of fish` <br/>
+Things/Objects - `bunch, bundle, collection, set, pile, stock, cluster` <br/>
+
+```
+The team won the match.                team = a group of players
+A flock of birds flew over the house.  flock = a group of birds
+The class is studying English.         class = a group of students
+The committee made a decision.         committe = a group of people
+A pile of rocks
+A bundle of sticks
+A cluster of grapes
+```
+
+### 4. Material Noun
+
+A material noun refers to a substance or material from which things are made.
+
+Examples: `gold, silver, iron, steel, wood, water, milk, cotton, plastic, rice` 
+
+Material nouns are generally **uncountable**.
+
+```
+This ring is made of gold.      material noun = gold
+The table is made of wood.      material noun = wood
+The shirt is made of cotton.    material noun = cotton
+Water is essential for life.    material noun = water
+```
+
+Note : However, context can change how a word is used, so don't treat this as an absolute rule.
+
+### 5. Abstract Noun
+
+> An abstract noun refers to an **idea, feeling, quality, state, or concept** that we cannot physically experience through our senses.
+
+Examples : `love, happiness, sadness, honesty, courage, freedom, knowledge, intelligence, beauty, anger, childhood`
+
+```
+Honesty is important.           abstract noun = Honesty, bcuz we can't touch Honesty physically
+Knowledge gives us confidence.
+Happiness is valuable.
+```
+
 </details>
-<!----------------------------------------->
+
+<details>
+  <summary> Based on Countability </summary>
+
+<br/>
+
+| **Noun**                |                                     |
+|-------------------------|-------------------------------------|
+| 1. **Countable Noun**   | a. **Singular** <br/> b. **Plural** |
+| 2. **Uncountable Noun** |                                     |
+
+#### 1. Countable Noun 
+
+> A **countable noun** is something we can count individually.
+
+Example : `book, pen, student, car, apple, chair, computer etc`
+
+Countable nouns can usually use: `a/an`, `one`, `two`, `many`, `few`, `several`
+
+```
+We can say: one book, two books, three books
+Therefore, book is countable.
+
+I have a book.       Singular
+I have three books.  Plural
+```
+
+#### 2. Uncountable Noun
+
+> An **uncountable** noun refers to something that we don't normally count as individual units.
+
+Examples : `water, milk, rice, sugar, information, advice, knowledge, furniture, money etc`
+
+Que : How do we count them? <br/>
+Ans : We use a unit:
+```
+- a glass of water
+- two bottles of water
+- a piece of advice
+- two pieces of advice
+- a piece of information
+- three pieces of information
+```
+
+**Countable vs Uncountable**
+```
+Countable       Uncountable
+------------|--------------
+  book           information 
+  apple          advice      
+  chair          furniture   
+  student        knowledge   
+  car            money       
+  computer       water       
+  idea           rice        
+  question       equipment   
+------------------------------
+I have three questions.
+I have some information.
+```
+
+</details>
+
+
+<details>
+  <summary> Based on Number </summary>
+
+#### 1. Singular Noun 
+
+> A noun **that denotes a single or one person, one place, or one thing.**
+
+Example : `dog, egg, child, apple, cookie, deer etc`
+
+```
+I have a dog.                    Singular = dog
+He ate an egg.                   Singular = egg
+He took a cookie from the jar.   Singular = cookie
+The child is healthy.            Singular = child
+```
+
+We use `a/an` before the Singular Noun. <br/>
+We can also make the plural of it by adding `s/es`
+
+#### 2. Plural Noun
+
+> A noun **that indicates multiple persons(people), places, animals, or things.**
+
+They can be easily made Plural by adding easily `s/es` or making changes in the spelling of a Singular Noun.
+
+Example : `dogs, eggs, children, apples, cookies, deer etc`
+
+```
+The dogs barked loudly.                Plural = dogs
+We bought a dozen eggs.                Plural = eggs
+The children play in the park.         Plural = children
+He saw several deer in the jungle.     Plural = deer
+```
+
+It has **`Genders : Masculine, Feminine, Neuter(Common)`**
+
+<details>
+  <summary> Genders </summary>
+
+<br/>
+
+> Gender is a social and cultural construct that encompasses gender identity. Basically a label.
+
+**Masculine Gender** <br/>
+Refers to males or male-associated nouns, denoted by the pronoun `he/him`. <br/>
+e.g., `boy, man, father, king etc` 
+
+**Feminine Gender** <br/>
+Refers to females or female-associated nouns, denoted by the pronoun `she/her` <br/>
+e.g., `girl, woman, mother, queen etc` 
+
+**Neuter (or Common) Gender** <br/>
+Refers to non-living objects or entities that are neither masculine nor feminine, denoted by the pronoun `it`. <br/>
+e.g., `ball, book, chair etc`
+
+common gender which applies to nouns that can refer to either sex depending on context, denoted by the pronoun `he/she`. <br/>
+e.g., `child, person, teacher, doctor etc.` 
+
+</details>
+
+</details>
+
+
+<details>
+  <summary> Based on Function : <b> Noun Phrases </b> </summary>
+
+<br/>
+
+A Noun Phrase is a group of words that functions as a noun in a sentence.
+
+It may act as a subject, object, or complement.
+
+A noun phrase usually consists of a noun and words that modify or describe it.
+
+#### 1. Subject Noun 
+
+> Noun **that acts as a subject** in a sentence.
+
+Example : 
+```
+The dog barks.    subject noun = dog, bcuz it acts like a subject
+```
+
+#### 2. Object Noun 
+
+> Noun **that acts as object** in a sentence.
+
+Example :
+```
+She loves music.  object noun = music, bcuz it acts like a object
+```
+
+#### 3. Possessive Noun
+
+> Noun **that shows ownership or possession of something.**
+
+It is formed by adding an apostrophe + `'s` to the noun. 
+
+Examples : `Ram's pen, company's profits, dog's bone, children's toy, teacher's desk`
+```
+The dog's bone - shows that the bone belongs to the dog
+The children's toy - shows that the toy belongs to the children
+The company's profits - shows that the profits belong to the company
+The teacher's desk - shows that the desk belongs to the teacher
+```
+
+**Important Points** :
+
+- Possessive nouns can be singular or plural, and they can indicate possession by one person or thing or by multiple people or things.
+
+- Possessive nouns are formed by adding an apostrophe and the letter "s" to the noun, or just an apostrophe if the noun is already plural and ends in "s".
+
+- **Do not use an apostrophe with possessive pronouns such as `its, hers, yours, theirs, ours, and mine.**
+
+- Possessive nouns can be used to indicate a relationship between two nouns, such as `the dog's ball` here showing that the dog possesses the ball.
+ 
+
+</details>
+
+<details>
+  <summary> Based on Concreteness </summary>
+
+#### 1. Concrete Noun 
+
+> A concrete noun refers to **something that we can experience through our physical senses**.
+
+Usually, we can: see it, hear it, touch it, smell it, taste it
+
+Examples : `table, phone, book, dog, apple, music, flower, car, house`
+
+Concrete doesn't necessarily mean "solid."
+
+```
+I bought an apple.         concrete noun = apple bcuz we can see, touch, smell, and taste it
+Music is a concrete noun.  concrete noun = music though we can't touch music, but you can hear it
+```
+
+#### 2. Abstract Noun
+
+> An abstract noun refers to an **idea, feeling, quality, state, or concept** that we cannot physically experience through our senses.
+
+Examples : `love, happiness, sadness, honesty, courage, freedom, knowledge, intelligence, beauty, anger, childhood`
+
+```
+Honesty is important.           abstract noun = Honesty, bcuz we can't touch Honesty physically
+Knowledge gives us confidence.
+Happiness is valuable.
+```
+
+**Concrete vs Abstract**
+```
+  Concrete | Abstract  
+------------------------- 
+ book        knowledge  
+ person      honesty    
+ flower      beauty     
+ child       childhood  
+ money       wealth     
+ friend      friendship 
+ soldier     courage
+-------------------------
+```
+
+Can you physically experience it with my senses? <br/>
+If yes then **probably concrete**. <br/>
+If it is an idea, feeling, quality, or concept then **probably abstract**.
+
+</details>
+
+<details>
+  <summary> Based on Specificity </summary>
+
+#### 1. Proper Noun
+
+> A proper noun is the **specific name** of a particular person, place, organization, day, month, etc.
+
+It normally begins with a capital letter.
+
+Example : <br/>
+Person - `Rahul, Amit, Shakespeare` <br/>
+Places - `India, Delhi, London, Himalayas` <br/>
+Organizations - `Parliament, Microsoft, Google, United Nations` <br/>
+Days/Months/Years - `Monday, January, 2026` <br/>
+
+```
+I saw Rahul.                proper noun = Rahul bcuz we know specific Rahul
+We went to the TajMahal.    proper noun = TajMahal bcuz we know specific TajMahal
+```
+
+
+#### 2. Common Noun	
+
+> A common noun is a **general name** for a person, place, animal, thing, etc.
+
+Example : `boy, girl, teacher, city, country, company, dog, laptop, river, school`
+
+```
+I saw a boy.   common noun = boy bcuz we don't know specific boy, rather it's general 
+I saw Rahul.   proper noun = Rahul bcuz we know specific Rahul
+```
+
+</details>
+
+<details>
+  <summary> Based on Composition </summary>
+
+#### 1. Compound Noun
+
+> A Compound Noun is simply **made up of two or more word** that comes together to form a noun.
+
+Examples : `Bookshelf = (Book + Shelf)`, `Raincoat = (Rain + Coat)`, `Haircut = (Hair + Cut)`, `Bedroom = (Bed + Room)`
+
+```
+The bookshelf was filled with old books.                            Compound noun = bookshelf
+He got a new haircut.                                               Compound noun = haircut
+I am going to sleep in my bedroom tonight.                          Compound noun = bedroom
+I am going to wear my raincoat because it's going to rain.          Compound noun = raincoat
+```
+
+It is not necessary that both words are Nouns. <br/>
+It is formed with the help of more than one part of speech.
+
+</details>
+
+<details>
+  <summary> Conclusion : Noun - Main Concept </summary>
+
+<br/>
+
+Don't try to memorize all the definitions mechanically.
+
+Think about nouns in three layers:
+
+| **Layer 1 - What kind of name?** | Proper / Common                                 |
+|----------------------------------|-------------------------------------------------|
+|**Layer 2 - What kind of thing?** | **Concrete / Abstract / Collective / Material** |
+| **Layer 3 - Can I count it?**    | **Countable / Uncountable**                     |
+
+
+Example:
+```
+Rahul bought three books.      Rahul → Proper + Concrete + Countable
+                               books → Common + Concrete + Countable
+```
+
+Once this becomes automatic, identifying nouns in complex sentences becomes much easier.
+
+| Type            | Meaning                           | Examples                   |
+| --------------- | --------------------------------- | -------------------------- |
+| **Proper**      | Specific name                     | India, Rahul, Delhi        |
+| **Common**      | General name                      | country, boy, city         |
+| **Concrete**    | Can be experienced by senses      | book, phone, dog           |
+| **Abstract**    | Idea, feeling, quality, concept   | love, honesty, courage     |
+| **Collective**  | Group treated as one              | team, family, flock        |
+| **Material**    | Substance/material                | gold, wood, water          |
+| **Countable**   | Can be counted                    | book, apple, student       |
+| **Uncountable** | Not normally counted individually | advice, information, water |
+
+
+</details>
+
+</details>
+<!------------------NOUN----------------------->
 
 <details>
   <summary> 2. <b> Pronouns </b> </summary>
@@ -36,31 +456,310 @@ Rahul works in an office.  Noun = Rahul(Sub), Office(Obj)
 
 > **Pronouns are words that replace nouns to avoid repetition.**
 
-Examples : he, she, it, they, we etc <br/>
-Examples : me, him, her, us, them etc
+Examples : <br/>
+`he, she, it, they, we etc` <br/>
+`me, him, her, us, them etc`
 
 ```
 Rahul is a software engineer. Rahul works in Bangalore. Rahul likes Python. 
 Rahul is a software engineer. He works in Bangalore. He likes Python.
 
-Here Noun = Rahul, Pronoun = He
+Noun = Rahul, Pronoun = He
+```
+
+<details>
+  <summary> i) <b> Personal Pronouns </b> </summary>
+
+<br/>
+
+> Personal pronouns **refer to people or things**.
+
+Example : `I, you, he, she, it, we, they, etc`
+
+They can be divided into **subject pronouns** and **object pronouns**.
+1. Subject Pronouns :  `you, I, he, she, it, etc`
+2. Object Pronouns : `me, you, him, her, it, etc`
+
+|                                 Person                                                            |
+|---------------------------------------------------------------------------------------------------|
+|  **First-person** : refers to the speaker or writer.  <br/> e.g. `I/me, my/mine, We/us, our/ours` |
+|  **Second person** : refers to the person being spoken to.  <br/>  e.g. `You, your, yours`        |
+|  **Third-person** : refers to the person or thing being spoken about. <br/> e.g. `He/him/his, She/her/her, It,its, They/them, any name` |
+
+
+| Person      | Pronoun (Singular)        | Pronoun (Plural)          |
+|-------------|---------------------------|---------------------------|
+| 1st Person  | `I`, `me`, `my`, `mine`   | `We`, `us`, `our`, `ours` |
+| 2nd Person  | `You`, `your`, `yours`    | `You`, `your`, `yours`    |
+| 3rd Person  | `He`, `him`, `his` <br/> `She`, `her`, `her` <br/> `It`, `its` <br/> `Any Name` | `They`, `them`, `their`, `theirs`|
+
+
+#### Subject Pronouns
+
+> Subject Pronouns perform the action.
+
+Example : `I, We, You, He, She, It, They, any name etc`
+```
+I work here.          subject pronoun = I
+You are ready.        subject pronoun = You
+She studies Maths.    subject pronoun = She
+It is raining.        subject pronoun = It
+We are learning.      subject pronoun = We
+They work here.       subject pronoun = They
+```
+
+#### Object Pronouns
+
+> Object pronouns receive the action or come after a preposition.
+
+Example : `me, you, him, her, it, us, them`
+
+```
+Rahul called me.      Object pronoun = me
+I helped him.         Object pronoun = him
+She invited us.       Object pronoun = us
+We saw them.          Object pronoun = them
 ```
 
 </details>
-<!----------------------------------------->
+
+<details>
+  <summary> ii) <b> Possessive Pronouns </b> </summary>
+
+<br/>
+
+> Possessive pronouns **show ownership or possession**.
+
+Example : `mine, yours, his, hers, ours, theirs`
+```
+This book is mine.   
+That laptop is yours.
+The red car is hers.
+This house is ours.
+Those bags are theirs.
+```
+
+**Possessive determiner vs Possessive pronoun**
+```
+This is my/your book.       my/your = possessive determiner
+This book is mine/yours.    mine/yours = possessive pronoun
+```
+
+</details>
+
+<details>
+  <summary> iii) <b> Reflexive Pronouns </b> </summary>
+
+<br/>
+ 
+> Reflexive pronouns are **used when the subject and object refer to the same person or thing**.
+
+They usually end in : `-self` or `-selves`
+
+| Personal pronoun | Reflexive pronoun |
+| ---------------- | ----------------- |
+| `I`              | `myself`          |
+| `you`            | `yourself`        |
+| `he`             | `himself`         |
+| `she`            | `herself`         |
+| `it`             | `itself`          |
+| `we`             | `ourselves`       |
+| `you`            | `yourselves`      |
+| `they`           | `themselves`      |
+
+```
+                              Personal                     Reflexive
+I hurt myself.              I = doing the action,    myself = receiving the action
+She introduced herself.     She = doing the action,  herself = receiving the action
+He blamed himself.          He = doing the action,   himself = receiving the action
+They enjoyed themselves.    They = doing the action, themselves = receiving the action
+```
+
+Reflexive pronouns can also emphasize who performed an action.
+
+```
+I myself completed the project.             -> myself is emphasizing I
+The manager himself attended the meeting.   -> himself is emphasizing manager
+```
+</details>
+
+<details>
+  <summary> iv) <b> Demonstrative Pronouns </b> </summary>
+
+<br/>
+
+> Demonstrative pronouns **point to specific people or things**.
+
+The four main ones are : `this, that, these, those`
+
+Think of Demonstrative pronouns as pointing words
+|      | Singular | Plural |
+| ---- | -------- | ------ |
+| Near | this     | these  |
+| Far  | that     | those  |
+
+```
+Think of them as pointing words
+------------------------------------------------------------
+This is my laptop.      -> This : one thing near me
+These are my books.     -> These : multiple things near me
+That is your phone.     -> That : one thing farther away
+Those are his shoes.    -> Those : That is your phone.
+```
+
+</details>
+
+<details>
+  <summary> v) <b> Interrogative Pronouns </b> </summary>
+
+<br/>
+
+> Interrogative pronouns are used to ask questions.
+
+Example : `who, whom, whose, which, what, etc`
+
+```
+Who called you?               Interrogative pronoun = Who
+Who is your teacher?          Interrogative pronoun = Who
+Whom did you meet?            Interrogative pronoun = Whom
+Whose phone is this?          Interrogative pronoun = Whose
+Whose book is on the table?   Interrogative pronoun = Whose
+Which do you prefer?          Interrogative pronoun = Which
+Which is your pen?            Interrogative pronoun = Which
+What happened?                Interrogative pronoun = What
+What do you want?             Interrogative pronoun = What
+```
+
+In everyday spoken English, people often use `who` instead of `whom`, especially in informal conversation.
+
+</details>
+
+<details>
+  <summary> vi) <b> Relative Pronouns </b> </summary>
+
+<br/>
+
+> Relative pronouns **connect a relative clause to a noun that came before it**.
+
+Example : `who, whom, whose, which, that, etc`
+
+```
+I met a man who works at Google.             who connects "a man" with "works at Google"
+This is the book that I bought yesterday.    that connects "the book" with "I bought yesterday"
+The woman who lives next door is a doctor.
+The student whose phone was lost reported it.
+The laptop which I bought is very fast.
+```
+
+</details>
+
+<details>
+  <summary> vii) <b> Indefinite Pronouns </b> </summary>
+
+<br/>
+
+> Indefinite pronouns **refer to people or things without identifying exactly who or what they are**.
+
+**Indefinite = not specific**
+
+Examples : `someone, somebody, anyone, anybody, everyone, everybody, nobody, nothing, something, anything, everything`
+
+```
+Someone is calling you.       Indefinite pronoun = Someone
+Everyone is ready.            Indefinite pronoun = Everyone
+Nobody knows the answer.      Indefinite pronoun = Nobody
+Something happened.           Indefinite pronoun = Something
+Anything is possible.         Indefinite pronoun = Anything
+```
+
+</details>
+
+<details>
+  <summary> viii) <b> Reciprocal Pronouns </b> </summary>
+
+<br/>
+
+> Reciprocal pronouns express a mutual or two-way relationship/action.
+
+There are two : `each other, one another`
+
+```
+Rahul helps Amit, and Amit helps Rahul.
+Rahul and Amit help each other.
+
+The two friends respect each other.
+The team members supported one another.
+```
+
+</details>
+
+<details>
+  <summary> ix) <b> Distributive Pronouns </b> </summary>
+
+<br/>
+
+> Distributive pronouns **refer to people or things one at a time, rather than as a group**.
+
+Example : `each, either, neither`
+
+```
+Each of the students received a certificate.   
+Either of these two options is fine.
+Neither of the answers is correct.
+```
+
+</details>
+
+<details>
+  <summary> Conclusion : Pronouns </summary>
+
+<br/>
+
+Pronouns are an important part of speech that help us avoid repetition. <br/>
+There are different types of pronouns, each with its own unique purpose in a sentence. 
+
+
+| Type              | Main purpose                        | Examples                             |
+| ----------------- | ----------------------------------- | ------------------------------------ |
+| **Personal**      | Refers to people/things             | I, you, he, she, it, we, they        |
+| **Possessive**    | Shows ownership                     | mine, yours, his, hers, ours, theirs |
+| **Reflexive**     | Refers back to subject / emphasis   | myself, yourself, himself            |
+| **Demonstrative** | Points to something                 | this, that, these, those             |
+| **Interrogative** | Asks questions                      | who, whom, whose, which, what        |
+| **Relative**      | Connects a clause to a noun         | who, whom, whose, which, that        |
+| **Indefinite**    | Refers to unspecified people/things | someone, anyone, everyone            |
+| **Reciprocal**    | Shows mutual action                 | each other, one another              |
+| **Distributive**  | Refers individually                 | each, either, neither                |
+
+> Note : **The same word can sometimes be a pronoun or a determiner, depending on how it is used.**
+
+**Pronoun Reference**
+```
+- Rahul told Amit that he would get the job.
+Bad/unclear bcuz grammatically possible but ambiguous.
+Who is he? Rahul or Amit?
+
+- Rahul told Amit that Rahul would get the job.
+- Rahul told Amit that Amit would get the job.
+```
+
+</details>
+
+</details>
+<!---------------PRONOUN-------------------------->
 
 <details>
   <summary> 3. <b> Verbs </b> </summary>
 
 <br/>
 
-> **Verbs are words that describe actions, states, or occurrences.**
+> **Verbs are words that describe actions, occurrences(events) or states of being.**
 
 What is the subject doing? <br/>
-Examples: eat, play, sing, talk, study, learn, run, sleep, think, happen etc
+Examples : `eat, play, sing, talk, study, learn, run, sleep, think, happen etc`
 
 What is the subject's state? <br/>
-Examples : is/am/are, was/were, has/have/had, can/could, will/shall, should/would etc 
+Examples : `is/am/are, was/were, has/have/had, can/could, will/shall, should/would etc`
 
 ```
 I work from home.      verb = work
@@ -72,8 +771,147 @@ I am tired.            verb = am
 They are sad.          verb = are
 ```
 
+```
+Rahul runs every morning.	     verb = runs (Action)
+She writes code.	             verb = writes (Action)
+They played cricket.	         verb = played (Action)
+The baby slept.	                 verb = slept (Action/state)
+I am happy.	                     verb = am (State)
+He knows Python.	             verb = knows (State)
+The meeting started at 10.	     verb = started	(Event)
+```
+
+```
+                               VERB
+                                 |
+        -------------------------------------------------
+        |                        |                      |
+   Based on role           Based on object        Based on formation
+        |                        |                      |
+   1. Main                  1. Transitive           1. Regular 
+   2. Helping               2. Intransitive         2. Irregular
+   3. Linking
+        |
+   Modal Auxiliary
+```
+
+<details>
+  <summary>  Based on role   </summary>
+
+#### 1. Main Verb / Lexical Verb
+
+> A main verb **carries the main meaning of the sentence**.
+
+Example : <br/>
+Action - `run, eat, write, speak, read, build, learn etc` <br/>
+State - `know, like, love, believe, understand, remember`
+
+```
+Rahul works in a company.    main verb = works
+She writes emails.           main verb = writes
+They played football.        main verb = played
+```
+
+#### 2. Helping Verb / Auxiliary Verb
+
+> Helping verbs assist the main verb in a sentence, expressing tense, mood, questions, negatives, possibilities or voice etc.
+
+
+The three basic helping verbs are : <br/> 
+Be : `am, is, are, was, were, be, been, being` <br/>
+Have : `have, has, had` <br/>
+Do : `do, does, did`
+
+```
+I am learning English.              helping verb = am, main verb = learning
+She has completed the work.         helping verb = has, main verb = completed
+They did not attend the meeting.    helping verb = did, main verb = attend
+```
+
+#### 3. Linking Verb
+
+> A linking verb connects the subject to information that describes or identifies the subject.
+
+Think Linking verb as `Subject -> Linking Verb -> Description/Identity`
+
+Common linking verbs : `is, am, are, was, were, become, seem, appear, feel, look, smell, taste, sound, remain`
+
+```
+Rahul is a teacher.
+She became angry.
+The food looks delicious.
+```
+
+Some verbs can be either linking or action depending on the sentence.
+```
+She looks beautiful.        linking verb = looks
+She looks at the picture.   action verb = looks
+```
+
+#### 4. Model 
+
+
+
 </details>
-<!----------------------------------------->
+
+<details>
+  <summary> Based on object </summary>
+
+#### 1. Transitive 
+
+#### 2. Intransitive
+
+</details>
+
+<details>
+  <summary> Based on formation </summary>
+
+#### 1. Regular 
+
+#### 2. Irregular
+
+</details>
+
+<details>
+  <summary>  </summary>
+
+<br/>
+
+
+</details>
+
+<details>
+  <summary>  </summary>
+
+<br/>
+
+
+</details>
+
+<details>
+  <summary>  Conclusion : Verb </summary>
+
+<br/>
+
+| Type                  | Purpose                            | Example                              |
+| --------------------- | ---------------------------------- | ------------------------------------ |
+| **Main Verb**         | Main meaning                       | She **works**.                       |
+| **Helping Verb**      | Helps main verb                    | She **is working**.                  |
+| **Linking Verb**      | Connects subject to description    | She **is** happy.                    |
+| **Transitive Verb**   | Takes an object                    | She **opened** the door.             |
+| **Intransitive Verb** | No direct object                   | She **laughed**.                     |
+| **Regular Verb**      | Normal past formation              | work → worked                        |
+| **Irregular Verb**    | Unusual past formation             | go → went                            |
+| **Modal Verb**        | Ability, possibility, advice, etc. | She **can** swim.                    |
+| **Finite Verb**       | Shows tense/agreement              | He **works**.                        |
+| **Non-finite Verb**   | Infinitive/gerund/participle forms | to **work**, **working**, **worked** |
+
+
+</details>
+
+
+</details>
+<!----------------VERB------------------------->
 
 <details>
   <summary> 4. <b> Adjectives </b> </summary>
@@ -186,6 +1024,11 @@ Interjection =
 </details>
 <!----------------------------------------->
 
+<details>
+  <summary> Conclusion : Parts of Speech </summary>
+
+<br/>
+
 **Wow! The smart boy quickly finished his homework in the classroom because he had an exam tomorrow.**
 ```
 Wow! = Interjection -> emotion
@@ -213,3 +1056,86 @@ Each part of speech contributes to the overall meaning and structure of a senten
 
 </details>
 <!------------------------------------------>
+
+<details>
+  <summary> <b> Articles - <code> a/an/the </code> </b> </summary>
+
+<br/>
+
+> **Articles are words placed before nouns to indicate whether the noun is specific or general.**
+
+|      Article              |               |
+|---------------------------|---------------|
+| 1. **Indefinite Article** | **`a`, `an`** | 
+| 2. **Definite Article**   | **`the`**     |
+
+- [x] **`a`** is used before words beginning with a consonant sound (e.g., a car, a university) for singular and countable.
+
+- [x] **`an`** is used before words beginning with a vowel sound (e.g., an apple, an hour) for singular and countable.
+
+- [x] **`the`** is used for specific or particular nouns, whether singular, plural, or uncountable.
+
+```
+I want a toy.
+I want an apple.
+I want the toy, which I gave to you.
+```
+
+| **Alphabets**     | 26 : `{a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z}` |
+|-------------------|--------------------------------------------------------------|
+| 1. **Consonants** | **21 : `{b,c,d,f,g,h,j,k,l,m,n,p,q,r,s,t,v,w,x,y,z}`**       |
+| 2. **Vowels**     | **5 : `{a,e,i,o,u}`**                                        |
+
+| **Noun**                |                                     |
+|-------------------------|-------------------------------------|                               
+| 1. **Countable Noun**   | a. **Singular** <br/> b. **Plural** |
+| 2. **Uncountable Noun** |                                     |
+
+> A **countable noun** is something we can count individually.
+
+Example : book, pen, student, car, apple, chair, computer etc
+
+Countable nouns can usually use: `a/an`, `one`, `two`, `many`, `few`, `several`
+
+```
+We can say: one book, two books, three books
+Therefore, book is countable.
+
+I have a book.       Singular
+I have three books.  Plural
+```
+
+> An **uncountable** noun refers to something that we don't normally count as individual units.
+
+Examples : water, milk, rice, sugar, information, advice, knowledge, furniture, money etc
+
+How do we count them?
+```
+We use a unit:
+- a glass of water
+- two bottles of water
+- a piece of advice
+- two pieces of advice
+- a piece of information
+- three pieces of information
+```
+
+**Countable vs Uncountable**
+```
+Countable       Uncountable
+------------|--------------
+  book           information 
+  apple          advice      
+  chair          furniture   
+  student        knowledge   
+  car            money       
+  computer       water       
+  idea           rice        
+  question       equipment   
+------------------------------
+I have three questions.
+I have some information.
+```
+
+</details>
+<!--------------------------------------->
