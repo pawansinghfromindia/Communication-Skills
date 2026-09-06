@@ -446,6 +446,9 @@ Once this becomes automatic, identifying nouns in complex sentences becomes much
 
 </details>
 
+Pronoun
+---
+
 </details>
 <!------------------NOUN----------------------->
 
@@ -745,6 +748,9 @@ Who is he? Rahul or Amit?
 
 </details>
 
+Verb
+---
+
 </details>
 <!---------------PRONOUN-------------------------->
 
@@ -782,17 +788,17 @@ The meeting started at 10.	     verb = started	(Event)
 ```
 
 ```
-                               VERB
-                                 |
-        -------------------------------------------------
-        |                        |                      |
-   Based on role           Based on object        Based on formation
-        |                        |                      |
-   1. Main                  1. Transitive           1. Regular 
-   2. Helping               2. Intransitive         2. Irregular
-   3. Linking
-        |
-   Modal Auxiliary
+                                            VERB
+                                             |
+        -----------------------------------------------------------------------------------
+        |                        |                      |                                 |
+   Based on role           Based on object        Based on formation            based on numbers and use
+        |                        |                      |                                 |
+   1. Main                  1. Transitive           1. Regular                    1. Finite Verbs
+   2. Helping               2. Intransitive         2. Irregular                  2. Infinite Verbs
+   3. Linking                                                                         a) Infinitive 
+        |                                                                             b) Gerund
+   4. Modal Auxiliary                                                                 c) Participle
 ```
 
 <details>
@@ -822,6 +828,8 @@ Be : `am, is, are, was, were, be, been, being` <br/>
 Have : `have, has, had` <br/>
 Do : `do, does, did`
 
+
+
 ```
 I am learning English.              helping verb = am, main verb = learning
 She has completed the work.         helping verb = has, main verb = completed
@@ -848,18 +856,67 @@ She looks beautiful.        linking verb = looks
 She looks at the picture.   action verb = looks
 ```
 
-#### 4. Model 
+#### 4. Modal Auxiliary Verbs
 
+> These are special helping verbs that express things like: ability, possibility, permission, necessity, advice, prediction
 
+Modal auxiliary verbs : `can, could, may, might, must, shall, should, will, would`
+
+```
+I can swim.            model aux verb = can   (ability)
+You should study.      model aux verb = should (advice)
+We must leave now.     model aux verb = must (necessity)
+It might rain.         model aux verb = might (prediction)
+I will call you.       model aux verb = will (possibility)
+```
+
+Note : **After a modal verb, we generally use the base form of the main verb.**
+```
+I can speak English.
+She should study.
+
+```
 
 </details>
 
 <details>
   <summary> Based on object </summary>
 
-#### 1. Transitive 
+#### 1. Transitive Verb
 
-#### 2. Intransitive
+> A transitive verb normally **needs a direct object to complete their meaning (for clarification)**.
+
+If you can identify an object, the verb is often transitive. `Verb + what? / Verb + whom?`
+
+Pattern : `Subject + Verb + Object`
+
+Example:
+```
+Rahul bought.          bought what?
+Rahul bought a laptop. [S+V+O]
+
+She opened.            opened what?
+She opened the door.   [S+V+O]
+
+They built.            built what?
+They built a house.    [S+V+O]
+
+I read.                read what?
+I read the book.       [S+V+O]
+```
+
+#### 2. Intransitive Verb
+
+
+> An intransitive **doesn't need a direct object to complete their meaning**.
+
+```
+The baby slept.
+The children laughed.
+He arrived.
+The sun rose.
+The door opened.
+```
 
 </details>
 
@@ -868,25 +925,121 @@ She looks at the picture.   action verb = looks
 
 #### 1. Regular 
 
+> Regular verbs generally **form their past forms by adding `-ed`** or following a regular spelling pattern.
+
+| Base  | Past    | Past Participle |
+| ----- | ------- | --------------- |
+| work  | worked  | worked          |
+| play  | played  | played          |
+| walk  | walked  | walked          |
+| clean | cleaned | cleaned         |
+| open  | opened  | opened          |
+| watch | watched | watched         |
+
+```
+I work every day.
+I worked yesterday.
+```
+
 #### 2. Irregular
 
+> Irregular verbs **do not follow the normal `-ed` pattern** when forming their past forms.
+
+
+| Base  | Past   | Past Participle |
+| ----- | ------ | --------------- |
+| go    | went   | gone            |
+| eat   | ate    | eaten           |
+| see   | saw    | seen            |
+| write | wrote  | written         |
+| take  | took   | taken           |
+| come  | came   | come            |
+| speak | spoke  | spoken          |
+| buy   | bought | bought          |
+
+```
+I go to school every day.
+I went to school yesterday.
+```
+
 </details>
 
 <details>
-  <summary>  </summary>
+  <summary> Finite and Non-Finite Verbs </summary>
 
 <br/>
 
+|                  |                   |                                    |
+|------------------|-------------------|------------------------------------|
+|  Finite Verbs    |                   | `He works.` `They work.`           |
+| Non-Finite Verbs | 1. Infinitive Verb <br/> 2. Gerund  <br/> 3. Participle | `I want to learn English.` <br/> `Swimming is a good exercise.` <br/>  `The broken car needs repair.` |
+
+#### Finite 
+
+> A finite verb is connected to tense and often changes according to the subject.
+
+Example : `work/works, do/does, play/plays, cry/cries, etc`
+```
+He works here.      Singular subject = works
+They work here.     Plural subject = work
+```
+
+#### Non-Finite Verbs
+
+> A non-finite verb does not itself show tense in the same way.
+
+Three major forms are:
+1. **Infinitive**
+2. **Gerund**
+3. **Participle**
+
+```
+I want to learn English.           learn (Infinitive)
+Learning English is very useful.   Learning (Gerund)
+The broken phone needs repair.     broken (Participle)
+```
+
+These three concepts [Infinitive, Gerund, Participle]() are very important, So we will learn it in details.
 
 </details>
 
 <details>
-  <summary>  </summary>
+  <summary> Verb Phrase </summary>
 
 <br/>
 
+> A verb phrase that **consists of a main verb + one or more helping verbs**.
+
+```
+                                  Verb Phrase        Helping Verb     Main Verb
+She is working.                   is working           is              working
+He has completed the project.     has completed        has             completed
+They will be coming tomorrow.     will be coming       will, be        coming
+We had been studying              had been studying    had, been       studying
+
+```
 
 </details>
+
+<details>
+  <summary> Phrasal Verbs </summary>
+
+> Verb combined with one or more particles (prepositions or adverbs) that function as a single unit with a meaning often different from the individual words. 
+
+Example: `give up, look after, Turn on/off, call off, bring down, figure out, came across, get over, etc` 
+```
+They turned off the lights.                                   turned off
+They've called off the meeting.                               called off
+I came across your email when I was clearing my inbox.        came across
+We are aware of the problem and we are looking into it.       looking into
+I get up at 7 a.m.                                            get up
+We've run out of fuel.                                        run out of
+What's going on here?                                         going on
+They've just gone, but they didn't 𝘨𝘦𝘵 𝘳𝘪𝘥 𝘰𝘧 the rubbish.     get rid of
+```
+
+</details>
+
 
 <details>
   <summary>  Conclusion : Verb </summary>
@@ -900,15 +1053,254 @@ She looks at the picture.   action verb = looks
 | **Linking Verb**      | Connects subject to description    | She **is** happy.                    |
 | **Transitive Verb**   | Takes an object                    | She **opened** the door.             |
 | **Intransitive Verb** | No direct object                   | She **laughed**.                     |
-| **Regular Verb**      | Normal past formation              | work → worked                        |
-| **Irregular Verb**    | Unusual past formation             | go → went                            |
+| **Regular Verb**      | Normal past formation              | work -> worked                        |
+| **Irregular Verb**    | Unusual past formation             | go -> went                            |
 | **Modal Verb**        | Ability, possibility, advice, etc. | She **can** swim.                    |
 | **Finite Verb**       | Shows tense/agreement              | He **works**.                        |
 | **Non-finite Verb**   | Infinitive/gerund/participle forms | to **work**, **working**, **worked** |
 
 
+A verb doesn't necessarily belong to only one category. <br/>
+One Verb can belong to multiple categories.
+```
+She writes a letter.     writes = [Main verb, Action verb, Transitive verb, Finite verb, Regular verb]
+She is writing a letter. is = [Helping Verb], writing = [Main Verb] , is writing = [verb phrase]
+```
+
 </details>
 
+<details>
+  <summary> Subject Verb Agreement Rules </summary>
+
+<br/> 
+
+The verb must agree with the subject in number (singular/plural) and, in some cases, person.
+
+#### Basic Rule
+
+| Singular subject --> singular verb |
+|------------------------------------|
+| **Plural subject --> plural verb** |
+
+```
+# Singular subject -> singular verb
+- He works here.
+- She plays cricket.
+- Rahul speaks English.
+- The dog runs fast.
+
+# Plural subject -> plural verb
+- They work here.
+- We play cricket.
+- Rahul and Amit speak English.
+- The dogs run fast.
+
+# Exception for I and You
+- You work here.
+- I play cricket.
+```
+
+| Subject                         |                  |               |
+| --------------------------------|------------------|---------------|
+| `I` (1st Person)                | Singular Subject | Plural Verb   |
+| `We` (1st Person)               | Plural Subject   | Plural Verb   |
+| `You` (2nd Person)              | Singular/Plural Subject | Plural Verb   |
+| `He`/`She`/`It`/`Any Name` (3rd Person) | Singular Subject | Singular Verb |
+| They    (3rd Person)            | Plural Subject   | Plural Verb   |
+
+Note : `You` can refer to one person or multiple people, but it takes the same verb form.
+
+**`s/es`**
+
+`He/She/It/Any name` -> `verb + s/es` <br/>
+`I/You/We/They`  -> `base verb`
+
+**`Have/Has`**
+| Subject | Verb |
+| ------- | ---- |
+| `I/We`  | have |
+| `You`   | have |
+| `He/She/It/Any Name` <br/> `They` | has <br/> have |
+
+```
+I have a car.
+We have a car.
+You have a car.
+He/She/Ram has a car.
+They have a car.
+```
+
+**`Do/Does`**
+| Subject | Verb |
+| ------- | ---- |
+| `I/We`  | do   |
+| `You`   | do   |
+| `He/She/It/Any Name` <br/> `They` | does <br/> do |
+
+```
+I do my work.
+We do our work.
+You do your work.
+He/She/Ram does his work.
+They do their work.
+```
+
+**`be`** : It is especially important because its forms change significantly.
+| Subject | Present  |
+| ------- | -------- |
+| `I`     | am/was   |
+| `We`    | are/were |
+| `You`   | are/were |
+| `He/She/It/Any Name` | is/was |
+| `They`  | are/were   |
+
+```
+I am ready.
+I was busy.
+We are ready.
+You are ready.
+He/She/Ram was busy.
+They were busy.
+```
+
+#### Two subjects joined by "and"  
+
+When two subjects are joined by and, the verb is usually form plural subject because the subject becomes plural.
+
+`Subject + and + Subject -> plural verb`
+```
+Rahul and Amit are friends.
+Tom and Jerry play together.
+My friend and his father live in Mumbai.
+```
+
+#### Two subjects joined by "Or" / "Nor"
+
+When subjects are joined by or or nor, the verb generally agrees with the subject closest to it.
+
+`Subject + or/nor + closest subject -> verb agrees with the closest subject.`
+```
+Rahul or Amit is coming.
+Rahul or his friends are coming.
+```
+
+#### Common singular indefinite subjects take singular verbs
+
+Even though `each` or `every` may refer to many people/things, the verb is generally singular. <br/>
+bcuz Each/Every is **one at a time** -> singular verb
+
+```
+Each student has a book.
+Every student needs a laptop.
+Each employee is responsible.
+```
+
+Common singular indefinite subjects : `everyone, everybody, someone, somebody, anyone, anybody, no one, nobody, each, every`
+
+```
+Everyone is ready.
+Everybody likes music.
+Someone has called you.
+Nobody knows the answer.
+```
+
+####  Uncountable nouns usually take singular verbs
+
+Uncountable nouns : `information, advice, knowledge, furniture, money, water, rice, etc`
+
+```
+The information is useful.
+The advice is helpful.
+The furniture is expensive.
+The money is missing.
+```
+
+#### Collective Nouns usually take singular verbs
+
+When the group is considered as one unit, a singular verb is commonly used.
+
+Collective nouns : `team, family, committee, class, audience, company, government`
+
+```
+The team is ready.
+The committee has made a decision.
+The family is happy.
+The company is growing.
+```
+
+#### "There is" vs "There are"
+
+The real subject comes after the verb.
+```
+There is a book on the table.       Subject = a book -> singular
+There are two books on the table.   Subject = two books -> plural
+There is a problem.
+There are several problems.
+```
+
+#### "A Number of" vs "The Number of"
+
+A number of -> plural, The number of -> singular
+```
+A number of students are absent.
+The number of students is increasing.
+```
+
+#### Amounts of time, money, distance take singular verbs
+
+When an amount is considered as one unit, we often use a singular verb.
+
+```
+Ten dollars/rupees is enough.
+Five years is a long time.
+Ten kilometers is too far for me.
+```
+
+But when referring to individual units, plural bcuz Here, we're thinking about individual dollar bills/coins rather than one total amount.
+```
+Ten dollars were lying on the table.
+```
+
+#### One of + Plural Noun -> take singular verbs bcuz the subject is one, not plural.
+
+```
+One of my friends is a doctor.
+One of the students has submitted the assignment.
+```
+
+#### Some nouns are always/usually plural
+
+```
+The scissors are on the table.
+My trousers are new.
+These clothes are expensive.
+```
+
+#### "As well as", "Along with", "Together with"
+
+These expressions do not make the subject plural.
+```
+Rahul, along with his friends, is coming.       Main subject = Rahul -> singular.
+Rahul and his friends are coming.               "and" makes it a compound subject.
+
+The teacher, as well as the students, is attending the meeting.   Main subject = teacher -> singular.
+```
+
+#### Subjects ending in "-s" can still be singular
+
+```
+Mathematics is difficult.
+Physics is interesting.
+Economics is an important subject.
+```
+
+These subjects end in s but they're singular.
+
+
+</details>
+
+Adjective
+---
 
 </details>
 <!----------------VERB------------------------->
@@ -932,8 +1324,11 @@ He has a red car.         adj = red   -> which one?
 I have three books.       adj = three -> how many? 
 ```
 
+Adverbs
+---
+
 </details>
-<!----------------------------------------->
+<!-----------------ADJECTIVE------------------------>
 
 <details>
   <summary> 5. <b> Adverbs </b> </summary>
@@ -955,9 +1350,12 @@ They reached there late.    adverb = late     -> when?
 
 ```
 
+Prepositions
+---
 
 </details>
-<!----------------------------------------->
+<!---------------ADVERB-------------------------->
+
 
 <details>
   <summary> 6. <b> Prepositions </b> </summary>
@@ -980,8 +1378,12 @@ Choose between two people.       preposition = between
 I'm from India.                  preposition = from 
 ```
 
+Conjunctions
+---
+
 </details>
-<!----------------------------------------->
+<!--------------PREPESOTIONS--------------------------->
+
 
 <details>
   <summary> 7. <b> Conjunctions </b> </summary>
@@ -999,8 +1401,11 @@ I stayed home because it was raining.  conjunction = because
 Study hard or you may fail.            conjunction = or
 ```
 
+Interjections
+---
+
 </details>
-<!----------------------------------------->
+<!----------------CONJUNCTIONS------------------------->
 
 
 <details>
@@ -1020,6 +1425,9 @@ Hurray! We won the match. Interjection =
 Interjection =
 Interjection = 
 ```
+
+Conclusion
+---
 
 </details>
 <!----------------------------------------->
