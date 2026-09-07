@@ -876,6 +876,98 @@ I can speak English.
 She should study.
 
 ```
+</details>
+
+<details>
+  <summary> Auxiliary Verbs </summary>
+
+<br/>
+
+> A verb that uses a helping verb along with a main verb in a sentence is known as an Auxiliary verb. It is used to express moods, voice, and tense.
+
+Example : `is/am/are, has/have/had, has/have/had been, may/might, can/could, shall/should, Will/would, do/does/did, Ought to, need, must`
+
+```
+I am walking to the store.                    auxiliary verb = am
+She has finished her homework.                auxiliary verb = has
+We will be going on vacation next month.      auxiliary verb = will be 
+He could have studied harder for the test.    auxiliary verb = could have
+They are going to the party tonight.          auxiliary verb = are going to
+I should have been more careful.              auxiliary verb = should have been
+The children were playing in the park.        auxiliary verb = were
+She must finish her project by tomorrow.      auxiliary verb = must
+I might have seen him at the concert.         auxiliary verb = might have
+He is still sleeping.                         auxiliary verb = is
+```
+  
+- Auxiliary verbs are needed to make our sentences more exciting and impressive. 
+- Auxiliary verbs are the first step in forming a complete sentence. 
+- When It is used with the main verb, auxiliary verbs finish sentences. 
+- Using auxiliary verbs is about expressing your feelings, making a statement, asking a question, or giving a command.
+
+
+#### Types of Auxiliary Verbs
+
+1. **Primary Auxiliary Verbs** 
+> Helping verbs, commonly referred to as auxiliary verbs, are used in sentences to support the primary verb.
+
+Examples: `be, do, have, will, shall, may, can, must, ought, should, could, and would`
+
+Primary auxiliary verbs include `to be, to have`.
+
+Examples:
+```
+She had been studying all night.
+He could not finish the task.
+I must go now.
+She should have done it.
+We may go to the movies.
+```
+
+2. **Modal Verbs**
+> Modal verbs are auxiliary verbs that express many meanings, such as probability, necessity, obligation, permission, and ability.
+
+They are one of the essential components of English grammar and can be used to express various meanings. <br/>
+Each of these verbs has a different purpose and usage, so it is necessary to understand the nuances of each one.
+
+Examples:
+```
+I can speak Spanish.
+You might want to try this new restaurant.
+You must obey the law.
+You ought to study more.
+May I have a cookie?
+```
+
+`Can` is for expressing possibility, permission, or ability. 
+```
+I can speak Hindi.                "can" is saying the speaker's ability to speak Hindi. 
+```
+
+`Could` is a polite way to express prior potential or ability.
+```
+I could speak Hindi as a child.  "could" tell the speaker's past ability to speak Hindi. 
+```
+
+`May` is a word used to indicate possibility or permission. 
+```
+May I have a cookie?             "May" is for asking for permission to have a cookie politely. 
+```
+
+`Might` is for expressing possibility or a polite request. 
+```
+You might want to try this new restaurant. "might" say the likelihood that the listener might want to try the new restaurant. 
+```
+
+`Must` is used to express necessity or strong obligation.
+```
+You must obey the law.            "must" say the vital duty to obey the law. 
+```
+
+`Ought to` is used to express obligation or advice. 
+```
+You ought to study more.          "ought to" is to advise you to study more. 
+```
 
 </details>
 
@@ -1174,7 +1266,7 @@ Tom and Jerry play together.
 My friend and his father live in Mumbai.
 ```
 
-#### Two subjects joined by "Or" / "Nor"
+#### Two subjects joined by "Or"/"Nor"
 
 When subjects are joined by or or nor, the verb generally agrees with the subject closest to it.
 
@@ -1215,18 +1307,34 @@ The furniture is expensive.
 The money is missing.
 ```
 
-#### Collective Nouns usually take singular verbs
+#### Collective Nouns usually take singular verbs but some
 
-When the group is considered as one unit, a singular verb is commonly used.
+When the group is considered as one unit, a singular verb is commonly used. But It also depends on the context whether group acts as a single unit or as individual members.
 
-Collective nouns : `team, family, committee, class, audience, company, government`
+Collective nouns : `team, family, committee, class, audience, company, government, jury`
 
 ```
 The team is ready.
 The committee has made a decision.
 The family is happy.
 The company is growing.
+---------------------------------------
+The team is winning the match.              Singular (unit)
+The team are arguing among themselves.      Plural (individuals)
+
+The audience was silent.                    Singular (unit)
+The audience were clapping and cheering.    Plural (individuals)
+
+The jury has reached a verdict.             Singular (unit)
+The jury are divided on the evidence.       Plural (individuals)
+
+The class is taking a test                  Singular (unit)
+The class are chatting during the exam.     Plural (individuals)
+
+The family is having dinner together.        Singular (unit)
+The family are all different personalities.  Plural (individuals)
 ```
+
 
 #### "There is" vs "There are"
 
@@ -1286,6 +1394,19 @@ Rahul and his friends are coming.               "and" makes it a compound subjec
 The teacher, as well as the students, is attending the meeting.   Main subject = teacher -> singular.
 ```
 
+### "few", "many", "several", "some" and "both" take plural verbs
+
+`few, many, several, some, and both` are always treated as plural and therefore take plural verbs.
+
+```
+Several  are absent.
+Both the applicants are qualified.
+Many of the students have completed the assignment.
+Few people know the truth.
+Several of the cars were damaged.
+Some people in homeroom are very annoying.
+```
+
 #### Subjects ending in "-s" can still be singular
 
 ```
@@ -1294,8 +1415,142 @@ Physics is interesting.
 Economics is an important subject.
 ```
 
-These subjects end in s but they're singular.
+These subjects end in `s` but they're singular.
 
+</details>
+
+<details>
+  <summary> Verb Forms </summary>
+
+<br/>
+
+Verb forms are the foundation for **tenses, active/passive voice, narration** and many other grammar topics.
+
+There are 5 verb forms :
+| Form   | Name                           | Example |
+| ------ | ------------------------------ | ------- |
+| **V1** | Base form                      | go      |
+| **V2** | Past form                      | went    |
+| **V3** | Past participle                | gone    |
+| **V4** | -ing form / Present participle | going   |
+| **V5** | s/es form                      | goes    |
+
+#### V1 - Base Form
+
+V1 is the **basic/dictionary form** of the verb.
+
+Examples: `go, eat, work, play, write, speak, read, come, etc`
+
+**Where do we use V1?**
+
+1. With I, You, We, They
+```
+I work here.
+They play cricket.
+We speak English.
+```
+
+2. After modal verbs
+```
+I can work.
+She can speak English.
+They should study.
+```
+
+3. After "do/does/did"
+```
+Do you work here?
+Does he/she work here?
+Did they go there?
+```
+
+#### V2 - Past Form
+
+V2 is generally used for the **simple past tense**.
+
+Examples: `went, eate, worked, played, wrote, spoke, read, came, etc`
+
+V2 normally tells us that an action happened in the past.
+
+
+```
+I worked yesterday.
+She went to Delhi.
+They played cricket.
+He wrote a letter.
+```
+
+#### V3 - Past Participle
+
+The past participle is a verb form that expresses a **completed action or a passive/received state**. <br/> 
+It is the third principal part of a verb(V3).
+
+
+1. V3 is commonly used with **Perfect (completed) aspect `Have/Has/Had`**
+```
+She has eaten.                    -> the eating is complete. 
+I have finished my work.          -> the work is finished.
+She has gone home.                -> the going is complete.
+They had completed the project.   -> the project work is completed.
+```
+
+2. V3 is used with **Passive voice**
+```
+The work was completed.
+The letter was written by Rahul.
+The car was stolen.
+```
+
+3. V3 is used with **Adjective (descriptive)** <br/>
+It describes a noun's state resulting from a past action:
+```
+a broken window
+a tired employee
+an excited student
+```
+
+#### V4 - `-ing` Form
+
+The **V-ing form (base verb + -ing)** is the form of a verb.
+
+V4(ing) is used :
+1. Present Participle - acts as a verb or adjective:
+
+Continuous tenses: (am/is/are + V-ing)
+```
+She is running in the park.                              Present Continuous
+They are studying for exams.                             Present Continuous	
+I am reading a novel right now.                          Present Continuous	
+He was sleeping when you called.                         Past Continuous	
+We were waiting for the bus.                             Past Continuous	
+She will be travelling tomorrow.                         Future Continuous	
+They have been working since 9 AM.                       Present Perfect Continuous
+I had been cooking for an hour before dinner was ready.  Past Perfect Continuous
+```
+Adjective: describing a person, thing etc
+```
+a boring lecture
+a smoking chimney
+a crying baby
+a hard-working employee
+a confusing statement
+```
+2. Gerund - acts as a noun (subject, object, or object of a preposition)
+```
+Swimming is fun.                  Subject
+Smoking is injurious to health.   Subject
+I enjoy reading.                  Object
+She is good at drawing.           Object (After preposition)
+```
+
+#### Rules of formation of V+ing
+
+| Rule	                   | Example         |
+|--------------------------|-----------------|
+| 1. Add -ing              | play -> playing |
+| 2. Drop final -e         | make -> making  |
+| 3. Double final consonant| run  -> running |
+| 4. Change -ie -> y	     | lie  -> lying   |
 
 </details>
 
@@ -1310,12 +1565,12 @@ Adjective
 
 <br/>
 
-> **Adjectives are words that describe or modify nouns.**
+> **Adjectives are words that describe or modify nouns(person, place, thing, or idea).**
 
-Like What kind?, Which one?, How many?
+Like **What kind?, Which one?, How many? How much? Whose?**
 
-Examples : intelligent, good, bad, beautiful, smart, big, small, difficult, easy, interesting, 
-expensive, new, old, red
+Examples : `intelligent, good, bad, beautiful, smart, big, small, difficult, easy, interesting, 
+expensive, new, old, red`
 
 ```
 I bought a new laptop.    adj = new   -> what kind? 
@@ -1323,6 +1578,591 @@ She is a smart student.   adj = smart -> what kind?
 He has a red car.         adj = red   -> which one? 
 I have three books.       adj = three -> how many? 
 ```
+
+Adjective's function is to further define and quantify a noun/pronoun that can create a major difference between the two.
+
+Examples: `Beautiful, sleeveless, edible, meaningless, beautiful, adorable, gorgeous, breakable, homeless, big, old,  green,  antique, more intelligent, prettiest, worse, aggressive, agreeable, ambitious, brave, calm, delightful, eager, faithful, glamorous, gorgeous, handsome, long, magnificent, muscular, short, skinny, stocky, ugly etc.`
+
+```
+1. He wore a beautiful suit.
+2. A wooden house.
+3. I like that really big, old, green antique bike that is parked here.
+4. Ram is taller than Mohan.
+5. Mohit is a part-time worker.
+```
+
+#### Classification of Adjectives
+
+```
+                                          Adjectives
+                                              |                                              
+      --------------------------------------------------------------------------------
+      |                       |                           |                          |
+1. Possessive Adj             2. Interrogative Adj        3. Demonstrative Adj       4. Compound Adj
+
+5. Adjective of Quality       6. Adjective of Quantity    7. Adjective of Number     8. Distributive Adjective
+
+9. Proper Adjective           10. Participial Adjective   
+
+```
+
+<details>
+  <summary> 1. Possessive Adjectives </summary>
+
+<br/>
+
+> It tells us who owns something.
+
+| Person | Possessive adjective |
+| ------ | -------------------- |
+| I      | my                   |
+| You    | your                 |
+| He     | his                  |
+| She    | her                  |
+| It     | its                  |
+| We     | our                  |
+| They   | their                |
+
+Possessive adjective is normally followed by a noun: `my book, your phone, his/her car, our team, their house, etc`
+```
+This is my book.
+Where is your phone?
+That is his car.
+She forgot her book.
+Our team won.
+Their house is beautiful.
+```
+
+Possessive adjective vs Possessive pronoun
+```
+This is my book.        my = possessive adjective
+This book is mine.      mine = possessive pronoun
+```
+
+</details> 
+
+<details>
+  <summary> 2. Interrogative Adjectives </summary>
+
+<br/>
+
+> It is used **to ask a question about a noun**.
+
+Common words: `what, which, whose, when, where, why, how, etc` 
+
+```
+What book are you reading?
+Which car do you prefer?
+Whose phone is this?
+```
+
+Interrogative adjective vs Interrogative pronoun
+```
+Which book do you want?   adj + noun -> Interrogative adjective
+Which do you want?        interrogative pronoun
+```
+
+</details> 
+
+<details>
+  <summary> 3. Demonstrative Adjective </summary>
+
+<br/>
+
+> It points to a particular noun.
+
+The four common words are:
+| Word  | Meaning         |
+| ----- | --------------- |
+| this  | singular + near |
+| that  | singular + far  |
+| these | plural + near   |
+| those | plural + far    |
+
+```
+This book is interesting.       This
+That car is expensive.          That
+These shoes are new.            These
+Those buildings are very old.   Those
+```
+
+Demonstrative Adjective vs Demonstrative Noun
+```
+This book is mine.  Demonstrative Adj = This
+This is mine.       Demonstrative Noun = This
+```
+
+</details>
+
+
+<details>
+  <summary> 4. Compound Adjectives </summary>
+
+<br/>
+
+> A compound adjective consists of two or more words working together to describe a noun.
+
+Often compound adjective are connected with a hyphen(-).
+
+```
+He is a well-known actor.            compound adj = well-known
+She bought a five-year-old car.      compound adj = five-year-old
+This is a high-speed train.          compound adj = high-speed
+He gave me a full-time job.          compound adj = full-time
+She lives in a two-story building.   compound adj = two-story
+
+All of these adjectives are describing nouns.
+```
+
+</details> 
+
+<details>
+  <summary> 5. Adjective of Quality </summary>
+
+<br/>
+
+> It tells us what kind of person or thing the noun is. <br/>
+It describes qualities, characteristics, appearance, size, color, etc.
+
+Adjectives: `smart, beautiful, large, red, honest, etc`
+```
+He is a smart boy.                smart
+She bought a beautiful dress.     beautiful
+It is a large house.              large
+I have a red car.                 red
+Rahul is a honest person.         honest
+```
+
+</details>
+
+<details>
+  <summary> 6. Adjective of Quantity </summary>
+
+<br/>
+
+> It tells us how much of something there is. <br/>
+It is generally used with uncountable nouns.
+
+Examples: `some, much, little, enough, sufficient, more, less, no, etc`
+
+```
+I have some water.              some
+There is little milk left.      little
+He has enough money.            enough
+We need more information.       more
+I have no respect for him.      no
+```
+
+</details>
+
+<details>
+  <summary> 7. Adjective of Number </summary>
+
+> It tells us **how many people or things there are, or their order**. <br/>
+It is generally used with **countable nouns**.
+
+| Adjective Numbers                                     |
+|-------------------------------------------------------|
+| Cardinal numbers: one, two, three, four,...... ten    |
+| Ordinal numbers: first, second, third, fourth,......  |
+| Indefinite numbers: many, few, several, some          |
+
+```
+I have three books.                      three
+She has two brothers.                    two
+Several students attended the meeting.   several
+He came first in the race.               first
+```
+
+</details>
+
+<details>
+  <summary> 8. Distributive Adjective </summary>
+
+<br/>
+
+> It refers to members of a group individually.
+
+Examples: `each, every, either, neither etc`
+
+```
+Each student received a certificate.       Each  modifying student
+Every employee must attend the meeting.    Every modifying employee
+You can take either option.                either modifying option
+Neither answer is correct.                 Neither modifying answer
+```
+
+</details>
+
+<details>
+  <summary> 9. Proper Adjective </summary>
+
+<br/>
+
+> A proper adjective is formed from a proper noun and describes something related to that proper noun.
+
+| Proper noun | Proper adjective |
+| ----------- | ---------------- |
+| India       | Indian           |
+| America     | American         |
+| China       | Chinese          |
+| Japan       | Japanese         |
+| Shakespeare | Shakespearean    |
+| France      | French           |
+| Russia      | Russian          |
+
+Proper adjectives normally begin with a capital letter.
+```
+I love Indian food.
+She is studying American history.
+We visited a Japanese restaurant.
+He enjoys Shakespearean literature.
+```
+
+
+</details>
+
+<details>
+  <summary> 10. Participial Adjective </summary>
+
+<br/>
+
+> These adjectives come from verb forms, especially V3 (-ed) and V4 (-ing) forms.
+
+```
+I watched an interesting movie.   adjective = interesting
+I was interested in the movie.    adjective = interested
+It was a boring lecture.          adjective = boring
+Teacher is lecturing us.          adjective = lecturing
+The students were bored.          adjective = bored
+The teacher is confusing.         adjective = confusing
+The students are confused.        adjective = confused
+```
+
+</details>
+
+<details>
+  <summary> Adjective Rules </summary>
+
+### One sentence can have multiple adjectives
+
+**A noun can have several adjectives**.
+```
+1. She bought a beautiful red Italian dress.
+- beautiful (quality)
+- red (color/quality)
+- Italian (proper adj)
+All three describe dress.
+
+2. I bought three expensive new phones.
+- three (number)
+- expensive (quality)
+- new (quality)
+All three describe phones
+```
+
+### Adjective Position
+
+Adjectives commonly appear in two positions.
+1. Before the noun i.e. **attributive position**
+```
+a beautiful girl
+a big house
+an interesting book
+```
+2. After a linking verb i.e. **predicative position**
+```
+The girl is beautiful.
+The house is big.
+The book is interesting.
+```
+
+</details>
+
+<details>
+  <summary> Adjective vs Adverb </summary>
+
+<br/>
+
+> - **Adjective** describes a noun or pronoun.
+> - **Adverb** describes a verb, adjective, or another adverb.
+
+```
+He is a quick runner.     adj = quick describes runner(Noun)
+He runs quickly.          adv = quickly describes how he runs(Verb)
+```
+
+| Adjective | Adverb      |
+| --------- | ----------- |
+| quick     | quickly     |
+| slow      | slowly      |
+| careful   | carefully   |
+| beautiful | beautifully |
+| loud      | loudly      |
+| easy      | easily      |
+| happy     | happily     |
+| quiet     | quietly     |
+| easy      | easily      |
+| loud      | loudly      |
+| angry     | angrily     |
+| bad       | badly       |
+
+```
+She is a beautiful singer.    adj = beautiful describes singer(Noun)
+She sings beautifully.        adv = beautifully describes sings(Verb)
+
+She is a careful driver.      adj = careful describes driver(Noun)
+She drives carefully.         adv = carefully describes drives(Verb)
+
+He is a quick learner.        adj = quick describes learner(Noun)
+He learns quickly.            adv = quickly describes learns(Verb)
+
+She is very beautiful.        adv = very describes beautiful(Adjective)
+He is extremely intelligent.  adv = extremely describes intelligent(Adjective)
+The exam was quite difficult. adv = quite describes difficult(Adjective)
+
+He runs very quickly.         adv = very describes quickly(Adverb)
+She speaks extremely slowly.  adv = extremely describes slowly(Adverb)
+```
+
+
+
+Not every adverb ends in "-ly". There are exceptions such as **fast, hard, late, well**.
+```
+He runs fast.                 adv = fast
+She works hard.               adv = hard
+He arrived late.              adv = late
+She sings well.               adv = well
+```
+
+#### Some words can be both adjective and adverb
+
+```
+He is a fast runner.      fast = adjective bcuz it describes runner(Noun)
+He runs fast.             fast = adverb bcuz it describes runs(Verb)
+
+This is hard work.       hard = adjective bcuz it describes work(Noun)
+He works hard.           hard = adverb bcuz it describes works(Verb)
+
+I caught the late train.  late = Adj
+I arrived late.           late = Adv
+
+I took the early train.   early = Adj
+I arrived early.          early = Adv
+```
+
+#### good vs well
+
+```
+She is a good singer.
+She sings well.
+
+She sings good. [Wrong] -> She is a good singer. [Right]
+She sings well.
+```
+
+
+</details>
+
+<details>
+  <summary> Conclusion - Adjectives </summary>
+
+<br/>
+
+| Type              | Main purpose                 | Examples                       |
+| ----------------- | ---------------------------- | ------------------------------ |
+| **Quality**       | Tells what kind              | good, beautiful, smart, red    |
+| **Quantity**      | Tells how much               | some, much, little, enough     |
+| **Number**        | Tells how many/order         | one, three, first, several     |
+| **Demonstrative** | Points to noun               | this, that, these, those       |
+| **Possessive**    | Shows ownership              | my, your, his, her, our, their |
+| **Interrogative** | Asks about noun              | what, which, whose             |
+| **Distributive**  | Refers individually          | each, every, either, neither   |
+| **Proper**        | Derived from proper noun     | Indian, American, Japanese     |
+| **Compound**      | Multiple words describe noun | well-known, five-year-old      |
+| **Participial**   | From verb forms              | interesting, bored, exciting   |
+
+
+Example:
+```
+1. The very intelligent student answered the question extremely quickly.
+
+intelligent = adjective bcuz describes student
+very = adverb bcuz describes intelligent
+quickly = adverb bcuz describes answered
+extremely = adverb bcuz describes quickly
+```
+
+</details>
+
+<details>
+  <summary> Degrees of Comparison of Adjectives </summary>
+
+<br/>
+
+> To show different levels of intensity or to compare nouns/pronouns: **Positive, Comparative, and Superlative**.
+
+These three degrees of adjectives reflect the strength of the adjective
+
+| Degree          | Meaning                | Example |    Rules                      |
+| --------------- | ---------------------- | ------- |-------------------------------|
+| **Positive**    | Basic quality          | good    | use `a/an` if required        |
+| **Comparative** | Compares **two**       | better  | use `than` after comparative  |
+| **Superlative** | Compares **3 or more** | best    | use `the` before superlative  |
+
+```
+Rahul is tall.                          Positive Degree
+Rahul is a good player.                 Positive Degree
+Rahul is better than Amit.              Comparative Degree
+Rahul is the best player on the team.   Superlative Degree
+```
+
+**1. Positive Degree**
+
+This is the **basic form of the adjective**.
+
+We use `a/an` before positive degree if required otherwise not.
+
+Examples: `tall, good, beautiful, fast, intelligent, expensive, etc`
+
+```
+1. Rahul is tall.         Positive Degree
+- We are simply describing Rahul.
+- No comparison is necessary.
+
+2. He is a good man.              Positive Degree
+3. She is an intelligent girl.    Positive Degree
+```
+
+**2. Comparative Degree**
+
+It is used when comparing two people or things.
+
+We use `than` after comparative degree.
+
+Examples: `taller, faster, smaller, stronger, more beautiful, more intelligent, etc`
+
+```
+Rahul is taller than Amit.                    Comparative Degree
+This car is more expensive than that car.     Comparative Degree
+```
+
+**3. Superlative Degree** 
+
+It is used when comparing three or more people/things and identifying the highest or lowest degree.
+
+We use `than` after comparative degree.
+
+Examples: `tallest, fastest, smallest, strongest, most beautiful, most intelligent, etc`
+
+```
+Rahul is the tallest student in the class.        Superlative Degree   
+This is the most expensive car in the showroom.   Superlative Degree 
+```
+
+| Positive  | Comparative  | Superlative   |
+| --------- | ------------ | ------------- |
+| tall      | taller       | tallest       |
+| fast      | faster       | fastest       |
+| small     | smaller      | smallest      |
+| big       | bigger       | biggest       |
+| hot       | hotter       | hottest       |
+| thin      | thinner      | thinnest      |
+| beautiful   | more beautiful   | most beautiful   |
+| intelligent | more intelligent | most intelligent |
+| expensive   | more expensive   | most expensive   |
+| happy    | happier     | happiest    |
+| easy     | easier      | easiest     |
+| busy     | busier      | busiest     |
+| good     | better      | best        |
+| bad      | worse       | worst       |
+| little   | less        | least       |
+
+
+
+#### Rule 1. Most adjectives do follow the normal `-er/-est` pattern.
+
+| Positive  | Comparative  | Superlative   |
+| --------- | ------------ | ------------- |
+| tall      | taller       | tallest       |
+| fast      | faster       | fastest       |
+| small     | smaller      | smallest      |
+| young     | younger      | youngest      |
+| strong    | stronger     | strongest     |
+| smart     | smarter      | smartest      |
+| weak      | weaker       | weakest       |
+| late      | later        | latest        |
+| strange   | stranger     | strangest     |
+| old       | older        | oldest        |
+| wise      | wiser        | wisest        |
+
+
+```
+Ram is tall.
+Ram is taller than Shyam.
+Ram is the tallest in the class.
+```
+
+#### Rule 2. When an adjective ends in a consonant + vowel + consonant, we double the consonant and add `-er/-est` 
+
+| Positive  | Comparative  | Superlative   |
+| --------- | ------------ | ------------- |
+| big       | bigger       | biggest       |
+| hot       | hotter       | hottest       |
+| thin      | thinner      | thinnest      |
+| sad       | sadder       | saddest       |
+| flat      | flatter      | flattest      |
+
+
+#### Rule 3. Some adjectives don't follow the normal `-er/-est` pattern
+
+| Positive | Comparative     | Superlative       |
+| -------- | --------------- | ----------------- |
+| good     | better          | best              |
+| bad      | worse           | worst             |
+| little   | less            | least             |
+| much     | more            | most              |
+| many     | more            | most              |
+| far      | farther/further | farthest/furthest |
+
+```
+This is good.
+This is better than that.
+This is the best option.
+```
+
+#### Rule 4. Adjectives ending with "y" usually `y -> i + er/est`
+
+| Positive | Comparative | Superlative |
+| -------- | ----------- | ----------- |
+| happy    | happier     | happiest    |
+| easy     | easier      | easiest     |
+| busy     | busier      | busiest     |
+| lazy     | lazier      | laziest     |
+| crazy    | crazier     | craziest    |
+| dirty    | dirtier     | dirtiest    |
+| ugly     | uglier      | ugliest     |
+| pretty   | prettier    | prettiest   |
+| healthy  | healthier   | healthiest  |
+| heavy    | heavier     | heaviest    |
+
+#### Rule 5. Many longer adjectives, we don't follow `-er/-est` rather we use `more/most`
+
+| Positive    | Comparative      | Superlative       |
+| ----------- | ---------------- | ----------------- |
+| beautiful   | more beautiful   | most beautiful    |
+| intelligent | more intelligent | most intelligent  |
+| expensive   | more expensive   | most expensive    |
+| difficult   | more difficult   | most difficult    |
+| important   | more important   | most important    |
+| interesting | more interesting | most interesting  |
+| active      | more active      | most active       |
+| confused    | more confused    | most confused     |
+| famous      | more famous      | most famous       |
+| popular     | more popular     | most popular      |
+
+
+</details>
 
 Adverbs
 ---
@@ -1335,20 +2175,150 @@ Adverbs
 
 <br/>
 
-> **Adverbs are words that modify verbs, adjectives, or other adverbs.**
+> **Adverbs are words that modify/describe verbs, adjectives, or another adverbs.**
 
 Like How? When? Where? How often?
 
-Examples : quickly, slowly, very, quite, quickly, carefully, always, never, often, sometimes, really, yesterday, 
-today, tomorrow
+Examples : `quickly, slowly, very, quite, quickly, carefully, always, never, often, sometimes, really, yesterday, 
+today, tomorrow etc`
 
 ```
-He runs quickly.            adverb = quickly  -> How?
-I will call you tomorrow.   adverb = tomorrow -> when?
-I always study Maths.       adverb = always   -> How often?
-They reached there late.    adverb = late     -> when?
-
+He runs quickly.               adverb = quickly  -> How?
+I will call you tomorrow.      adverb = tomorrow -> when?
+I always study Maths.          adverb = always   -> How often?
+They reached there late.       adverb = late     -> when?
+He arrived yesterday.          adverb = tomorrow -> when?
+The book is very interesting.  adverb = very -> when?
 ```
+
+### Types of Adverb
+
+1. Adverb of Manner
+2. Adverb of Place
+3. Adverb of Time
+4. Adverb of Quantity / Range
+5. Adverb of Affirmation or Negation
+6. Adverb of Reason
+7. Interrogative Adverbs
+8. Relative Adverbs
+
+<details>
+  <summary> 1. Adverb of Manner </summary>
+
+<br/>
+
+> Adverbs that **show how an action is performed** are called Adverbs of Manner.
+
+Example: `Fast, Hard, slow, bravely, foolishly, wisely, loudly, soundly, badly, carefully, fluently, beautifully, clearly, slowly, quickly, carefully, easily, happily, quietly, loudly, badly, well, etc`
+
+**How?**
+```
+He speaks slowly.                     speak, How? = slowly (adverb)
+She works carefully.                  works, How? = carefully (adverb)
+Rahul completed the task quickly.     completed the task, How? = quickly (adverb)
+She answered the question correctly.  answered the question, How? = correctly (adverb)
+They played well.                     played, How? = well (adverb)
+The lion ran fast.                    ran, How? = fast (adverb)
+She works hard.                       works, How? = hard (adverb)
+He fought bravely.                    fought, How? = bravery (adverb)
+```
+
+
+</details>
+
+<details>
+  <summary> 2. Adverb of Place </summary>
+
+<br/>
+
+> Adverbs that **express place** are called Adverbs of Place.
+
+Example: `here, there, away, down, anywhere, everywhere, above, below, somewhere, anywhere, inside, outside, upstairs, downstairs, nearby, etc`
+
+**Where?**
+```
+Come here.                          come, where? = here (adverb)
+He lives there.                     live, where? = there (adverb)
+The children are playing outside.   playing, where? = outside (adverb)
+She looked everywhere.              looked, where? = everyhere (adverb)
+She was sitting here.               sitting, where? = here (adverb)
+She looked up.                      looked, where? = up (adverb)
+The dog is sleeping outside.        sleeping, where? = outside (adverb)
+```
+
+</details>
+
+<details>
+  <summary> 3. Adverb of Time  </summary>
+
+<br/>
+
+> Adverbs that **indicate when an action happens** are called Adverb of time.
+
+Examples: `now, then, today, tomorrow, yesterday, soon, later, recently, already, finally, last night, last day, last week, etc.`
+
+
+**When?**
+```
+I will call you tomorrow.                    call you, when? = tomorrow (adverb)
+She arrived yesterday.                       arrived, when? = yesterday (adverb)
+He is working now.                           working, when? = now (adverb)
+We will meet soon.                           meet, when? = soon (adverb)
+They saw me yesterday.                       saw me, when? = yesterday (adverb)
+Parul arrived late.                          arrived, when? = late (adverb)
+Radha will arrive soon.                      arrive, when? = soon (adverb)
+Rahul completed the project yesterday.       completed the project, when? = yesterday (adverb)
+```
+
+</details>
+
+
+<details>
+  <summary> 4.  </summary>
+
+<br/>
+
+> 
+
+</details>
+
+
+<details>
+  <summary> 1.  </summary>
+
+<br/>
+
+> 
+
+</details>
+
+<details>
+  <summary> 1.  </summary>
+
+<br/>
+
+> 
+
+</details>
+
+
+<details>
+  <summary> 1.  </summary>
+
+<br/>
+
+> 
+
+</details>
+
+<details>
+  <summary> 1.  </summary>
+
+<br/>
+
+> 
+
+</details>
 
 Prepositions
 ---
