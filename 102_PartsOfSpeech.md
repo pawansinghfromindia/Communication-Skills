@@ -2196,11 +2196,13 @@ The book is very interesting.  adverb = very -> when?
 1. Adverb of Manner
 2. Adverb of Place
 3. Adverb of Time
-4. Adverb of Quantity / Range
-5. Adverb of Affirmation or Negation
-6. Adverb of Reason
-7. Interrogative Adverbs
-8. Relative Adverbs
+4. Adverb of Number/Frequency
+5. Adverb of Quantity/Range 
+6. Adverb of Reason/Purpose
+7. Adverb of Affirmation and Negation
+8. Interrogative Adverbs
+9. Relative Adverbs
+10. Conjunctive Adverbs
 
 <details>
   <summary> 1. Adverb of Manner </summary>
@@ -2272,51 +2274,247 @@ Rahul completed the project yesterday.       completed the project, when? = yest
 
 </details>
 
-
 <details>
-  <summary> 4.  </summary>
+  <summary> 4. Adverb of Number/Frequency </summary>
 
 <br/>
 
-> 
+> Adverbs that show how often an action occurs are called adverbs of frequency.
+
+It tells us **how often something happens**.
+
+Examples: `once, twice, thrice, again, firstly, secondly, etc.`
+
+Frequency : `always, usually, normally, often, frequently, sometimes, rarely, seldom, never`
+
+```
+I always wake up early.
+She usually comes on time.
+He often plays cricket.
+They sometimes go out.
+I never drink coffee.
+The farmer called again.
+She always tries to do her best. 
+SSC student frequently comes unprepared.
+```
+
+</details>
+
+<details>
+  <summary> 5. Adverb of Quantity/Range </summary>
+
+<br/>
+
+> Adverbs that express the amount or degree of an adjective, a verb, or another adverb are called adverbs of quantity.
+
+It tells us how much, to what extent, or how strongly something happens or how strong an adjective/adverb is.
+
+Examples: `too, very, quite, enough, rather, fairly, extremely, quite, almost, nearly, enough, completely, totally, really, so, etc`
+
+```
+My daughter was too careless.
+She was very tired.
+The fruits are almost ripe.
+He is very intelligent.
+
+She is extremely happy.
+The movie was quite interesting.
+I am too tired.                  adverb too modifies tired 
+She is very beautiful.           very modifies the adjective beautiful
+He runs very quickly.            adverb modifying another adverb
+```
+
+</details>
+
+<details>
+  <summary> 6. Adverb of Reason/Purpose </summary>
+
+<br/>
+
+> It shows **why something happens** or the result/purpose connected with an action.
+
+Examples: `therefore, hence, thus, consequently, etc`
+
+```
+He was ill; therefore, he stayed home.             reason(cause)
+It was raining; therefore, we canceled the trip.
+He worked hard; therefore, he passed the exam.
+She, therefore, left the school.
+He was therefore fined.
+```
 
 </details>
 
 
 <details>
-  <summary> 1.  </summary>
+  <summary> 7. Adverb of Affirmation and Negation </summary>
 
 <br/>
 
-> 
+Adverb of Affirmation
+> It expresses **yes, certainty, agreement, or confirmation**.
+
+Examples: `surely, certainly, indeed, definitely, undoubtedly, obviously etc`
+```
+Probably he will lose.                        Adv of aff = Probably
+Certainly I will win.                         Adv of aff = certainly
+He will certainly come.                       Adv of aff = certainly
+She is definitely coming.                     Adv of aff = definitely
+I surely remember him.                        Adv of aff = surely
+They will indeed help us.                     Adv of aff = indeed
+Rahul will definitely attend the meeting.     Adv of aff = definitely
+```
+
+Adverb of Negation
+> It expresses **no, denial, or negative meaning**.
+
+Examples: `not, never, nowhere, hardly, not at all, scarcely, etc`
+
+**Note : not is one of the most common adverbs.**
+
+```
+I do not know.
+She has never visited Delhi.
+He is not ready.
+I could hardly hear him.
+```
+
+</details>
+
+
+<details>
+  <summary> 8. Interrogative Adverb </summary>
+
+<br/>
+
+> These are adverbs **used to ask questions**.
+
+Examples : `when, where, why, how` 
+
+```
+When are you coming?      When asks about the time.
+Where do you live?        Where asks about the place of the action.
+Why are you angry?        How asks about the reason
+How did you solve it?     How asks about the manner/method
+```
+
+There are 6 types of Interrogative Adverbs:
+```
+Interrogative Adverbs of Time - e.g: When will you return?
+Interrogative Adverbs of Place - e.g: Where do you live?
+Interrogative Adverbs of Numbers - e.g: How many boys were present there?
+Interrogative Adverbs of Manner - e.g: How are you today?
+Interrogative Adverbs of Quantity - e.g: How much did you pay for this iPhone?
+Interrogative Adverbs of Reason - e.g: Why are you late for this class?
+```
 
 </details>
 
 <details>
-  <summary> 1.  </summary>
+  <summary> 9. Relative Adverb </summary>
 
 <br/>
 
-> 
+> Relative adverbs connect a clause to information about a noun or situation.
+
+Examples: `when, where, why, etc`
+
+```
+I remember the day when we first met.           when - relates to day
+This is the place where I grew up.              where - relates to place
+I don't know the reason why she left.           why - relates to reason
+This is the place where my grandfather lived.   where
+I will never forget the day when we first met.  when
+```
 
 </details>
 
 
 <details>
-  <summary> 1.  </summary>
+  <summary> 10. Conjunctive Adverb </summary>
 
 <br/>
 
-> 
+> A conjunctive adverb **connects ideas between independent clauses and shows a relationship such as contrast, result, addition, or sequence**.
+
+Examples: `however, therefore, moreover, furthermore, consequently, otherwise, meanwhile, etc`
+
+```
+It was raining. However, we went outside.             however (shows contrast)
+He studied hard. Therefore, he passed the exam.       therefore (shows result)
+She is intelligent. Moreover, she is hardworking.     moreover (adds information)
+```
 
 </details>
 
 <details>
-  <summary> 1.  </summary>
+  <summary> Conclusion : Adverb </summary>
 
 <br/>
 
-> 
+| Type              | Question                 | Examples                         |
+| ----------------- | ------------------------ | -------------------------------- |
+| **Manner**        | How?                     | slowly, quickly, carefully, well |
+| **Place**         | Where?                   | here, there, outside, everywhere |
+| **Time**          | When?                    | now, today, yesterday, soon      |
+| **Frequency**     | How often?               | always, often, sometimes, never  |
+| **Degree**        | How much/to what extent? | very, extremely, quite, too      |
+| **Reason/Result** | Why/result?              | therefore, hence, thus           |
+| **Affirmation**   | Is it certain/yes?       | certainly, definitely, surely    |
+| **Negation**      | No/negative?             | not, never, hardly               |
+| **Interrogative** | Question?                | when, where, why, how            |
+| **Relative**      | Connects clause          | when, where, why                 |
+| **Conjunctive**   | Connects ideas           | however, therefore, moreover     |
+
+
+#### One sentence can have multiple adverbs
+
+```
+- Rahul quickly completed the project yesterday at home.
+quickly = Adv of Manner (How?)
+yesterday = Adv of Time (When?)
+at home = Adv of Place (Where?)
+
+- She always speaks very politely.
+always = Adv of Frequency (How often?)
+very = Adv of Degree  (How much?)
+politely = Adv of Manner (How?)
+```
+
+
+</details>
+
+
+<details>
+  <summary>  Adjective to Adverb Transformations </summary>
+
+<br/>
+
+### By adding `-ly` at the end of adjective.
+
+| Adjective | Adverb      |
+| --------- | ----------- |
+| quick     | quickly     |
+| slow      | slowly      |
+| careful   | carefully   |
+| careful   | carefully   |
+| happy     | happily     |
+| easy      | easily      |
+| angry     | angrily     |
+| beautiful | beautifully |
+| quiet     | quietly     |
+| loud      | loudly      |
+
+### But exceptions are also there:
+
+ | Adjective | Adverb |
+| --------- | ------ |
+| good      | well   |
+| fast      | fast   |
+| hard      | hard   |
+| early     | early  |
+| late      | late   |
+
 
 </details>
 
@@ -2332,14 +2530,15 @@ Prepositions
 
 <br/>
 
-> **Prepositions are words that show the relationship between a noun or pronoun and another word in the sentence.**
+> **Prepositions are words that show the relationship between a noun/pronoun and phrases to another word in the sentence.**
 
-Examples: in, on, at, under, above, below, over, beside, between, from, to, with, for, about
+Examples: `in, on, at, of, to, by, under, above, below, over, beside, between, from, with, for, about, etc` and phrases like `in front of, next to, instead of, etc`
 
 ```
-The book is on the table.        preposition = on
+The book is on the table.        preposition = on 
 I'm in the room.                 preposition = in
 She is at home.                  preposition = at
+I will meet you at 5 PM.         preposition = at
 He went to school.               preposition = to
 I am talking with my friend.     preposition = with
 The cat is under the table.      preposition = under
@@ -2347,6 +2546,443 @@ He was standing beside me.       preposition = beside
 Choose between two people.       preposition = between
 I'm from India.                  preposition = from 
 ```
+
+It commonly tells us about: **Place - where?**, **Time - when?**, **Direction/Movement - where to?**, **Position/Relationship - how things are related**, **Cause/Reason - why?**, **Method/Means - how/by what?**
+
+### Types of Prepositions
+
+| Type                        | What it tells us         | Examples                    |
+| --------------------------- | ------------------------ | --------------------------- |
+| **Place/Position**          | Where?                   | `in, on, at, under, behind` |
+| **Time**                    | When?                    | `at, on, in, before, after` |
+| **Direction/Movement**      | Where to?                | `to, into, toward, through` |
+| **Distance**                | How far?                 | `from, to, across`          |
+| **Cause/Reason**            | Why?                     | `because of, due to`        |
+| **Means/Method**            | How/by what?             | `by, with`                  |
+| **Agent**                   | Who performed an action? | `by`                        |
+| **Instrument**              | With what?               | `with`                      |
+| **Possession/Relationship** | Whose/relationship?      | `of, with`                  |
+| **Exception**               | Who/what is excluded?    | `except, besides`           |
+| **Comparison**              | Compared with what?      | `like, unlike`              |
+| **Source/Origin**           | Where/from whom?         | `from, of`                  |
+
+
+<details>
+  <summary> 1. Prepositions of Place/Position </summary>
+
+> Prepositions that tell us **where something or someone is located**.
+
+Examples: `in, on, at, under, above, below, behind, in front of, beside, near, between, among, inside, outside, etc`
+
+```
+The keys are on the table.                                  on
+She is in the room.                                         in
+The cat is under the chair.                                 under
+Rahul is standing behind me.                                behind
+The school is near my house.                                near
+The bank is between the hospital and the hotel.             between
+The dog jumped over the fence.                              over
+Can you place the red roses in between the white daisies?   between
+```
+
+**`in`** usually means **inside an area or space**.
+```
+I am in the room.
+He lives in India.
+There is some water in the bottle.
+```
+
+**`on`** usually means **touching a surface**.
+```
+The phone is on the table.
+The picture is on the wall.
+```
+
+**`at`** usually refers to a **specific point/location**.
+```
+I am at the bus stop.
+She is at school.
+We met at the restaurant.
+```
+
+</details>
+
+<details>
+  <summary> 2. Prepositions of Time </summary>
+
+<br/>
+
+> Prepositions that tell us **when something happens**.
+
+Examples: `at, on, in, before, after, during, since, for, until, from, by, to etc`
+
+**`in`** used with months, years, seasons, and longer periods.
+```
+I was born in 2000.                                           in
+We will meet in December.                                     in
+I usually travel in summer.                                   in
+We will be meeting on Friday.                                 on
+The supermarket will be closed from 9 p.m. to 9 a.m.          to
+Can you come after some time?                                 after
+We have been asked to work from home until the end of May.    until
+The whole country was asked to stay home during the pandemic to ensure safety and well-being. to, during
+```
+
+**`on`** used with days and dates.
+```
+I will call you on Monday.
+The meeting is on 10 September.
+I was born on 5 May.
+```
+
+**`at`** used with specific times.
+```
+The meeting starts at 10 AM.
+I wake up at 6 o'clock.
+We arrived at midnight.
+```
+
+| Preposition         | Use                    | Example   |
+| ------------------- | ---------------------- | --------- |
+| **in** (big period) | Month/year/long period | in 2026   |
+| **on** (day)        | Day/date               | on Monday |
+| **at** (exact time) | Exact time             | at 10 AM  |
+
+
+</details>
+
+<details>
+  <summary> 3. Prepositions of Direction/Movement </summary>
+
+<br/>
+
+> Prepositions that **show movement from one place to another**.
+
+Examples: `to, into, onto, toward, through, across, along, from, out of, etc`
+
+```
+When will Shiva be returning from London?
+Nitish lives across the street.
+Meena passed the book to Priya.
+```
+
+**`to`** is used when movement toward a destination.
+```
+I am going to school.
+She went to Delhi.
+```
+
+**`into`** is used when movement from outside toinside.
+```
+He is in the room.          in = location
+He walked into the room.    into = movement
+
+Ram jumped into the river to help his sister.
+```
+
+**`onto`** is used when movement toward a surface.
+```
+The cat jumped onto the table.
+```
+
+**`through`** is used when movement from one side/end of something to another, passing inside it.
+```
+We walked through the tunnel.
+The train passed through the city.
+```
+
+**`across`** is used when movement from one side to the other.
+```
+He walked across the road.
+We swam across the river.
+```
+
+**`toward`** is used when movement in the direction of something.
+```
+She walked toward me.
+The girl ran toward her father the moment she saw him.
+```
+
+</details>
+
+
+<details>
+  <summary> 4. Prepositions of Distance </summary>
+
+<br/>
+
+> Prepositions that **describe distance or the starting/ending points of distance**.
+
+Examples: `from, to, by, within, etc`
+```
+My house is five kilometers from the office.
+The school is two kilometers from here.
+We walked from the station to the hotel.
+```
+
+</details>
+
+
+<details>
+  <summary> 5. Prepositions of Cause/Reason </summary>
+
+<br/>
+
+> Prepositions that **show why something happened**.
+
+Examples: `because of, due to, owing to, from, etc`
+
+Pattern : because of + noun/noun phrase
+```
+The flight was cancelled because of bad weather.   because of
+The match was postponed due to rain.               die to
+He was absent because of illness.                  because of
+```
+
+</details>
+
+<details>
+  <summary> 6. Prepositions of Means/Method </summary>
+
+<br/>
+
+> Prepositions that tell us **how something is done or by what method**.
+
+Examples: `by, with, through, etc`
+
+**`by`** is often used for transportation or method.
+```
+I go to work by bus.             by = method/transport   
+She travelled by train.          by = method/transport
+I sent the document by email.    by = method/transport
+```
+
+**`with`** is often used for a tool/instrument.
+```
+I went by car.                   by = method/transport
+I cut the paper with scissors.   with = instrument
+He opened the door with a key.   with = instrument
+I opened the door with a key.    with = instrument
+```
+
+#### 1. Preposition of Agent : `by`
+
+> It is mostly used in passive voice to show who performed an action.
+
+The main preposition is: `by`
+```
+The book was written by George Orwell.       by tells who performed action
+The project was completed by our team.       by tells who performed action
+The song was composed by him.                by tells who performed action
+```
+
+#### 2. Preposition of Instrument : `with`
+
+> It shows the instrument or tool used to perform an action.
+
+```
+He wrote the letter with a pen.           with = instrument
+She cut the vegetables with a knife.      with = instrument
+I opened the box with a key.              with = instrument
+```
+
+</details>
+
+<details>
+  <summary> 7. Prepositions of Possession/Relationship </summary>
+
+<br/>
+
+> Preposition that **shows ownership, connection, or relationship**.
+
+Examples: `of, with`
+
+**`of`**
+```
+The color of the car is red.
+The name of the company is Microsoft.
+The door of the room is open.
+```
+
+**`with`** is used for to show something/someone having a particular feature.
+```
+A man with a beard entered the room.
+I saw a house with a large garden.
+```
+
+</details>
+
+<details>
+  <summary> 8. Prepositions of Exception </summary>
+
+<br/>
+
+> Prepositions that show someone or something is excluded.
+
+Examples: `except, except for, besides`
+
+**`except`**
+```
+Everyone came except Rahul.
+Means, Rahul didn't come.
+
+I like all fruits except bananas.    not bananas 
+```
+
+**`besides`** usually means in addition to.
+```
+Besides English, I speak Hindi.   
+Means, I speak English and Hindi.
+```
+
+</details>
+
+<details>
+  <summary> 9. Prepositions of Comparison </summary>
+
+<br/>
+
+> Prepositions that are used **to compare things or show similarity/difference**.
+
+Examples: `like, unlike, as`
+
+**`like`** and **`unlike`**
+```
+He runs like a professional athlete.
+She looks like her mother.
+
+Unlike his brother, Rahul is very quiet.
+```
+
+</details>
+
+<details>
+  <summary> 10. Prepositions of Source/Origin </summary>
+
+<br/>
+
+> Prepositions that show **where something came from**.
+
+Examples: `from, of`
+```
+I am from India.                   from India (source/origin)
+This letter is from my manager.    from my manager (source/origin)
+Wine is made from grapes.          from grapes (source/origin)
+The table is made of wood.         of wood (source/origin)
+```
+
+</details>
+
+<details>
+  <summary> 11. Prepositional Phrase </summary>
+
+<br/>
+
+> A prepositional phrase is a **combination of a preposition, a modifier and its object**. 
+
+Prepositional phrase = Preposition + noun/pronoun/object
+
+Examples: `in the room, on the table, after the meeting, with my friends, under the bed, etc`
+
+```
+The laptop is on the table.
+on = preposition
+the table = object of preposition
+on the table = prepositional phrase
+```
+
+It can be placed **in the beginning, middle or end**of a sentence based on its role in that particular sentence. 
+
+```
+The box was kept under the table.                                  | under the table.
+We were planning to order food during the break.                   | during the break
+The girl in the second row is the one who has recently joined.     | in the second row
+Before we start class, I would like to talk to you about something.| Before we start
+According to the weather forecast, the next two days are expected to be rainy. | ccording to the weather forecast
+The cafe on the fourth street has really good muffins.              | on the fourth street 
+The man with the big moustache had come to the store today morning. | with the big moustache
+```
+
+</details>
+
+<details>
+  <summary> Conclusion : Prepositions </summary>
+
+<br/>
+
+| Type                        | Examples                          |
+| --------------------------- | --------------------------------- |
+| **Place**                   | in, on, at, under, behind, beside |
+| **Time**                    | at, on, in, before, after, during |
+| **Direction**               | to, into, onto, toward            |
+| **Movement**                | through, across, along, into      |
+| **Distance**                | from, to, by                      |
+| **Cause/Reason**            | because of, due to, owing to      |
+| **Means/Method**            | by, with, through                 |
+| **Agent**                   | by                                |
+| **Instrument**              | with                              |
+| **Possession/Relationship** | of, with                          |
+| **Exception**               | except, besides                   |
+| **Comparison**              | like, unlike, as                  |
+| **Source/Origin**           | from, of                          |
+
+
+**One Preposition can have different functions**
+```
+I am at home.                 at -> Place
+The meeting starts at 9 AM.   at -> Time
+The book was written by him.  by -> agent who performed action
+I travelled by train.         by -> method/transport
+```
+
+**`in` vs `into`**
+```
+She is in the room.         in   -> Position
+She walked into the room.   into -> Movement
+```
+
+**`on` vs `onto`**
+```
+The book is on the table.        on   -> Position
+He put the book onto the table.  onto -> Movement
+```
+
+**`by` vs `with`**
+```
+I travelled by bus.        by -> Method/Means
+I opened it with a key.    with -> Instrument
+```
+
+**`between` vs `among`**
+
+`between` is usually used for two distinct people/things.
+```
+The shop is between the bank and the hotel.
+```
+
+`among` is usually used for three or more considered as a group.
+```
+She was sitting among her friends.
+```
+
+**`SINCE` vs `FOR`**
+
+`since` -> starting point and `for` -> duration
+```
+I have lived here since 2020.
+I have lived here for six years.
+```
+
+**`during` vs `for`**
+
+During -> when something happened within a period/event.
+```
+I slept during the movie.   during -> period/event
+I slept for two hours.      for ->  duration/How long?
+```
+
+</details>
+
 
 Conjunctions
 ---
@@ -2360,16 +2996,195 @@ Conjunctions
 
 <br/>
 
-> Conjunctions are words that connect words, phrases, or clauses.
+> Conjunctions are words that connect(joins) words, phrases, or clauses(sentences) together.
 
-Examples: and, or, but, because, so, although, if, while
+**Conjunction = connecting word**
+
+Examples: `and, or, but, because, so, although, if, while, etc`
 
 ```
 I study Maths and Science.             conjunction = and
 I wanted to go, but I was busy.        conjunction = but
 I stayed home because it was raining.  conjunction = because
 Study hard or you may fail.            conjunction = or
+
+She bought apples and oranges.          conjunction = and
+You can have tea or coffee.             conjunction = or
+Either you call me or I will call you.  conjunction = Either or
+She smiled when she saw her friend.     conjunction = when
 ```
+
+### Types of Conjunctions
+
+1. Coordinating Conjunctions
+2. Subordinating Conjunctions
+3. Correlative Conjunctions
+
+<details>
+  <summary> 1. Coordinating Conjunctions </summary>
+
+<br/>
+
+> A coordinating conjunction are words that **join two or more equal or independent parts**.
+
+Example: `for, and, nor, but, or, yet, so, etc`
+```
+Rahul and Amit work together.                 joined two nouns
+I wanted to go, but I was tired.              joined two ideas
+I wanted to go outside, but it was raining.   joined two ideas
+You can have tea or coffee.                   joined two ideas
+He was tired, so he went to bed early.        joined two ideas
+```
+
+**7 coordinating conjunctions - FANBOYS**
+| Letter | Conjunction | Meaning              |
+| ------ | ----------- | -------------------- |
+| **F**  | **for**     | reason               |
+| **A**  | **and**     | addition             |
+| **N**  | **nor**     | negative alternative |
+| **B**  | **but**     | contrast             |
+| **O**  | **or**      | choice               |
+| **Y**  | **yet**     | contrast             |
+| **S**  | **so**      | result               |
+
+```
+I bought a laptop and a phone.                   and = addition
+Rahul is intelligent and hardworking.            and = addition
+I wanted to go, but I was busy.                  but = contrast
+She is young but very experienced.               but = contrast
+Do you want tea or coffee?                       or = choice
+You can call me or send me a message.            or = choice
+It was raining, so we stayed home.               so = result
+He studied hard, so he passed the exam.          so = result
+He passed because he studied hard.               because = reason
+He studied hard, so he passed.                   because = reason
+I stayed home, for I was feeling tired.          for = reason
+He doesn't eat meat, nor does he drink milk.     nor = negative alternative
+She didn't call me, nor did she send a message.  nor = negative alternative
+He is very rich, yet he lives simply.            yet = contrast
+The task was difficult, yet she completed it.    YET = contrast
+```
+
+
+</details>
+
+<details>
+  <summary> 2. Subordinating Conjunctions </summary>
+
+<br/>
+
+> A subordinating conjunction **connects a dependent(subordinate) clause to an independent clause**.
+
+Examples: `as, because, since, if, though, although, that, before, after, till, until, as long as, when, where etc`
+
+| Purpose        | Conjunctions                             |
+| -------------- | ---------------------------------------- |
+| **Reason**     | because, since, as                       |
+| **Time**       | when, while, before, after, until, since |
+| **Condition**  | if, unless                               |
+| **Contrast**   | although, though, even though            |
+| **Purpose**    | so that                                  |
+| **Result**     | so...that                                |
+| **Comparison** | than, as...as                            |
+| **Place**      | where, wherever                          |
+
+```
+I stayed home because I was sick.                 because = reason
+If it rains, I will stay home.                    if = condition
+If you study hard, you will pass.                 if = condition
+Unless you study, you may fail.                   unless = condition/"if not"
+Call me when you arrive.                          when = time
+I was sleeping when you called.                   when = time
+Finish your work before you leave.                before = earlier time
+We went home after the meeting ended.             after = later time
+I listened to music while I was working.          while = during the same time
+Although he was tired, he continued working.      although/though = contrast
+I woke up early so that I could catch the train.  so that = purpose
+```
+
+</details>
+
+<details>
+  <summary> 3. Correlative Conjunctions </summary>
+
+<br/>
+
+> A pair of words that work together to connect equal parts of a sentence, such as words, phrases, or clauses. Both parts of the pair must be used together to complete the meaning.
+
+- Correlative conjunctions work in pairs.
+
+Examples: `either - or, neither - nor, both - and, not only - but also, whether - or, no sooner - than, etc `
+
+| Pair                    | Example                    |                                             |
+| ----------------------- | ---------------------------|-------------------------------------------- |
+| **both...and**          | Shows two things together  | Both Rahul and Amit came.                   |
+| **either...or**         | Shows one of two choices   | Either Rahul or Amit will come.             |
+| **neither...nor**       | Shows two negative choices | Neither Rahul nor Amit came.                |
+| **not only...but also** | Adds emphasis to two qualities/actions | She is not only smart but also hardworking. |
+| **whether...or**        |  | Whether you agree or not, we must decide.   |
+| **as...as**             |  | He is as tall as his brother.               |
+| **rather...than**       |  | I would rather walk than wait.              |
+
+```
+Both Rahul and Amit are engineers.
+Either Rahul or Amit will attend the meeting.
+Neither Rahul nor Amit attended the meeting.
+She is not only intelligent but also hardworking.
+```
+
+</details>
+
+<details>
+  <summary> Conclusion : Conjunctions </summary>
+
+<br/>
+
+| Type              | Main idea                         | Examples                               |
+| ----------------- | --------------------------------- | -------------------------------------- |
+| **Coordinating**  | Joins equal parts                 | and, but, or, so, yet, nor, for        |
+| **Subordinating** | Joins dependent idea to main idea | because, if, when, although, unless    |
+| **Correlative**   | Works in pairs                    | both...and, either...or, neither...nor |
+
+
+
+| Purpose              | Examples                          |
+| -------------------- | --------------------------------- |
+| Addition             | and, also, both...and             |
+| Choice               | or, either...or                   |
+| Contrast             | but, yet, although, though        |
+| Reason               | because, since, as                |
+| Result               | so, therefore*                    |
+| Condition            | if, unless                        |
+| Time                 | when, while, before, after, until |
+| Purpose              | so that                           |
+| Alternative/negative | nor, neither...nor                |
+| Comparison           | than, as...as                     |
+
+
+#### Conjunction vs Preposition
+
+```
+I stayed home because of the rain.        Preposition = prepositional expression + noun
+I stayed home because it was raining.     Conjunction = conjunction + clause
+```
+
+#### Conjunction vs Relative Pronoun
+```
+I know the place where he lives.            where = relative adverb
+I stayed there because it was raining.      because = subordinating conjunction
+
+```
+
+One sentence showing the difference
+```
+I was tired, but I continued working.         Coordinating
+I continued working although I was tired.     Subordinating
+Although I'm tired, I'll continue working because I have an important task.   Correlative
+```
+
+</details>
+
+
 
 Interjections
 ---
@@ -2383,18 +3198,252 @@ Interjections
 
 <br/>
 
-> Interjections are words or phrases that express strong emotions or reactions.
+> Interjections are words or phrases that show(express) strong/suddent emotions or reactions, like happiness, surprise, anger, or sadness.
 
-Examples: Wow!, Ouch!, Hey!, Oh!, Oh no!, Alias! Wow! Ouch! Ah! Hurray!
+
+Interjections often appear at the beginning of a sentence and are commonly followed by exclamation mark `!`, but not always.
+
+Interjections stand alone in a sentence and are used just to express what someone feels in that moment.
+
+Examples: `Wow!, Ouch!, Hey!, Oh!, Oh no!, Alias!, Wow!, Ouch!, Ah!, Hurray!, Bravo! etc`
 
 ```
-Wow! That's amazing.      Interjection = Wow!
-Ouch! That hurts.         Interjection =
-Oh! I forgot my phone.    Interjection =
-Hurray! We won the match. Interjection =
-Interjection =
-Interjection = 
+Wow! That's amazing.                           Interjection = Wow!
+Ouch! That hurts.                              Interjection = Ouch!
+Oh! I forgot my phone.                         Interjection = Oh!
+Hurray! We won the match.                      Interjection = Hurray!
+Alas! We lost the opportunity.                 Interjection = Alas!
+Hey! Listen to me.                             Interjection = Hey!
+Bravo! That was a really brave thing to do.    Interjection = Bravo!
 ```
+
+#### Types of Interjections
+
+Interjections can be classified according to the emotion or purpose they express.
+
+<details>
+  <summary> 1. Interjection of Joy/Happiness </summary>
+
+<br/>
+
+> It is used to express happiness, excitement, or celebration.
+
+Examples: `Wow!, Hurray!, Yay!, Hurrah!`
+```
+Hurray! We won the competition.    Intj = Hurray! (celebration)
+Yay! We finished the project.      Intj = Yay! (happiness)
+Wow! This is amazing.              Intj = Wow! (excitement)
+```
+
+</details>
+
+<details>
+  <summary> 2. Interjection of Surprise  </summary>
+
+<br/>
+
+> It is used when something is unexpected or surprising.
+
+Examples: `Wow!, Oh!, What!, Really!, Ah!`
+```
+Wow! You completed it so quickly.   (unexpected)
+Oh! I didn't know that.             (unexpected)
+What! You got the job?              (surprising)
+```
+
+</details>
+
+<details>
+  <summary> 3. Interjection of Sorrow/Sadness   </summary>
+
+<br/>
+
+> It is used to express sadness, disappointment, or grief.
+
+Examples: `Alas!, Oh!, Ah!`
+```
+Alas! We lost the match.
+Oh! That's very sad.
+```
+
+`Alas!` is more formal/literary and is less common in everyday conversation.
+
+</details>
+
+<details>
+  <summary> 4. Interjection of Pain  </summary>
+
+<br/>
+
+> It is used to express physical pain or discomfort.
+
+Examples: `Ouch!, Ow!, Ah!`
+```
+Ouch! I hurt my finger.
+Ow! That was painful.
+```
+
+</details>
+
+<details>
+  <summary> 5. Interjection of Approval/Appreciation  </summary>
+
+<br/>
+
+> It is used to express approval, praise, or appreciation.
+
+Examples: `Bravo!, Well done!, Excellent!, Great!`
+```
+Bravo! That was an excellent performance.
+Well done! You solved the problem.
+```
+
+</details>
+
+<details>
+  <summary>  6. Interjection of Greeting </summary>
+
+<br/>
+
+> It is used when greeting someone or getting someone's attention.
+
+Examples: `Hello!, Hi!, Hey!`
+```
+Hello! How are you?
+Hi! Nice to meet you.
+Hey! What are you doing?
+```
+
+Note: `hello`, `hi`, and `hey` can have other functions depending on context.
+
+</details>
+
+<details>
+  <summary> 7. Interjection of Attention  </summary>
+
+<br/>
+
+> It is used to get someone's attention or warn someone.
+
+Examples: `Hey!, Look!, Listen!, Watch out!`
+```
+Hey! Come here.
+Look! There's a rainbow.
+Watch out! There's a car coming.
+```
+
+</details>
+
+<details>
+  <summary> 8. Interjection of Anger/Annoyance </summary>
+
+<br/>
+
+> It is used to express anger, irritation, or frustration.
+
+Examples: `Damn!, Ugh!, Oh no!, Argh!`
+```
+Ugh! This computer is so slow.
+Argh! I made the same mistake again.
+```
+
+For professional or formal English, avoid rude/strong interjections.
+
+</details>
+
+<details>
+  <summary> 9. Interjection of Disgust </summary>
+
+<br/>
+
+> It is used to express dislike or disgust.
+
+Examples: `Yuck!, Yuk!, Ugh!`
+```
+Yuck! This food tastes terrible.
+Ugh! What a horrible smell.
+```
+
+</details>
+
+<details>
+  <summary> 10. Interjection of Confusion  </summary>
+
+<br/>
+
+> It is used when someone is confused or doesn't understand something.
+
+Examples: `Huh?, What?, Hmm?`
+```
+Huh? What did you say?
+What? can you say it again?
+Hmm? I'm not sure I understand.
+```
+
+</details>
+
+<details>
+  <summary> 11. Interjection of Relief  </summary>
+
+<br/>
+
+> It is used when something difficult or worrying has ended successfully.
+
+Examples: `Phew!, Ah!, Thank goodness!`
+```
+Phew! We finally finished the work.
+Ah! That's a relief.
+```
+
+</details>
+
+<details>
+  <summary>  12. Interjection of Hesitation/Thinking </summary>
+
+<br/>
+
+> It is used when someone needs time to think or decide what to say.
+
+Examples: `Hmm..., Uh..., Um...`
+```
+Hmm... Let me think about it.
+Um... I'm not sure.
+```
+
+These are extremely common in natural spoken English.
+
+</details>
+
+<details>
+  <summary> Conclusion : Interjection </summary>
+
+<br/>
+
+| Type           | Emotion/Purpose       | Examples             |
+| -------------- | --------------------- | -------------------- |
+| **Joy**        | Happiness             | Hurray!, Yay!, Wow!  |
+| **Surprise**   | Unexpected reaction   | Wow!, Oh!, What!     |
+| **Sorrow**     | Sadness               | Alas!, Oh!           |
+| **Pain**       | Physical discomfort   | Ouch!, Ow!           |
+| **Approval**   | Praise                | Bravo!, Well done!   |
+| **Greeting**   | Greeting someone      | Hi!, Hello!, Hey!    |
+| **Attention**  | Get attention/warning | Hey!, Look!, Listen! |
+| **Anger**      | Irritation            | Ugh!, Argh!          |
+| **Disgust**    | Dislike               | Yuck!, Ugh!          |
+| **Confusion**  | Lack of understanding | Huh?, What?          |
+| **Relief**     | Relief                | Phew!, Ah!           |
+| **Hesitation** | Thinking/uncertainty  | Hmm..., Um..., Uh... |
+
+
+#### Interjection vs Other Parts of Speech
+```
+Wow! That's amazing.             Interjection
+I like this movie.               Verb
+Well! I didn't expect that.      interjection
+She sings well.                  adverb
+```
+
+</details>
 
 Conclusion
 ---
