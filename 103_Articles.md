@@ -80,7 +80,12 @@ I have three questions.
 I have some information.
 ```
 
+Indefinite Articles `a/an`
+---
+
 </details>
+
+<!------------INTRODUCTION------------------------>
 
 
 <details>
@@ -88,16 +93,103 @@ I have some information.
 
 <br/>
 
+> It is used when we talk about something not specific/one of many.
+
+Definite articles doesn't refer to a particular person or thing, but rather to an indefinite person or thing. 
+
+**`a` is used before words beginning with a consonant sound for singular and countable.**
+Examples:
+```
+a ball, a bar
+a cat, a car
+a dog, a dam
+a fish, a frog
+a glass, a gun
+a horse, a hen
+--------------------------
+a university  Not an university
+```
+
+**`an` is used before words beginning with a vowel sound for singular and countable.**
+Examples:
+```
+an apple, an orange, an hour
+an egg, an engineer
+an interesting book
+an umbrella,
+------------------------
+an honest man   Not a honest man
+```
+
+#### Rule 1: Use `a/an` before a person/thing where the meaning is "one"
+
+Examples:
+```
+I need a pen.         means, I need one pen.
+Give me a minute.     means, Give me one minute.
+```
+
+#### Rule 2: Use `a/an` before one person/thing, not specific.
+
+Examples:
+```
+1. I saw a dog.
+- There are many dogs. I'm talking about one dog, but I haven't identified which one.
+
+2. She bought a laptop.
+- One laptop, but not a particular laptop known to the listener.
+```
+
+#### Rule 3: Use `a/an` before a person/thing that we mention something first time
+
+Examples:
+```
+1. I saw a man in the park. The man was wearing a blue shirt.
+- a man : This is the first time we mention the man.
+- The man : Later, Now we know which man.
+```
+
+| First mention                 |  `A/An`   |
+|-------------------------------|-----------|
+| **Second/subsequent mention** | **`The`** |
+
+Example:
+```
+I bought a book yesterday. The book is very interesting.
+```
+
+#### Rule 4: Use `a/an` before a sigular profession/occupation
+
+Examples:
+```
+Rahul is an engineer.
+I am a software engineer.
+She is a doctor.
+He is an architect.
+```
+
+
+#### Rule 5: `a/an` can sometimes mean per/each
+
+Examples:
+```
+I go to the gym three times a week.           three times per week.
+The car travels 60 kilometers an hour.        60 kilometers per hour.
+```
+
+Definite Article `the`
+---
 
 </details>
+<!------------Indefinite Articles------------------------>
+
 
 <details>
   <summary> 2. <b> Definite Article : <code> the </code> </b> </summary>
 
 <br/>
 
-> The definite article (`the`) is used before a noun to indicate that personal, certain, or former acquaintance;
- which has already been discussed.
+> It is used when we talk about something specific/particular/already known.
 
 `The` is used with countable Nouns (Singular noun & Plural noun) and uncountable nouns.
 
@@ -188,14 +280,15 @@ The more he works, the more he will be successful.
 The more we travel, the more we shall fall in love with Nature.
 ```
 
+Rules for using Articles `a/an/the`
+---
 
 </details>
+<!------------Definite Articles------------------------>
 
 
 <details>
   <summary>  Rules for using Articles <code> a/an/the </code> </summary>
-
-<br/>
 
 #### Rule 1
 
@@ -223,6 +316,193 @@ half an hour.
 Double the amount.
 ```
 
+#### Rule 3
+
+Countries: Sometimes before the country name `The` is used, sometimes not
+
+Examples:
+```
+India is a large country.
+Japan is beautiful
+```
+
+But some country names use the, especially names that describe a group, federation, kingdom, etc
+
+Examples:
+```
+the United States
+the United Kingdom
+the United Arab Emirates
+```
+
+```
+I live in India.               CORRECT
+I live in the India.           INCORRECT
+I live in the United States.   CORRECT
+```
+
+When not to use `a/an/the`
+---
+
 </details>
+<!------------Rules for using Articles----------------->
+
+<details>
+  <summary> When not to use <code>a/an/the</code> </summary>
 
 
+**Rule 1: Don't use `a/an` with plural nouns**
+```
+I bought books.        CORRECT
+I bought a books.      INCORRECT
+I bought a book.       CORRECT
+I bought some books.   CORRECT
+```
+
+**Rule 2: Don't use `a/an` with uncountable nouns**
+```
+information Not an information
+- a piece of information
+- some information
+
+advice Not an advice
+- some advice
+- a piece of advice
+
+furniture Not a furniture
+- a piece of furniture
+- some furniture
+```
+
+**Rule 3. Don't use `the` for general ideas**
+```
+Dogs are loyal animals.          means dogs in general
+Books are useful.                means books in general
+Water is important.              means water in general
+
+The dogs in my neighbourhood are friendly.     means dogs in specific
+The books on my table are mine.                means books in specific
+The water in this bottle is cold.              means water in specific
+```
+
+**Rule 4. `a/an/the` comparison**
+```
+I saw a car.                                any car; not specific.
+The car was red.                            which car; a specific car
+
+I need a pen.                               any one pen; general
+Where is the pen I gave you?                which pen; a specific pen.
+
+She wants to buy a house.                   One house, but not identified.
+She wants to buy the house near the park.   A particular house.
+
+I like music.                               Music in general.
+I like the music in this movie.             Specific music.
+
+Children need love.                                 Children in general.
+The children in this class are very intelligent.    Specific children.
+```
+
+Articles : Decision Formula
+---
+
+</details>
+<!------------When not to use Articles----------------->
+
+
+<details>
+  <summary> Article Decision Formula </summary>
+
+<br/>
+
+When you see a noun, ask following questions:
+
+> **Step 1: Is it singular and countable?**
+
+If yes, we usually need a determiner: `a/an, the, my, your, this, that, one, etc.`
+
+
+> **Step 2: Is it one of many and not specific?**
+
+If yes use: `a/an`
+
+Example:
+```
+I saw a bird.
+I have an umbrella.
+```
+
+> **Step 3: Is it specific or already known?**
+
+If yes use: `the`
+
+Example:
+```
+The bird was sitting on the tree.
+The book on table is mine.
+```
+
+> **Step 4: Is it plural or uncountable and general?**
+
+Often no article is used.
+
+Examples:
+```
+Birds can fly.
+Water is important.
+```
+
+Articles : Master Table 
+---
+
+</details>
+<!------------Article Decision Formula----------------->
+
+
+<details>
+  <summary> Articles : Master Table </summary>
+
+<br/>
+
+|       |                           |
+|-------|---------------------------|
+| `A`   | consonant sound           |
+| `AN`  |  vowel sound              |
+| `THE` | specific/known/particular |
+
+| Word           | Correct            |
+| -------------- | ------------------ |
+| apple          | `an apple`         |
+| orange         | `an orange`        |
+| engineer       | `an engineer`      |
+| hour           | `an hour`          |
+| honest         | `an honest person` |
+| university     | `a university`     |
+| uniform        | `a uniform`        |
+| European       | `a European`       |
+| useful         | `a useful tool`    |
+| one-time event | `a one-time event` |
+
+
+
+| Situation            | Article        | Example                          |
+| -------------------- | -------------- | -------------------------------- |
+| One, non-specific    | **a/an**       | `I saw a dog.`                   |
+| First mention        | **a/an**       | `I bought a phone.`              |
+| Profession           | **a/an**       | `She is a doctor.`               |
+| Vowel sound          | **an**         | `an apple`                       |
+| Consonant sound      | **a**          | `a book`                         |
+| Specific thing       | **the**        | `the book on the table`          |
+| Already mentioned    | **the**        | `I saw a dog. The dog ran away.` |
+| Unique thing         | **the**        | `the sun`                        |
+| Superlative          | **the**        | `the best`                       |
+| Ordinal number       | **the**        | `the first chapter`              |
+| Rivers/oceans/ranges | **the**        | `the Ganges`                     |
+| Plural general       | **no article** | `Dogs are loyal.`                |
+| Uncountable general  | **no article** | `Water is important.`            |
+| Most country names   | **no article** | `India, Japan`                   |
+| Some country names   | **the**        | `the United States`              |
+
+
+</details>
+<!------------Article Master Table----------------->
