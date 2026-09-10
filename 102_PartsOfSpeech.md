@@ -804,7 +804,7 @@ The meeting started at 10.	     verb = started	(Event)
 <details>
   <summary>  Based on role   </summary>
 
-#### 1. Main Verb / Lexical Verb
+#### 1. Main Verb/Lexical Verb
 
 > A main verb **carries the main meaning of the sentence**.
 
@@ -818,7 +818,7 @@ She writes emails.           main verb = writes
 They played football.        main verb = played
 ```
 
-#### 2. Helping Verb / Auxiliary Verb
+#### 2. Helping Verb/Auxiliary Verb
 
 > Helping verbs assist the main verb in a sentence, expressing tense, mood, questions, negatives, possibilities or voice etc.
 
@@ -1255,7 +1255,7 @@ He/She/Ram was busy.
 They were busy.
 ```
 
-#### Two subjects joined by "and"  
+#### Two subjects joined by `and`  
 
 When two subjects are joined by and, the verb is usually form plural subject because the subject becomes plural.
 
@@ -1266,7 +1266,7 @@ Tom and Jerry play together.
 My friend and his father live in Mumbai.
 ```
 
-#### Two subjects joined by "Or"/"Nor"
+#### Two subjects joined by `or/nor`
 
 When subjects are joined by or or nor, the verb generally agrees with the subject closest to it.
 
@@ -1307,11 +1307,11 @@ The furniture is expensive.
 The money is missing.
 ```
 
-#### Collective Nouns usually take singular verbs but some
+#### Collective Nouns usually take singular verbs but sometimes plural
 
 When the group is considered as one unit, a singular verb is commonly used. But It also depends on the context whether group acts as a single unit or as individual members.
 
-Collective nouns : `team, family, committee, class, audience, company, government, jury`
+Collective nouns : `team, family, committee, class, audience, company, government, jury, etc`
 
 ```
 The team is ready.
@@ -1336,7 +1336,7 @@ The family are all different personalities.  Plural (individuals)
 ```
 
 
-#### "There is" vs "There are"
+#### `There is` vs `There are`
 
 The real subject comes after the verb.
 ```
@@ -1346,7 +1346,7 @@ There is a problem.
 There are several problems.
 ```
 
-#### "A Number of" vs "The Number of"
+#### `A Number of` vs `The Number of`
 
 A number of -> plural, The number of -> singular
 ```
@@ -1384,7 +1384,7 @@ My trousers are new.
 These clothes are expensive.
 ```
 
-#### "As well as", "Along with", "Together with"
+#### `as well as`, `along with`, `together with`
 
 These expressions do not make the subject plural.
 ```
@@ -1394,7 +1394,7 @@ Rahul and his friends are coming.               "and" makes it a compound subjec
 The teacher, as well as the students, is attending the meeting.   Main subject = teacher -> singular.
 ```
 
-### "few", "many", "several", "some" and "both" take plural verbs
+### `few`, `many`, `several`, `some` and `both` take plural verbs
 
 `few, many, several, some, and both` are always treated as plural and therefore take plural verbs.
 
@@ -1407,7 +1407,7 @@ Several of the cars were damaged.
 Some people in homeroom are very annoying.
 ```
 
-#### Subjects ending in "-s" can still be singular
+#### Subjects ending in `-s` can still be singular
 
 ```
 Mathematics is difficult.
@@ -1432,8 +1432,8 @@ There are 5 verb forms :
 | **V1** | Base form                      | go      |
 | **V2** | Past form                      | went    |
 | **V3** | Past participle                | gone    |
-| **V4** | -ing form / Present participle | going   |
-| **V5** | s/es form                      | goes    |
+| **V4** | `-ing` form / Present participle | going   |
+| **V5** | `s/es` form                      | goes    |
 
 #### V1 - Base Form
 
@@ -1547,10 +1547,10 @@ She is good at drawing.           Object (After preposition)
 
 | Rule	                   | Example         |
 |--------------------------|-----------------|
-| 1. Add -ing              | play -> playing |
-| 2. Drop final -e         | make -> making  |
+| 1. Add `-ing`            | play -> playing |
+| 2. Drop final `-e`       | make -> making  |
 | 3. Double final consonant| run  -> running |
-| 4. Change -ie -> y	     | lie  -> lying   |
+| 4. Change `-ie -> y`     | lie  -> lying   |
 
 </details>
 
