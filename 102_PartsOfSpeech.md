@@ -1096,6 +1096,121 @@ These three concepts [Infinitive, Gerund, Participle]() are very important, So w
 </details>
 
 <details>
+  <summary> <b> Gerund </b> </summary>
+
+<br/>
+
+> **A gerund is the `ing` form of a verb used as a noun**. 
+
+Sometimes a gerund is called as **verbal noun** because it comes from a verb.
+
+```
+Running is a good way to keep youself fit.  gerund = Running
+Smoking is injurious to heath.              gerund = Smoking
+Swimming is a good exercise.                gerund = Swimming
+Shreya is very good at drawing.             gerund = drawing
+She loves dancing and singing.              gerund = singing   
+Have you ever tried sailing?                gerund = sailing
+I don't like watching television.           gerund = watching
+We enjoyed visiting our grandparents.       gerund = visiting
+```
+
+Note: Sometimes it is difficult to know whether an `ing` word is a gerund or a present participle(V4-ing). 
+
+Some gerunds can be used in front of other nouns, like adjectives.
+```
+a washing machine = a machine that does washing
+a shopping bag    = a bag for carrying your purchases
+walking boots     = boots you wear for walking in the countryside
+gardening clothes = clothes you wear for gardening
+swimming costumes   = costumes that you need for swimming
+```
+
+| Verb    | Gerund      |
+|---------|-------------|
+| swim    | swimming    |
+| smoke   | smoking     |
+| run     | running     |
+| cycle   | cycling     |
+| eat     | eating      |
+| sleep   | sleeping    |
+| walk    | walking     |
+| wash    | washing     |
+| paint   | painting    |
+| sing    | singing     |
+| dance   | dancing     |
+| read    | reading     |
+| cook    | cooking     |
+| fly     | flying      |
+
+
+</details>
+<!--------------------->
+
+<details>
+  <summary> <b> Infinitive </b> </summary>
+
+<br/>
+
+> The infinitive is **_the base form of a verb_**. It is often preceded by the word `to`.
+
+**Infinitives often appear after other verbs**
+
+Ram _is learning_ **to swim**. <br/>
+My parents _have decided_ **to buy** a new car. <br/>
+I _didn't mean_ **to upset** you. <br/>
+I _like_ **to ride** my bike in the mountain. <br/>
+I _hope_ **to visit** Disneyland someday. <br/>
+Mohan and I _agreed_ **to meet** this afternoon.  <br/>
+I _was supposed_ **to talk** to her. <br/>
+
+Infinitives: `to swim, to buy, to ride, to visit, to meet, to talk, to meet, etc `
+
+
+ Some verbs have an object before the infinitive. 
+ ```
+Sohan asked me to help him.                      [me, to help]
+The teacher told us not to run in the corridor.  [us, to run]
+The manager allowed the staff to leave early.    [staff, to leave]
+```
+
+Infinitives often appear after adjectives. 
+```
+The boys were afraid to cross the busy road.     [afraid, to cross]
+I'm very pleased to see you again.               [pleased, to see]
+This problem will be difficult to solve.         [difficult, to solve]
+Don't you think it's rude to ignore the new girl in class? [rude, to ignore]
+You're welcome to come with me.                  [welcome, to come]
+```
+
+We can also use infinitives after some nouns and pronouns to say what we are using something for.
+```
+Take a book to read.                            [a book, to read]
+I called for a taxi to take us to the airport.  [a taxi, to take]
+Has everyone got something to drink?            [something, to drink]
+Find a space on the floor to sit in.            [a space on the floor, to sit]
+Can I have something to eat.                    [something, to eat]
+```
+
+Infinitives sometimes follow words like `how, what, which and where`.
+```
+I don't know what to say.             [what, to say]  
+My brother is learning how to cook.   [how, to cook]
+I can't decide which to choose - the ice cream or the pancake. [which, to choose]
+```
+Infinitives are also used after helping verbs such as `will, can, should, may, must`. After these helping verbs use infinitives without the word `to`.
+```
+I can swim.                      [can, swim]
+We think she will win the race.  [will, win]
+You must try harder.             [must, try]
+Do you think we should wait?     [should, wait]
+May I come in?                   [may, come]
+```
+
+</details>
+<!------------------------------->
+
+<details>
   <summary> Verb Phrase </summary>
 
 <br/>
