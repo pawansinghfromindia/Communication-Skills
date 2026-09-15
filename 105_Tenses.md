@@ -1962,6 +1962,39 @@ I think it will rain tomorrow.
 
 **This as not an absolute rule, `will` and `going to` can overlap.**
 
+```
+A: Someone is calling you.
+B: I will answer it.                  - Decision now
+
+A: What are you doing tonight?
+B: I'm going to study Python.         - Already planned
+
+A: You see extremely dark clouds.
+B: It's going to rain.                - Evidence
+
+A: You predict something
+B: I think AI will change many jobs.   - Opinion/prediction.
+```
+
+</details>
+<!------------------------->
+
+<details>
+  <summary> Simple Future with <code> be </code> </summary>
+
+<br/>
+
+> `will be` emphasizes the duration of an action or the existence of a future state.
+
+```
+I will be there.
+She will be busy.
+They will be happy.
+I will not be late.
+Will you be there?
+When will you be available?
+```
+
 </details>
 <!------------------------->
 
@@ -2008,22 +2041,22 @@ The train leaves at 8 PM tomorrow.
 <!-------------------->
 
 <details>
-  <summary> <b> Simple Future vs Present Continuous </b> </summary>
+  <summary> <b> Present Continuous  vs Simple Future </b> </summary>
 
 <br/>
 
+```
+I am meeting him tomorrow.       [Present Continuous]
+- This usually suggests an arrangement already made.
+
+I will meet him tomorrow.        [Simple Future]
+- This can be a future decision/prediction/general future statement.
+
+```
 
 </details>
 <!------------------------------>
 
-<details>
-  <summary> <b> </b> </summary>
-
-<br/>
-
-
-</details>
-<!------------------------------>
 
 Future Continuous
 ---
@@ -2037,7 +2070,18 @@ Future Continuous
 
 > Future Continuous is used **for an action that will be in progress at a specific future time**.
 
+**`Future time -> action is happening at that moment`**
 
+Timeline: `I will be working at 8 PM tomorrow.`
+```
+
+Past ────────►   NOW                         TOMORROW
+                  │                              │
+                  │                         8 PM ●
+                  │                              │
+                  │                         working
+                                           ───────►
+```
 
 | Sentence Type | Future Continuous Structure                           |
 |---------------|-------------------------------------------------------|
@@ -2045,23 +2089,47 @@ Future Continuous
 | Negative      | `Subject + will/shall + not + be + V4(ing) + Object`  |
 | Interrogative | `Will/Shall + Subject + be + V4(ing) + Object?`       |
 | Interrogative + Negative | `Will/Shall + Subject + not + be + V4(ing) + Object?`|
-
+| WH Questions  | `WH word + will/shall + Subject + be + V4(ing) + Object?` |
 
 ```
 I will be studying at 8 PM tomorrow.
 I will not be studying at 8 PM tomorrow.
 Will I be studying at 8 PM tomorrow.
 Will I not be studying at 8 PM tomorrow.
+What will you be studying tonight?
 
 This time next year, She will be teaching in an IIT Bombay campus.
 ```
 
-### Shall vs Will
+<details>
+  <summary> <b> Why <code> will be </code>? </b> </summary>
+
+<br/>
+
+Future uses: `will + V1` <br/>
+Continuous requires: `BE + V-ing` <br/>
+Therefore: `will + be + working` <br/>
+```
+I will be working.
+We will be working.
+You will be working.
+He/She/It will be working.
+They will be working.
+```
+
+</details>
+<!------------------------------>
+
+<details>
+  <summary> <b> <code> shall </code> vs <code> will </code> </b> </summary>
+
+<br/>
+
 
 | Context                                 | Use   |
 |-----------------------------------------|-------|
 | **Everyday future** (all persons)       |	will  |
-| **Suggestions/offers** (I, we)	        | shall |
+| **Suggestions/offers** (I/We)	          | shall |
 | **Legal/formal obligation** (any person)| shall |
 | **Emphatic/Strong determination** (2nd/3rd person You, He/She/It/Any name)	| shall |
 
@@ -2075,7 +2143,164 @@ He shall answer for his actions.                       - Determination
 ```
 
 </details>
-<!------------------------------->
+<!------------------------------>
+
+<details>
+  <summary> <b> When do we use Future Continuous? </b> </summary>
+
+<br/>
+
+**Use #1 - Action in progress at a specific future time**
+
+****
+```
+I will work tomorrow.                    [Future Simple focus on Future event]
+- This simply tells us that I will work tomorrow.
+
+I will be working at 10 AM tomorrow.     [Future Continuous focus on Activity in progress at a future moment]
+- At 10 AM tomorrow, my work will be in progress.
+```
+
+Timeline
+```
+I will work tomorrow.         [Simple Future]
+        ↓
+      EVENT
+
+I will be working at 10 AM.  [Future Continuous]
+        ↓
+   IN PROGRESS
+      at 10 AM
+```
+
+```
+Suppose today is Monday. You have a meeting on Tuesday at 2 PM.
+
+I will attend the meeting tomorrow.
+- Simple Future -> future event.
+
+I will be attending the meeting at 2 PM tomorrow.
+- Future Continuous -> activity/event viewed as being in progress around that future time.
+```
+
+**Use #2 - Something expected to be happening** <br/>
+Future Continuous can describe something we expect to be happening at a particular future time.
+```
+Don't call me at 8 PM. I will be studying.
+- At 8 PM, I expect to be in the middle of studying.
+
+Don't message her during the meeting. She will be working.
+- During the meeting, She expects to be in middle of working
+```
+
+**Use #3 - Two actions happening at the same future time** <br/>
+We use Future Continuous for simultaneous future activities.
+```
+At 9 PM, I will be studying while my brother will be watching TV.
+```
+Timeline
+```
+9 PM
+│
+├── I -> will be studying
+│
+└── Brother -> will be watching TV
+```
+Both activities will be in progress at that time.
+
+**Use #4 - Polite questions about someone's plans** <br/>
+Future Continuous can sometimes sound more polite or less direct when asking about someone's future plans.
+```
+Will you use the car tonight?
+- This can sound like you're asking about a decision/request.
+
+Will you be using the car tonight?
+- This sounds more like you're asking about the person's expected plans.
+
+Will you be attending the meeting tomorrow?
+```
+
+</details>
+<!------------------------------>
+
+<details>
+  <summary> <b> Future Continuous doesn't always mean a long action </b> </summary>
+
+<br/>
+
+The word continuous doesn't mean the action must last for hours. <br/>
+It means the action is viewed as **in progress at a particular future point**.
+
+```
+At 7 PM, I will be eating dinner.
+- Eating could take 20–30 minutes. That's enough.
+- At that future moment, the activity will be in progress.
+```
+
+</details>
+<!------------------------------>
+
+<details>
+  <summary> <b> Future Continuous with <code> this time tomorrow/next week/next month </code> , <code> at </code> </b> </summary>
+
+<br/>
+
+```
+This time tomorrow, I will be travelling.
+This time next week, I will be staying in Delhi.
+This time next month, we will be working on the new project.
+```
+
+
+Common pattern `at + future time`
+```
+I will be working at 6 PM.
+She will be studying at midnight.
+They will be travelling at this time tomorrow.
+We will be having a meeting at 10 AM next Monday.
+```
+
+`Going to` focus on plan, while Future Continuous focus on activity on progress at a future time. 
+```
+I am going to study tonight.          - Plan
+I will be studying at 8 PM tonight.   - what will be in progress at 8 PM
+```
+
+</details>
+<!------------------------------>
+
+<details>
+  <summary> <b> Decision to identify Future Tense </b> </summary>
+
+<br/>
+
+
+When talking about the future, ask:
+
+Question: Is it simply a future event? <br/>
+Answer: Simple Future `I will call him.`
+
+Question: Is it an already-made plan? <br/>
+Answer: Going to `I am going to call him.`
+
+Question: Is it an arrangement? <br/>
+Answer: Simple Future `I will call him.`
+
+Question: Is it simply a future event? <br/>
+Answer: Present Continuous `I am meeting him tomorrow.`
+
+Question: Will the activity be in progress at a particular future time? <br/>
+Answer: Future Continuous `I will be meeting him at 10 AM tomorrow.`
+
+</details>
+<!---------------------------->
+
+Future Perfect
+---
+
+</details>
+<!------------Future Simple------------------->
+
 <details>
   <summary> <b> 3. Future Perfect </b> </summary>
 
@@ -2083,12 +2308,21 @@ He shall answer for his actions.                       - Determination
 
 > Future Perfect is used **for an action that will be completed before a particular future time/event**.
 
+
+
+Timeline
+```
+NOW ───────────► Finish work ───────────► 6 PM
+                    ✓ completed
+```
+
 | Sentence Type | Future Perfect Structure                           |
 |---------------|----------------------------------------------------|
 | Affirmative   | `Subject + will/shall have + V3 + Object`          |
 | Negative      | `Subject + will/shall + not + have + V3 + Object`  |
 | Interrogative | `Will/Shall + Subject + have + V3 + Object?`       |
 | Interrogative + Negative | `Will/Shall + Subject + have + not + V3 + Object?`|
+| WH Questions  | `WH word + will/shall + Subject + have + V3 + Object? ` |
 
 ```
 I will have completed the project by Friday.
@@ -2096,6 +2330,7 @@ I will have finished by 5 PM.
 She will not have left by the time you arrive.
 Will you have finished your work by 6 PM?
 Will he not have received the letter yet?
+What will she have completed by the end of the month?
 ```
 
 Common expressions:
@@ -2114,8 +2349,150 @@ Note: The Future Perfect always pairs with a time reference (by + time, before, 
 I will have graduated by June.
 ```
 
+<details>
+  <summary> <b> Future Perfect commonly uses  <code> by </code> <code> by vs until </code> </b> </summary>
+
+<br/>
+
+> **`by` = no later than/before or at a particular deadline**
+
+```
+1. I will have finished the work by 6 PM.
+- At 6 PM, the work will already be finished.
+
+2. She will have completed the course by next month.
+3. They will have arrived by 8 PM.
+4. We will have completed the project by Friday.
+5. He will have learned Python by the end of the year.
+```
+
+**`by` vs `until`**
+
+> **`by` -> completion/deadline**
+```
+I will have finished the work by 6 PM.
+- The work will be completed no later than 6 PM.
+- completed by that time
+```
+
+> **`until` -> continuation**
+```
+I will work until 6 PM.
+- The activity continues up to 6 PM.
+- continue working up to that time
+```
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Future Simple vs Future Continuous vs Future Perfect </b> </summary>
+
+<br/>
+
+**Simple Future** -> Focus: future event
+```
+I will finish the work tomorrow.
+```
+
+**Future Continuous** -> Focus: activity in progress at a particular future time
+```
+I will be working at 6 PM tomorrow.
+```
+
+**Future Perfect** -> Focus: completion before/by a particular future time
+```
+I will have finished the work by 6 PM tomorrow.
+```
+
+```
+I will work.                  [Simple Future]
+       ↓
+Future event
+----------------------------------------------------
+
+I will be working at 6 PM.    [Future Continuous]
+       ↓
+Activity in progress at 6 PM
+-----------------------------------------------------
+
+I will have finished by 6 PM.  [Future Perfect]
+       ↓
+Already completed by 6 PM
+```
+
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Future Perfect vs Future Perfect Continuous </b> </summary>
+
+<br/>
+
+**Future Perfect** -> Focus can be on the completed amount/fact.
+```
+I will have worked for three hours by 6 PM.
+```
+
+**Future Perfect Continuous** -> Focus is on the duration/activity.
+```
+I will have been working for three hours by 6 PM.
+```
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Decision rule for Future Perfect </b> </summary>
+
+<br/>
+
+When you're talking about the future, ask yourself:
+
+Question: Is it simply a future event? <br/>
+Answer: Simple Future `I will finish the work tomorrow.`
+
+Question: Will the activity be in progress at a particular future time? <br/>
+Answer: Future Continuous `I will be working at 6 PM.`
+
+Question: Will the activity already be completed by a future time/deadline? <br/>
+Answer: Future Perfect `I will have finished the work by 6 PM.`
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Future Perfect vs <code> going to </code> </b> </summary>
+
+<br/>
+
+**`going to`** -> Focus: plan/intention
+```
+I am going to finish the project.
+```
+
+**Future Perfect** -> Focus: completion before a future deadline
+```
+I will have finished the project by Friday.
+```
+
+We can combine both ideas
+```
+I am going to finish the project, and I will have completed it by Friday.
+```
+
+</details>
+<!----------------------------->
+
+Future Perfect Continuous
+---
+
 </details>
 <!------------------------------->
+
+
+
 <details>
   <summary> <b> 4. Future Perfect Continuous </b> </summary>
 
@@ -2123,23 +2500,43 @@ I will have graduated by June.
 
 > It **emphasizes duration continuing up to a future point**.
 
+> **Future Perfect Continuous = an activity that will have been continuing for a period of time up to a particular future point.**
+
 ```
+I will have been working for three hours by 6 PM.
+- At 6 PM, I will have three hours of continuous working behind me.
+
 By next year, I will have been working here for five years.
 By 10 PM, she will have been studying for four hours.
 ```
+
+Timeline
+```
+NOW ───────────────► 6 PM
+        WORKING ─────────►
+        ←── 3 hours ──→
+-------------------------------------------------
+Future point -> 6 PM
+activity     -> working
+duration     ->  three hours
+activity continues up to that future point
+```
+
 
 | Sentence Type | Future Perfect Continuous Structure                |
 |---------------|----------------------------------------------------|
 | Affirmative   | `Subject + will/shall have been + V4(ing) + Object`          |
 | Negative      | `Subject + will/shall not have been + V4(ing) + Object`  |
 | Interrogative | `Will/Shall + Subject + have + been + V4(ing) + Object?`       |
-| Interrogative + Negative | `Will/Shall + Subject + have + not + V4(ing) + Object?`|
+| Interrogative + Negative | `Will/Shall + Subject + have + not + been + V4(ing) + Object?`|
+| WH Questions  | `WH word + will/shall + Subject + have + been + V4(ing) + Object? ` |
 
 ```
 They will have been waiting since 6 AM.
 I will not have been driving for more than 2 hours.
 Will they have been trying to fix it all week?
 Will you not have been practicing for months by the exam?
+What will they have been doing all morning?
 ```
 
 Note: Future Perfect Continuous emphasizes the duration of an action that will be ongoing up until a future point. It almost always pairs with for + duration or since + starting point:
@@ -2147,6 +2544,166 @@ Note: Future Perfect Continuous emphasizes the duration of an action that will b
 She will have been teaching for 30 years by 2027.
 They will have been living here since 2020 by next year.
 ```
+
+<details>
+  <summary> <b> Why <code> will have been </code> ? </b> </summary>
+
+<br/>
+
+> **Future Perfect Continuous = `will + have + been + V-ing`**
+
+| Part  | Meaning    |
+| ----- | ---------- |
+| will  | Future     |
+| have  | Perfect    |
+| been  | Continuous |
+| V-ing | Action     |
+
+```
+I will have been working.
+```
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> When to use Future Perfect Continuous ?</b> </summary>
+
+<br/>
+
+**Use: duration** <br/>
+Future Perfect Continuous is mainly used when we want to emphasize how long an activity will have continued by a future time.
+
+```
+1. I will have been studying for three hours by 8 PM.
+- At 8 PM, the activity will have continued for three hours.
+----------------------------------------------------------------------
+Now
+ │
+ ▼
+Studying ─────────────────► 8 PM
+          ←── 3 hours ───→
+----------------------------------------------------------------------
+2. She will have been working here for five years by next June.
+3. They will have been travelling for ten hours by the time they arrive.
+4.He will have been learning English for two years by December.
+```
+
+**use: cause/evidence** <br/>
+Sometimes the tense emphasizes an activity that explains a future situation.
+```
+When you arrive, I will be tired because I will have been working all day.
+By the evening, the players will be exhausted because they will have been training all day.
+```
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> <code> since </code> vs <code> for </code> </b> </summary>
+
+<br/>
+
+
+| `for` = duration/period | `since` = starting point |
+|-------------------------|--------------------------|
+| `for` -> How long?      | `since` -> from when?    |
+| `I will have been working for three hours by 6 PM.` <br/> `They will have been waiting for 30 minutes by then.` <br/> | `I will have been working since 2 PM by 6 PM.` <br/> `They will have been waiting since 5 PM by 7 PM.` |
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Future Perfect vs Future Perfect Continuous </b> </summary>
+
+<br/>
+
+**Future Perfect** -> Focus on completion
+```
+I will have finished the project by Friday.
+- The project will be completed.
+
+By 6 PM, I will have completed the report.
+- Focus on completion
+```
+
+**Future Perfect Continuous** -> Focus on duration/activity
+```
+I will have been working on the project for three days by Friday.
+- The important information is how long I've been working.
+
+By 6 PM, I will have been working on the report for four hours.
+- Focus on duration
+```
+
+</details>
+<!------------------------------>
+
+<details>
+  <summary> <b> <code> by the time </code> + Future Perfect Continuous</b> </summary>
+
+<br/>
+
+Structure: `By the time + Simple Present, subject + will have been + V-ing`
+
+```
+By the time you arrive, I will have been waiting for an hour.
+```
+
+> Note: Again, `after when / before / after / by the time`, we generally don't use `will` in the time clause.
+
+```
+By the time you will arrive...  - Incorrect
+By the time you arrive...       - Correct
+```
+
+</details>
+<!------------------->
+
+<details>
+  <summary> <b> Stative verbs </b> </summary>
+
+<br/>
+
+As with the other continuous tenses, some verbs generally don't sound natural in continuous form:
+
+**Stative verbs**: `know, believe, understand, own, want, love, hate, need, like, prefer`
+```
+I will have been knowing him for five years.        Incorrect
+I will have known him for five years by next year.  Correct
+```
+
+</details>
+<!----------------------->
+
+<details>
+  <summary> <b> Compare all four Future forms </b> </summary>
+
+<br/>
+
+**Simple Future** -> future event/action.
+```
+I will work tomorrow.
+```
+
+**Future Continuous** -> action will be in progress
+```
+I will be working at 6 PM tomorrow.
+```
+
+**Future Perfect** -> action will be completed
+```
+I will have worked/finished by 6 PM tomorrow.
+```
+
+**Future Perfect Continuous** -> activity will have continued for a time period in future
+```
+I will have been working for three hours by 6 PM tomorrow.
+```
+
+</details>
+<!------------------------->
+
 
 </details>
 <!-----------Future Tense-------------------->
@@ -2195,6 +2752,16 @@ I will have been studying English for two hours.
 have been studying English for two hours.
 ```
 
+**Complete 12 Tenses**
+
+| Time        | Simple      | Continuous        | Perfect            | Perfect Continuous       |
+| ----------- | ----------- | ----------------- | ------------------ | ------------------------ |
+| **Present** | I work      | I am working      | I have worked      | I have been working      |
+| **Past**    | I worked    | I was working     | I had worked       | I had been working       |
+| **Future**  | I will work | I will be working | I will have worked | I will have been working |
+
+
+
 </details>
 <!-----------------Rules of Tenses--------------------------->
 
@@ -2222,15 +2789,15 @@ Tenses become much easier when we understand helping verbs.
                               have/has/had
           
 Continuous:
-BE + V-ing
+be + V-ing
 am/is/are/was/were + working
 
 Perfect:
-HAVE + V3
+Have + V3
 have/has/had + worked
 
 Perfect Continuous:
-HAVE + BEEN + V-ing
+Have + been + V-ing
 have/has/had + been + working
 
 Future:
@@ -2238,8 +2805,8 @@ WILL + V1
 will + work
 
 Modal:
-MODAL + V1
-can/should/must/might + work
+Moda; + V1
+can/should/must/may/might/will/would/shall/should + work
 ```
 
 
