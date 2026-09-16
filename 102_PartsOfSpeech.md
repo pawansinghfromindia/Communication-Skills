@@ -1,5 +1,24 @@
 ## Parts of Speech
 
+<details>
+  <summary> <b> Grammar </b> </summary>
+
+<br/>
+
+Grammar is a very old field of study. 
+
+Did you know that the sentence was first divided into **subject** and **verb** by Plato, the famed philosopher from ancient Greece? 
+
+That was about 2,400 years ago! Ever since then, students all over the world have found it worthwhile to study the
+structure of words and sentences. 
+
+**Why?** <br/>
+Because skill in speaking and writing is the hallmark of all educated people.
+
+---
+</details>
+<!------------------------------>
+
 > **Words are divided into different kinds or classes, are known as parts of speech.**
 
 English grammar consists of 8 parts of speech : `nouns`, `pronouns`, `verbs`, `adjectives`, `adverbs`, `prepositions`, `conjunctions`, and `interjections`. 
