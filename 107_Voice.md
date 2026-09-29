@@ -131,7 +131,260 @@ Passive: A book is read by Ram.
 <details>
   <summary> <b> Subject, Verb, Object </b> </summary>
 
-<br/>
+
+#### 1. What is a Subject?
+
+> The subject is the person, animal, thing, or idea that the sentence is mainly about.
+
+In an active sentence, it is often the **doer of the action**.
+
+Examples:
+```
+1. Rahul plays cricket.
+- Who plays cricket? ->  Rahul
+- So, Rahul = Subject.
+
+2. The dog chased the cat.
+- Who chased the cat? -> The dog
+- So, the dog = Subject.
+
+3. My sister cooked dinner.
+- Who cooked dinner? ->My sister
+- So, my sister = Subject.
+```
+
+#### 2. What is a Verb?
+
+> A verb expresses an action, event, or state.
+
+Examples: `eat, write, open, kick, build, clean, read, teach, buy, repair, etc`
+```
+1. Rahul plays cricket.
+- What is the action? -> plays
+- So, plays = Verb
+
+2. She writes a letter.
+- What is the action? -> writes
+- So, writes = Verb
+```
+
+#### 3. What is an Object?
+
+> **The object is the person or thing that receives or is affected by the action of the verb**.
+
+Example:
+```
+1. Rahul plays cricket.
+- Ask: Rahul plays what?
+- Answer: cricket
+- So, cricket = Object
+
+2. She writes a letter.
+- Ask: She writes what? 
+- Answer: a letter
+- So, a letter = Object
+
+```
+
+#### 4. Basic `Sub + Verb + Obj` Pattern
+
+> **`Subject + Verb + Object`**
+
+Examples:
+```
+Ram reads a book.
+Subject = Ram
+Verb    = reads
+Object  = a book
+```
+
+**`Who + Verb + What?` Method**
+
+```
+The boy kicked the ball.
+
+Step 1: Who?
+- Who performed the action?
+- The boy -> Subject
+
+Step 2: What action?
+- What did he do?
+- kicked  -> Verb
+
+Step 3: What?
+- He kicked what?
+- the ball -> Object
+
+Therefore:
+Sub + Verb + Object
+The boy + kicked + the ball.
+```
+
+```
+The teacher teaches English.
+- Who?
+- The teacher.
+- What does the teacher do?
+- teaches -> Verb
+- teaches what?
+- English -> Object
+```
+
+#### 5. Object can be a person/place/animal/thing, object can also be a pronoun
+
+| Subject form | Object form |
+| ------------ | ----------- |
+| I            | me          |
+| we           | us          |
+| you          | you         |
+| he           | him         |
+| she          | her         |
+| it           | it          |
+| name         | name        |
+| they         | them        |
+
+
+
+#### 6. Direct Object and Indirect Object
+
+> **A direct object receives the action directly.**
+
+```
+Ravi opened the door.
+- Opened what?
+- the door.
+- Therefore, the door = Direct Object.
+```
+
+> Some verbs can have two objects.**A indirect object receives the action indirectly.**
+
+```
+Ravi gave me a book.
+----------------------------
+There are two objects:
+me -> Indirect Object
+a book -> Direct Object
+----------------------------
+Ask: Ravi gave what?
+Ans: a book.
+That's the direct object.
+----------------------------
+Ask: Ravi gave the book to whom?
+Ans: me.
+That's the indirect object.
+------------------------------
+So, Di-transitive Verbs
+```
+
+#### 7. Not every sentence has an object
+
+**`Subject + Verb` not `Subject + Verb + Object`**
+
+```
+The baby slept.
+The children laughed.
+```
+
+```
+The baby slept.
+
+- Who slept?
+- The baby = Subject
+- What is the verb?
+- slept = Verb
+Slept what?
+There is no answer.
+Therefore, there is no object.
+-------------------------------
+The children laughed.
+
+Subject = children
+Verb = laughed
+Object = none
+```
+
+#### 8. **Subject does not always come first.**
+```
+In the garden, the children played.
+Yesterday, Rahul bought a car.
+```
+```
+In the garden, the children played.
+- Subject: the children, Not In the garden
+- prepositional phrase: In the garden 
+```
+
+#### 9. Subject, Object, and Complement
+
+People sometimes confuse **object and complement**.
+
+```
+Rahul is a teacher.
+```
+"Teacher" is not receiving an action. <br/>
+It describes/identifies Rahul. <br/>
+So a teacher is a subject complement, not an object.
+
+There will be no ordinary passive transformation:
+```
+A teacher is been by Rahul.  - Incorrect
+```
+
+```
+He became a doctor.
+- doctor is a subject complement, not a direct object.
+She is happy.
+- "Happy" is an adjective complement.
+```
+
+So eventually We need to distinguish:
+- Object
+- Subject complement
+- Adverbial
+- Prepositional phrase
+
+#### 10. Object in passive voice 
+
+```
+Active: The boy kicked the ball.
+Subject = the boy
+Verb = kicked
+Object = the ball
+---------------------------------
+Passive: The ball was kicked by the boy.
+Subject = The ball
+Verb (Passive Verb)    = was kicked
+Object (Subject/Agent) = by the boy
+```
+
+
+#### Exercise:
+```
+The student solved the problem.
+Priya bought a new dress.
+The manager praised the employee.
+Birds fly.
+We watched a movie.
+The baby cried.
+My brother repaired the computer.
+She invited me.
+Rahul became a doctor.
+The children are playing football.
+```
+
+| #  | Subject      | Verb        | Object       |
+| -- | ------------ | ----------- | ------------ |
+| 1  | The student  | solved      | the problem  |
+| 2  | Priya        | bought      | a new dress  |
+| 3  | The manager  | praised     | the employee |
+| 4  | Birds        | fly         | —            |
+| 5  | We           | watched     | a movie      |
+| 6  | The baby     | cried       | —            |
+| 7  | My brother   | repaired    | the computer |
+| 8  | She          | invited     | me           |
+| 9  | Rahul        | became      | —*           |
+| 10 | The children | are playing | football     |
+
 
 </details>
 <!------------------------------>
@@ -142,7 +395,18 @@ Passive: A book is read by Ram.
 
 #### Transitive Verb
 
-A transitive verb takes an object.
+> A transitive verb is a verb that takes a direct object.
+
+Example
+```
+She reads books.
+He opened the door.
+They built a house.
+I bought a phone.
+We helped them.
+```
+
+- A transitive verb takes an object.
 ```
 Ram opened the door.
 Ask: Ram opened what?
@@ -156,15 +420,9 @@ The door was opened by Ravi.
 
 #### Intransitive Verb
 
-An intransitive verb does not take an object.
-```
-The baby slept.
-Ask: The baby slept what?
-Answer: There is no object.
-Therefore, there is normally no passive voice.
-```
+> An intransitive verb does not take a direct object.
 
-Examples:
+Example
 ```
 He sleeps.
 She laughed.
@@ -174,8 +432,43 @@ The sun rose.
 The children played.
 ```
 
+- An intransitive verb does not take an object.
+```
+The baby slept.
+Ask: The baby slept what?
+Answer: There is no object.
+Therefore, there is normally no passive voice.
+```
+
 It is not necessary that every active sentence can be converted into passive.
 > **No object -> normally no passive voice.**
+
+
+#### A verb can be both Transitive and Intransitive
+
+A verb isn't necessarily permanently transitive or permanently intransitive. <br/>
+It can depend on how the verb is used in the sentence.
+
+```
+The door opened.            - opened = Transitive verb
+Rahul opened the door.      - opened = Intransitive verb
+
+The glass broke.            - broke = Transitive verb
+Rahul broke the glass.      - broke = Transitive verb
+
+The bell rang.              - rang = Transitive verb
+The teacher rang the bell.  - rang = Transitive verb
+```
+
+#### Transitive vs Intransitive
+
+| Transitive                      | Intransitive                        |
+| ------------------------------- | ----------------------------------- |
+| Takes a direct object           | Does not take a direct object,  No direct object |
+| `Subject + Verb + object`       | `Subject + Verb`                    |
+| Usually can form normal passive | Normally cannot form normal passive |
+| `She opened the door.` <br/> `He broke the glass.` <br/>  `They built a house.`    | `The door opened.` <br/> `The glass broke.` <br/> `They arrived.`|      
+
 
 </details>
 <!------------------------------>
@@ -186,7 +479,97 @@ It is not necessary that every active sentence can be converted into passive.
 
 <br/>
 
-When we convert Active Voice to Passive Voice, we use **V3**.
+English verbs commonly have different forms.
+
+| Form         | Name                           | Example: write |
+| ------------ | ------------------------------ | -------------- |
+| **V1**       | Base form                      | write          |
+| **V2**       | Past form                      | wrote          |
+| **V3**       | Past participle                | written        |
+| **V4-ing**   | Present participle / -ing form | writing        |
+| **V5(s/es)** | Present Base form              | writes         |
+
+####  V1 (Base Form) is commonly used with: `I, we, you, they, plural subjects, modal verbs, infinitives`
+
+```
+I write.
+You write.
+They/We write.     
+She can write.     - modal verbs
+I want to write.   - infinitives
+```
+
+#### V2 (Past Form) is generally used for the simple past tense.
+
+```
+I went to school.
+She ate an apple.
+Rahul wrote a letter.
+They saw a movie.
+```
+
+#### V3 (Past Participle) 
+
+V3 is especially important for passive voice. It is used with BE in passive
+```
+A letter is written by Rahul.
+The window was broken.
+The apple was eaten.
+```
+
+V3 is not used only in Passive Voice, It is also used after `has/have/had`
+```
+I have eaten.
+She has written a letter.
+They had gone home.
+```
+
+Note: **V2 != V3**
+
+#### Forms of `BE`
+
+The verb BE (`is/am/are/was/were/be/been/being`) changes according to tense and subject.
+
+| Form  | Example          |
+| ----- | ---------------- |
+| am    | I am             |
+| is    | He is            |
+| are   | They are         |
+| was   | He was           |
+| were  | They were        |
+| be    | will be / can be |
+| been  | has been         |
+| being | is being         |
+
+#### Regular Verbs vs Irregular Verbs
+
+- Regular verbs usually form V2 and V3 using -ed.
+| V1    | V2      | V3      |
+| ----- | ------- | ------- |
+| work  | worked  | worked  |
+| play  | played  | played  |
+| clean | cleaned | cleaned |
+| open  | opened  | opened  |
+| save  | saved   | saved   |
+| laugh | laughed | laughed |
+
+- Irregular verbs don't follow the simple -ed pattern.
+| V1    | V2    | V3      |
+| ----- | ----- | ------- |
+| go    | went  | gone    |
+| come  | came  | come    |
+| eat   | ate   | eaten   |
+| write | wrote | written |
+| take  | took  | taken   |
+| give  | gave  | given   |
+| see   | saw   | seen    |
+| do    | did   | done    |
+| speak | spoke | spoken  |
+| break | broke | bronken |
+| drive | drove | driven  |
+
+
+> When we convert Active Voice to Passive Voice, we use **V3**.
 
 | V1(Base) | V2      | V3      |  V4(ing)  | V5(s/es) |
 | -------- | ------- | ------- | --------- | -------- |
@@ -392,6 +775,77 @@ But:     Rahul sleeps.
 
 <br/>
 
+Active: **`Subject + V(s/es) + Object`** <br/>
+Passive: **`Object + am/is/are + V3 + (by + Subject)`**
+
+Affirmative: `Object + am/is/are + V3 + by + Subject`
+```
+Active:  Ravi writes a letter.
+Passive: A letter is written by Ravi.
+
+Active:  She cleans the room.
+Passive: The room is cleaned by her.
+
+Active:  They play cricket.
+Passive: Cricket is played by them.
+
+Active:  The teacher teaches English.
+Passive: English is taught by the teacher.
+-----------------------------------------
+Active:   People grow rice in India.
+Passive1: Rice is grown in India.
+Passive2: Rice is grown by people in India.
+We don't need Passive2 bcuz focus is on rice, not the people.
+```
+
+Here, Tense is represented by `is/am/are`.
+
+Negative: `Object + am/is/are + not + V3 + by + Subject`
+```
+Active:  Ravi does not write a letter.
+Passive: A letter is not written by Ravi.
+
+Active:  They do not clean the room.
+Passive: The room is not cleaned by them.
+
+Active:  She does not teach English.
+Passive: English is not taught by her.
+
+Active:  He does not read newspapers.
+Passive: Newspapers are not read by him.
+```
+
+Interrogatove: `am/is/are + Object + V3 + by + Subject?`
+```
+Active:  Does Ravi write a letter?
+Passive: Is a letter written by Ravi?
+
+Active:  Does she clean the room?
+Passive: Is the room cleaned by her?
+
+Active:  Do they play cricket?
+Passive: Is cricket played by them?
+```
+
+WH-Questions: `What, Who, Which, When, Why, How, Where` <br/>
+`WH + am/is/are + Object + V3 + by + Subject?`
+```
+Active:  Why does Ravi write letters?
+Passive: Why are letters written by Ravi?
+
+Active:  When do they build the bridge?
+Passive: When is the bridge built by them?
+
+Active:  How did she solve the problem?
+Passive: How was the problem solved by her?
+
+Active:  Who teaches English?
+Passive: By whom is English taught?
+```
+
+Past Simple
+---
+
 </details>
 
 <!------------------------------>
@@ -400,6 +854,75 @@ But:     Rahul sleeps.
   <summary> <b> Past Simple </b> </summary>
 
 <br/>
+
+Active: **`Subject + V2 + Object`** <br/>
+Passive: **`Object + was/were + V3 + (by + Subject)`**
+
+Affirmative: `Object + was/were + V3 + by + Subject`
+```
+Active:  Ravi opened the doors..
+Passive: The doors were opened by Ravi.
+
+Active:  Ravi wrote a letter.
+Passive: A letter was written by Ravi.
+
+Active:  She cleaned the room.
+Passive: The room was cleaned by her.
+
+Active:  They built a bridge.
+Passive: A bridge was built by them.
+
+Active:  The teacher praised Rahul.
+Passive: Rahul was praised by the teacher.
+
+Active:  The police arrested the thief.
+Passive: The thief was arrested by the police.
+```
+
+Negative: `Object + was/were + not + V3 + by + Subject`
+```
+Active:  Ravi did not write a letter.
+Passive: A letter was not written by Ravi.
+
+Active:  She did not clean the room.
+Passive: The room was not cleaned by her.
+
+Active:  They did not build the house.
+Passive: The house was not built by them.
+```
+
+Interrogative: `was/were + Object + V3 + by + Subject?`
+```
+Active:  Did Ravi write the letter?
+Passive: Was the letter written by Ravi?
+
+Active:  Did she clean the room?
+Passive: Was the room cleaned by her?
+
+Active:  Did they build the house?
+Passive: Was the house built by them?
+```
+
+WH-Questions: `WH + was/were + Object + V3 + by + Subject?`
+```
+Active:  Why did Ravi open the door?
+Passive: Why was the door opened by Ravi?
+
+Active:  When did they build the house?
+Passive: When was the house built by them?
+
+Active:  How did she solve the problem?
+Passive: How was the problem solved by her?
+
+Active:  Who wrote the letter?
+Passive: By whom was the letter written?
+
+Active:  Who broke the window?
+Passive: By whom was the window broken?
+```
+
+Future Simple
+---
 
 </details>
 <!------------------------------>
@@ -410,6 +933,71 @@ But:     Rahul sleeps.
 
 <br/>
 
+Active: **`Subject + will + V1 + Object`** <br/>
+Passive: **`Object + will be + V3 + (by + Subject)`**
+
+Affirmative: `Object + will be + V3 + by + Subject`
+```
+Active:  Ravi will write a letter.
+Passive: A letter will be written by Ravi.
+
+Active:  She will clean the room.
+Passive: The room will be cleaned by her.
+
+Active:  They will build a bridge.
+Passive: A bridge will be built by them.
+
+Active:  He will buy a new car.
+Passive: A new car will be bought by him.
+
+Active:  The teacher will explain the lesson.
+Passive: The lesson will be explained by the teacher.
+```
+Negative: `Object + will + not + be + V3 + by + Subject`
+```
+Active:  Ravi will not write the letter.
+Passive: The letter will not be written by Ravi.
+
+Active:  She will not clean the room.
+Passive: The room will not be cleaned by her.
+
+Active:  They will not build the house.
+Passive: The house will not be built by them.
+```
+
+Interrogative: `Will + Objeect + be + V3 + by + Subject?`
+```
+Active:  Will Ravi write the letter?
+Passive: Will the letter be written by Ravi?
+
+Active:  Will she clean the room?
+Passive: Will the room be cleaned by her?
+
+Active:  Will they complete the project?
+Passive: Will the project be completed by them?
+```
+
+WH-Questions: `WH + will + Object + be + V3 + by + Subject?`
+```
+Active:  When will Ravi write the letter?
+Passive: When will the letter be written by Ravi?
+
+Active:  Why will they cancel the meeting?
+Passive: Why will the meeting be cancelled by them?
+
+Active:  How will she complete the project?
+Passive: How will the project be completed by her?
+
+Active : Who will write the letter?
+Passive: By whom will the letter be written?
+
+Active:  Who will clean the room?
+Passice: By whom will the room be cleaned?
+```
+
+Present Continuous
+---
+
 </details>
 <!------------------------------>
 
@@ -418,6 +1006,75 @@ But:     Rahul sleeps.
   <summary> <b> Present Continuous </b> </summary>
 
 <br/>
+
+Active: **`Subject + am/is/are + V4-ing + Object`** <br/>
+Passive: **`Object + am/is/are + being + V3 + (by + Subject)`**
+
+Affirmative: `Object + am/is/are + being + V3 + by + Subject`
+```
+Active:  Ravi is writing a letter.
+Passive: A letter is being written by Ravi.
+
+Active:  She is cleaning the room.
+Passive: The room is being cleaned by her.
+
+Active:  They are building a house.
+Passive: A house is being built by them.
+
+Active:  The teacher is explaining the lesson.
+Passive: The lesson is being explained by the teacher.
+
+Active:  The workers are repairing the road.
+Passive: The road is being repaired by the workers.
+
+Active:  I am writing a report.
+Passive: A report is being written by me.
+```
+
+Negative: `Object + am/is/are + not +  being + V3 + by + Subject`
+```
+Active:  Ravi is not writing a letter.
+Passive: A letter is not being written by Ravi.
+
+Active:  She is not cleaning the room.
+Passive: The room is not being cleaned by her.
+
+Active:  They are not repairing the roads.
+Passive: The roads are not being repaired by them.
+```
+
+Interrogative: `am/is/are + Object + being + V3 + (by + Subject)`
+```
+Active : Is Ravi writing the letter?
+Passive: Is the letter being written by Ravi?
+
+Active:  Is she cleaning the room?
+Passive: Is the room being cleaned by her?
+ 
+Active:  Are they repairing the roads?
+Passive: Are the roads being repaired by them?
+```
+
+WH-Questions: `WH + is/am/are + Object + being + V3 + by + S?`
+```
+Active:  Why is Ravi writing the letter?
+Passive: Why is the letter being written by Ravi?
+
+Active:  What is she cooking?
+Passive: What is being cooked by her?
+
+Active:  Which book is the teacher explaining?
+Passive: Which book is being explained by the teacher?
+
+Active:  Who is writing the letter?
+Passive: By whom is the letter being written?
+
+Active:   Who is repairing the car?
+Passive:  By whom is the car being repaired?
+```
+
+Past Continuous
+---
 
 </details>
 <!------------------------------>
@@ -428,6 +1085,75 @@ But:     Rahul sleeps.
 
 <br/>
 
+Active: **`Subject + was/were + V4-ing + Object`** <br/>
+Passive: **`Object + was/were + being + V3 + (by + Subject)`**
+
+Affirmative: `Object + was/were + being + V3 + by + Subject`
+```
+Active:  Ravi was writing a letter.
+Passive: A letter was being written by Ravi.
+
+Active:  She was cleaning the room.
+Passive: The room was being cleaned by her.
+
+Active:  They were building a house.
+Passive: A house was being built by them.
+
+Active:  The workers were repairing the road.
+Passive: The road was being repaired by the workers.
+
+Active:  The teacher was explaining the lesson.
+Passive: The lesson was being explained by the teacher.
+
+Active:  They were repairing the road.
+Passive: The road was being repaired by them.
+```
+
+Negative: `Object + was/were + not + being + V3 + by + Subject`
+```
+Active:  Ravi was not writing the letter.
+Passive: The letter was not being written by Ravi.
+
+Active:  She was not cleaning the room.
+Passive: The room was not being cleaned by her.
+
+Active:  They were not repairing the roads.
+Passive: The roads were not being repaired by them.
+```
+
+Interrogative: `Was/Were + Object + being + V3 + by + Subject?`
+```
+Active:  Was Ravi writing the letter?
+Passive: Was the letter being written by Ravi?
+
+Active:  Was she cleaning the room?
+Passive: Was the room being cleaned by her?
+
+Active:  Were they repairing the roads?
+Passive: Were the roads being repaired by them?
+```
+
+WH-Questions: `WH + was/were + Object + being + V3 + by + Subject?`
+```
+Active:  Why was Ravi writing the letter?
+Passive: Why was the letter being written by Ravi?
+
+Active:  What was she cooking?
+Passive: What was being cooked by her?
+
+Active:  Which road were they repairing?
+Passive: Which road was being repaired by them?
+
+Active:  Who was writing the letter?
+Passive: By whom was the letter being written?
+
+Active:  Who was repairing the car?
+Passive: By whom was the car being repaired?
+```
+
+Present Perfect
+---
+
 </details>
 <!------------------------------>
 
@@ -436,6 +1162,67 @@ But:     Rahul sleeps.
   <summary> <b> Present Perfect </b> </summary>
 
 <br/>
+
+Active: **`Subject + has/have + V3 + Object`** <br/>
+Passive: **`Object + has/have + been + V3 + by + Subject`**
+
+Affirmative: `Object + has/have + been + V3 + by + Subject`
+```
+Active:  Ravi has written a letter.
+Passive: A letter has been written by Ravi.
+
+Active:  She has cleaned the room.
+Passive: The room has been cleaned by her.
+
+Active:  They have completed the work.
+Passive: The work has been completed by them.
+
+Active:  We have finished the project.
+Passive: The project has been finished by us.
+```
+
+Negative: `Object + has/have + not + been + V3 + by + Subject`
+```
+Active:  Ravi has not written the report.
+Passive: The report has not been written by Ravi.
+
+Active:  They have not completed the work.
+Passive: The work has not been completed by them.
+
+Active:  She has not cleaned the room.
+Passive: The room has not been cleaned by her.
+```
+
+Interrogative: `has/have + Object + been + V3 + by + Subject`
+```
+Active:  Has Ravi written the letter?
+Passive: Has the letter been written by Ravi?
+
+Active: Have they completed the project?
+Passive: Has the project been completed by them?
+
+Active:  Has Ravi completed the assignment?
+Passive: Has the assignment been completed by Ravi? 
+```
+
+
+WH-Questions: `WH + has/have + Object + been + V3 + by + Subject`
+```
+Active:  Why has Ravi written the letter?
+Passive: Why has the letter been written by Ravi?
+
+Active:  When have they completed the project?
+Passive: When has the project been completed by them?
+
+Active:  Who has written the letter?
+Passive: By whom has the letter been written?
+
+Active:  Who has completed the project?
+Passive: By whom has the project been completed?
+```
+
+Past Perfect
+---
 
 </details>
 <!------------------------------>
@@ -446,8 +1233,176 @@ But:     Rahul sleeps.
 
 <br/>
 
+Active: **`Subject + had + V3 + Object`** <br/>
+Passive: **`Object + had + been + V3 + by + Subject`**
+
+Affirmative: `Object + had + been + V3 + by + Subject`
+```
+Active:  Ravi had written a letter.
+Passive: A letter had been written by Ravi.
+
+Active:  She had cleaned the room.
+Passive: The room had been cleaned by her.
+
+Active:  They had completed the project.
+Passive: The project had been completed by them.
+```
+
+Negative: `Object + had + not + been + V3 + by + Subject`
+```
+Active:  Ravi had not completed the work.
+Passive: The work had not been completed by Ravi.
+
+Active:  They had not repaired the road.
+Passive: The road had not been repaired by them.
+```
+
+Interrogative: `had + Object + been + V3 + by + Subject?`
+```
+Active:  Had Ravi completed the work?
+Passive: Had the work been completed by Ravi?
+
+Active:  Had Ram completed the assignment?
+Passive: Had the assignment been completed by Ram?
+
+Active: Had they repaired the road?
+Passive: Had the road been repaired by them?
+```
+
+WH-Questions: `WH + had + Object + been + V3 + by + Subject?`
+```
+Active:  Why had Ravi completed the work?
+Passive: Why had the work been completed by Ravi?
+
+Active:  When had they repaired the road?
+Passive: When had the road been repaired by them?
+
+Active:  Who had written the letter?
+Passive: By whom had the letter been written?
+
+Active:  Who had completed the project?
+Passive: By whom had the project been completed?
+```
+
+Future Perfect
+---
+
 </details>
 <!------------------------------>
+
+<details>
+  <summary> <b> Future Perfect </b> </summary>
+
+<br/>
+
+Active: **`Subject + will have + V3 + Object`** <br/>
+Passive: **`Object + will have been + V3 + by + Subject`**
+
+Affirmative: `Object + will have been + V3 + by + Subject`
+```
+Active:  Ravi will have written a letter.
+Passive: A letter will have been written by Ravi.
+
+Active:  She will have completed the project.
+Passive: The project will have been completed by her.
+
+Active:  They will have repaired the road.
+Passive: The road will have been repaired by them.
+```
+
+Negative: `Object + will not have been + V3 + by + Subject`
+```
+Active:  Ravi will not have completed the work.
+Passive: The work will not have been completed by Ravi.
+
+Active:  They will not have repaired the road.
+Passive: The road will not have been repaired by them.
+```
+
+Interrogative: `will + Object + have been + V3 + by + Subject?`
+```
+Active:  Will Ravi have completed the project?
+Passive: Will the project have been completed by Ravi?
+
+Active:  Will they have repaired the road?
+Passive: Will the road have been repaired by them?
+
+```
+
+WH Question: `WH + will + Object + have been + V3 + by + Subject?`
+```
+Active:  When will Ravi have completed the project?
+Passive: When will the project have been completed by Ravi?
+
+Active:  Why will they have completed the work?
+Passive: Why will the work have been completed by them?
+
+Active:  Who will have completed the project?
+Passive: By whom will the project have been completed?
+
+Active:  Who will have written the report?
+Passive: By whom will the report have been written?
+```
+
+> Note: **Unlike Present Perfect `has/have`, Future Perfect always uses `will have`**
+
+> Note: **BEING -> Continuous (in progress at a future time), BEEN -> Perfect (ompleted by a future time)**
+
+Present Perfect Continuous
+---
+
+</details>
+<!------------------------------->
+
+<details>
+  <summary> <b> Present/Past/Future Perfect Continuous </b> </summary>
+
+<br/>
+
+> **Perfect Continuous Passive is technically possible in some constructions, but it is generally avoided because it sounds awkward.**
+
+#### Present Perfect Continuous
+
+Active: **`Subject + has/have + been + V-ing + Object`** <br/>
+Passive: **`Object + has/have + been + being + V3 + by + Subject`**
+
+```
+Active:  Ravi has been writing the report.
+Passive: The report has been being written by Ravi.
+
+Active:  The workers have been building the bridge.
+Passive: The bridge has been being built by the workers.
+```
+
+#### Past Perfect Continuous
+
+Active: **`Subject + had + been + V-ing + Object`** <br/>
+Passive: **`Object + had + been + being + V3 + by + Subject`**
+
+```
+Active:  The workers had been repairing the bridge.
+Passive: The bridge had been being repaired by the workers.
+
+Active:  Ravi had been writing the report.
+Passive: The report had been being written by Ravi.
+```
+
+
+#### Future Perfect Continuous
+
+
+Active: **`Subject + will have + been + V-ing + Object`** <br/>
+Passive: **`Object + will have + been + being + V3 + by + Subject`**
+
+```
+Active:  The workers will have been building the bridge for six months.
+Passive: The bridge will have been being built by the workers for six months.
+
+```
+
+</details>
+<!-------------------------------------------------------->
+
 
 
 <details>
@@ -471,20 +1426,6 @@ But:     Rahul sleeps.
 | Future Perfect Continuous	 | `shall/will have been` | `shall/will have been + being` |
 
 
-**Present Simple**
-
-Active: `Subject + V(s/es) + Object` <br>
-Passive: `Object + is/am/are + V3 + by + subject`
-```
-She writes a letter.
-A letter is written by her.
-
-He plays cricket.
-Cricket is played by him.
-
-They clean the room.
-The room is cleaned by them.
-```
 
 </details>
 <!------------------------------>
@@ -497,6 +1438,163 @@ The room is cleaned by them.
   <summary> <b> Interrogative </b> </summary>
 
 <br/>
+
+> **An interrogative sentence is a sentence that asks a question.**
+
+```
+Does Ram write letters?
+Did She clean the room?
+Will you read the book?
+Is he repairing the car?
+Has Ravi completed the work?
+Why did they cancel the meeting?
+Who wrote the letter?
+```
+
+There are three patterns.
+1. **Yes/No Questions**
+2. **Questions with WH-words**
+3. **Questions with modal verbs**
+
+### 1. Yes/No Questions
+
+```
+Que: Does Ram write the letter?
+Ans: Yes, he does.
+     No, he doesn't.
+```
+
+Present/Past/Future Indefinite
+
+Active: **`Do/Does/Did/Will + Subject + V1 + Object?`** <br/>
+Passive: **`Is/Am/Are/Was/Were/Will + Object + V3 + by + Subject?`**
+```
+Active:  Does Ram write a letter?
+Passive: Is a letter written by Ram?
+
+Active:  Did she clean the room?
+Passive: Was the room cleaned by her?
+```
+
+Present/Past/Future Continuous
+
+Active: **`Am/Is/Are/Was/Were/Will be + Subject + V-ing + Object?`** <br/>
+Passive: **`Am/Is/Are/Was/Were/Will be + Object + being + V3 + by + Subject?`**
+
+```
+Active:  Are they repairing the road?
+Passive: Is the road being repaired by them?
+
+Active:  Was Ravi writing the letter?
+Passive: Was the letter being written by Ravi?
+```
+
+Present/Past/Future Perfect
+
+Active: **`Has/Have/Had/Will have + Subject + V3 + Object?`** <br/>
+Passive: **`Has/Have/Had/Will have + Object + been + V3 + by + Subject?`**
+```
+Active:  Has Ravi written the letter?
+Passive: Has the letter been written by Ravi?
+
+Active:  Had Ravi completed the work?
+Passive: Had the work been completed by Ravi? 
+```
+
+
+### 2. Questions with WH-words
+
+**`What, Why, When, Where, How, Which, Who, Whome `**
+
+Present/Past Indefinite/Simple WH-Questions
+
+Active: **`WH + do/does/did + Subject + V1 + Object?`**
+Passive: **`WH + is/am/are/was/were + Object + V3 + by + Subject?`**
+```
+Active:  Why does Ravi write the letter?
+Passive: Why is the letter written by Ravi?
+
+Active:  Why did Ravi open the door?
+Passive: Why was the door opened by Ravi?
+
+Active:  When did they build this house?
+Passive: When was this house built by them?
+
+Active:  How did she solve the problem?
+Passive: How was the problem solved by her?
+
+Active:  Who wrote this book?
+Passive: By whom was this book written?
+
+Active:  When will they complete the project?
+Passive: When will the project be completed by them?
+```
+
+Note: When `who` is the subject of the active sentence and when `who` is the object.
+```
+who is the subject:
+Active:  Who wrote the letter?
+Passive: By whom was the letter written?
+
+who is the object:
+Active:  Whom did Ravi invite?
+Passive: Who was invited by Ravi?
+```
+
+Future WH-Questions
+
+Active: **`WH + will + Subject + V1 + Object?`** <br/>
+Passive: **`WH + will + Object + be + V3 + by + Subject?`**
+
+```
+Active:  When will Ravi complete the project?
+Passive: When will the project be completed by Ravi?
+```
+
+Present/Past/Future Continuous WH-Questions
+
+Active: **`WH + am/is/are/was/were + Subject + V-ing + Object?`** <br/>
+Passive: **`WH + am/is/are/was/were + Object + being + V3 + by + Subject?`**
+
+```
+Active:  Why is Ravi writing the report?
+Passive: Why is the report being written by Ravi?
+
+Active:
+Passive:
+
+Active:
+Passive:
+```
+
+Present/Past Perfect WH-Questions
+
+Active: **`WH + has/have/had + Subject + V3 + Object?`** <br/>
+Passive: **`WH + has/have/had + Object + been + V3 + by + Subject?`**
+
+```
+Active:  Why has Ravi written the report?
+Passive: Why has the report been written by Ravi?
+
+Active:  Who wrote the letter?
+Passive: By whom was the letter written?
+```
+
+### 3. Modal Questions
+
+Active: **`Modal + Subject + V1 + Object?`** <br/>
+Passive: **`Modal + Object + be + V3 + by + Subject?`**
+
+```
+Active:  Can Ravi solve the problem?
+Passive: Can the problem be solved by Ravi?
+
+Active:  Should students follow the rules?
+Passive: Should the rules be followed by students?
+
+Active:  Could you fix the computer?
+Passive: Could the laptop fixed by you?
+```
 
 Imperative
 ---
@@ -511,6 +1609,153 @@ Imperative
 
 <br/>
 
+> **An imperative sentence tells someone to do something or not do something.**
+
+An imperative sentence expresses **command, order, request, advice, instruction, warning**.
+
+Imperative sentence is a special type of sentence because an imperative usually does not explicitly mention its subject. Example: `Open the door.`,`You open the door.`
+
+Examples:
+```               
+Close the window.
+Read the book.
+Follow the rules.
+Please help me.
+Do not waste water.
+Do not touch the machine.
+```
+Note: These don't follow the normal `Subject + verb + object` pattern because the subject "you" is usually understood.
+
+<details>
+  <summary> Step by step conversion </summary>
+
+<br/>
+
+**Step 1: Find the object** <br/>
+**Step 2: Move the object** <br/>
+**Step 3: Use the imperative passive structure** <br/>
+
+Example:
+```
+Active:  Close the window.
+- Verb = close
+- Object = the window
+Passive: Let the window be closed.
+```
+  
+</details>
+
+Active for imperative: **`V1 + Object`** <br/>
+Passive for imperative: **`Let + object + be + V3`**
+
+> **The word `let` helps create the passive imperative structure.**
+
+Examples:
+```
+Active:  (You) Open the door.
+Passive: Let the door be opened.
+
+Active:  Clean the room.
+Passice: Let the room be cleaned.
+
+Active:  Write the answer.
+Passive: Let the answer be written.
+
+Active:  Close the window.
+Passive: Let the window be closed.
+
+Active:  Please help me.
+Passive: Let me be helped
+Passive: You are requested to help me.
+```
+
+**Negative Imperative** passive structure **`Let + object + not be + V3`**
+```
+Active:  Do not open the door.
+Passive: Let the door not be opened.
+Passive: The door should not be opened.
+
+Active:  Do not close the window.
+Passive: Let the window not be closed.
+Passive: The window should not be closed.
+
+Active:  Do not play the video game.
+Passive: Let the video game not be played.
+Passive: The videos game should not be played.
+
+Active:  Do not waste water.
+Passive: Let water not be wasted.
+Passive: Water should not be wasted.
+
+Active:  Do not touch the machine.
+Passive: Let the machine not be touched.
+Passive: The machine should not be touched.
+```
+
+**Imperative with "Please"**
+```
+Active:  Please help the old man.
+Passive: Let the old man be helped, please.
+Passive: Please, Let the old man be helped.
+
+Active:  Please open the door.
+Passive: Let the door be opened, please.
+```
+According to tradional grammar rule above passive is okay but in natural English, Passive Imperative can sound
+formal or unnatural depending on the context.
+
+
+**Imperative: Commands vs Requests, Advice vs Intructions**
+```
+Active:  Please help me.
+Passive: Let me be helped.
+
+Active:  Follow the instructions carefully.
+Passive: Let the instructions be followed carefully.
+
+Active:  Read the question carefully.
+Passive: Let the question be read carefully.
+```
+
+**Imperative with `Let`** <br/>
+Be careful because let can already appear in the active sentence.
+
+```
+Let him open the door.
+```
+This does not follow the simple `Let + object + be + V3` pattern in the same way. <br/>
+Here **`let`** means **allow/permit**.
+
+Passive:
+```
+Let the door be opened.
+```
+
+> **Remember that the subject of an imperative is normally understood as `you`.** That's why we usually don't use **`by you`**
+
+```
+Active:  Open the door.
+Passive: Let the door be opened.
+Passive: Let the door be opened by you.  [Not required]
+```
+
+| Type                 | Active                     | Passive                          |
+| -------------------- | -------------------------- | -------------------------------- |
+| Positive command     | `Open the door.`           | `Let the door be opened.`        |
+| Positive command     | `Clean the room.`          | `Let the room be cleaned.`       |
+| Instruction          | `Follow the rules.`        | `Let the rules be followed.`     |
+| Negative command     | `Do not open the door.`    | `Let the door not be opened.`    |
+| Negative instruction | `Do not touch the machine.`| `Let the machine not be touched.`|
+
+
+We should understand that passive imperative constructions with `let` are common in traditional grammar exercises, but they are not always the most natural way to express instructions in modern English.
+```
+Active:  Please close the door.
+Passive: Let the door be closed.
+Passive: The door should be closed.
+
+```
+
 Negative sentences
 ---
 
@@ -523,7 +1768,239 @@ Negative sentences
 
 <br/>
 
+> A negative sentence says that **an action does not, did not, has not, will not, etc. happen**.
+
+**When changing Active -> Passive, keep the negative meaning.**
+
+**Present/Past/Future Simple**
+
+Active: **`Sub + do/does/did +  V1 + Obj`** <br/>
+Passive: **`Obj + is/am/are/was/were + not +  V3 + by + Sub`**
+```
+Active:  Ravi does not write the letter.
+Passive: The letter is not written by Ravi.
+
+Active:  Ravi did not write the letter.
+Passive: The letter was not written by Ravi.
+
+```
+
+**Future Simple**
+
+Active: **`Sub + will not + be + V1 + Obj`** <br/>
+Passive: **`Obj + will + not + be V3 + by + Sub`**
+```
+Active:  She will not complete the project.
+Passive: he project will not be completed by her.
+```
+
+The word remains in the passive sentence. But its position changes because the helping verb changes.
+
+Note: **NOT comes after the helping verb and before the V3.**
+```
+is not written
+was not written
+has not been written
+will not be written
+cannot be written
+```
+
+**Present/Past/Future Continuous**
+
+Active: **``Sub + am/is/are/was/were/will + not + being + V3 + Obj``** <br/>
+Passive: **`Obj + am/is/are/was/were/will + not + being + V3 + by + Sub`**
+```
+Active:  Ravi is not writing the letter.
+Passive: The letter is not being written by Ravi.
+
+Active:  Ravi was not writing the letter.
+Passive: The letter was not being written by Ravi.
+
+```
+
+**Present/Past Perfect**
+
+Passive: **`Obj + has/have/had + not + been + V3 + by + Sub`**
+```
+Active:  Ravi has not written the letter.
+Passive: The letter has not been written by Ravi.
+
+Active:  They had not repaired the road.
+Passive: The road had not been repaired by them.
+```
+
+**Future Perfect**
+
+Passive: **`Obj + will not have been + V3 + by + Sub`**
+```
+Active:  Ravi will not have written the letter.
+Passive: The letter will not have been written by Ravi.
+
+Active:  They will not have completed the project.
+Passive: The project will not have been completed by them.
+````
+
+**Modal Verbs**
+
+Active: **`Sub + modal + not + V1 + Obj`** <br/>
+Passive: **`Obj + modal + not + be + V3 + by + Sub`**
+```
+Active:  Ravi cannot write the letter.
+Passive: The letter cannot be written by Ravi.
+
+Active:  You should not break the rules.
+Passive: The rules should not be broken by you.
+
+Active:  They must not enter the room.
+Passive: The room must not be entered by them.
+
+Active:  She may not complete the work.
+Passive: The work may not be completed by her.
+```
+
+**Modal Perfect**
+
+Active: **`Sub + modal + not + have + V3 + Obj`** <br/>
+Passive: **`Obj + modal + not + have been + V3 + by + Sub`**
+
+```
+Active:  Ravi should not have written the letter.
+Passive: The letter should not have been written by Ravi.
+
+Active:  They could not have completed the project.
+Passive: The project could not have been completed by them.
+```
+
+
+**Complete Negative Passive**
+
+| Tense/Structure    | Negative Passive                 |
+| ------------------ | -------------------------------- |
+| Present Simple     | am/is/are + **not + V3**         |
+| Past Simple        | was/were + **not + V3**          |
+| Future Simple      | will + **not + be + V3**         |
+| Present Continuous | am/is/are + **not + being + V3** |
+| Past Continuous    | was/were + **not + being + V3**  |
+| Present Perfect    | has/have + **not + been + V3**   |
+| Past Perfect       | had + **not + been + V3**        |
+| Future Perfect     | will + **not + have been + V3**  |
+| Modal              | modal + **not + be + V3**        |
+| Modal Perfect      | modal + **not + have been + V3** |
+
+
+
+#### Negative Imperatives
+
+```
+Active:    Do not open the door.
+Passive 1: Let the door not be opened.     [Traditional Passive]
+Passive 2: The door should not be opened.  [Natural Passive]
+```
+
+#### Negative Prepositional Passive
+
+```
+Active:  They did not look after the child.
+Passive: The child was not looked after by them.
+```
+
+#### Negative Ditransitive Sentences
+
+```
+Active:    Ravi did not give me a book.
+----------------------------------------
+Passive 1: I was not given a book by Ravi.
+Passive 2: A book was not given to me by Ravi.
+```
+
+#### `Never`
+
+```
+Active:  Ravi never writes letters.
+Passive: Letters are never written by Ravi.
+
+Active:  They never clean this room.
+Passive: This room is never cleaned by them.
+```
+
+#### `Nobody` / `No One`
+
+```
+Active:  Nobody opened the door.
+Passive: The door was not opened by anyone.
+
+Active:  Nobody invited Ravi.
+Passive: Ravi was not invited by anyone.
+```
+
+#### `Nothing`
+
+```
+Active:  Nobody said anything.
+Passive: Nothing was said by anyone.
+
+Active:  Nobody gave me anything.
+Passive: I was not given anything by anyone.
+```
+
+#### `No One` and `Anyone`
+
+```
+Active:  No one helped him.
+Passive: He was not helped by anyone.
+```
+This is generally more natural than trying to keep `no one` directly after `by`.
+
+#### Be Careful With Double Negatives
+
+English generally avoids unnecessary double negatives.
+
+Examples:
+```
+The letter was not never written. [Incorrect]
+- That is not the normal way to express the idea.
+
+The letter was never written. [Correct]
+---------------------------------------------------
+
+He was not helped by nobody.     [Incorrect]
+- He was not helped by anybody.  [Correct]
+- Nobody helped him.             [Correct]
+```
+
 </details>
+
+<details>
+  <summary> When converting a negative active sentence </summary>
+
+<br/>
+
+**Step 1: Find the object.**
+
+**Step 2: Move the object to the beginning.**
+
+**Step 3: Identify the tense.**
+
+**Step 4: Use the correct passive structure.**
+
+**Step 5: Put not after the appropriate helping verb.**
+
+**Step 6: Use V3.**
+
+**Step 7: Add by + subject if necessary.**
+
+Example
+```
+Active: They have not completed the work.
+Object -> the work
+Tense -> Present Perfect
+Passive -> has been + V3
+Negative -> has not been
+Passive: The work has not been completed by them.
+```
+
+</details>
+
 <!------------Negative sentences------------------>
 
 ## Level 4 - Special Structures
@@ -535,8 +2012,11 @@ Negative sentences
 
 <br/>
 
-Modal verbs include: **`can, could, may, might, must, shall, should, will, would, etc`**.
+> **Modal verbs are helping verbs that express things such as `ability, possibility, permission, necessity, obligation, advice, prediction`**
 
+Modal verbs include: **`can, could, may, might, must, shall, should, ought to, will, would, etc`**.
+
+Active: **`Subject + modal + V1 + Object`**  <br/>
 Passive: **`Object + modal + be + V3 + by + Subject`**
 
 Examples:
@@ -552,6 +2032,51 @@ Passive: The law must be obeyed by us.
 
 Active:  They might cancel the match.
 Passive: The match might be cancelled by them.
+
+Active:  Ravi could solve the problem.
+Passive: The problem could be solved by Ravi.
+
+Active:  They would complete the project.
+Passive: The project would be completed by them.
+
+Active:  We shall finish the work.
+Passive: The work shall be finished by us.
+
+Active:  You ought to follow the rules.
+Passive: The rules ought to be followed by you.
+```
+
+Negative Passive: `Object + modal + not + be + V3 + by + Subject`
+```
+Active:  Ravi cannot complete the work.
+Passive: The work cannot be completed by Ravi. 
+
+Active:  You should not ignore the instructions.
+Passive: The instructions should not be ignored by you.
+
+Active:  They must not break the rules.
+Passive: The rules must not be broken by them.
+```
+
+Interrogative Passive: `Modal + Object + be + V3 + by + Subject?`
+```
+Active:  Can Ravi complete the work?
+Passive: Can the work be completed by Ravi?
+
+Active:  Should we follow the rules?
+Passive: Should the rules be followed by us?
+
+Active:  Must they submit the report?
+Passive: Must the report be submitted by them?
+```
+
+WH-Questions Passive: `WH + modal + Object + be + V3 + by + Subject?`
+```
+Active:  How can Ravi solve the problem?
+Passive: How can the problem be solved by Ravi?
+
+Active:  Why should students follow the rules?
+Passive: Why should the rules be followed by students?
 ```
 
 
@@ -573,7 +2098,12 @@ Examples: `look at, laugh at, speak to, talk about, look after, listen to, rely 
 
 The **preposition can remain with the verb in the passive construction.**
 
+Active: **`Subject + Verb + Preposition + Object`** <br/>
+Passive: **`Object + be + V3 + Preposition + by + Subject`**
 ```
+Active:  They laughed at him.
+Passive: He was laughed at by them.
+
 Active:  Everyone laughed at him.
 Passive: He was laughed at by everyone.
 
@@ -582,11 +2112,59 @@ Passive: The child was looked after by them.
 
 Active:  We should listen to the teacher.
 Passive: The teacher should be listened to by us.
+
+Active:  They talked about the problem.
+Passive: The problem was talked about by them.
+
+Active:  We depend on our parents.
+Passive: Our parents are depended on by us.
 ```
 
-Verb + Preposition -> keep the preposition in the passive construction. <br/>
+The confusing part is that the object may come after a preposition, but it can still become the subject of a passive sentence.
+
+`Verb + Preposition` -> keep the preposition in the passive construction. <br/>
 This is sometimes called a **prepositional passive**.
 
+> **A sentence can have a grammatically possible passive form that is less natural than the active form.**
+
+
+**Different Tenses**
+
+Present/Past/Future Simple
+
+Passive: **`am/is/are/was/were/will be + V3 + preposition`**
+```
+Active:  They look after the child.
+Passive: The child is looked after by them.
+
+Active:  They looked after the child.
+Passive: The child was looked after by them.
+
+Active:  They will look after the child.
+Passive: The child will be looked after by them.
+```
+
+Present/Past Continuous
+
+Passive: **`am/is/are/was/were + being + V3 + preposition`**
+```
+Active:  They are looking after the child.
+Passive: The child is being looked after by them.
+
+Active:  They are looking after children.
+Passive: Childre were being looked after by them.
+```
+
+Present/Past Perfect
+
+Passive: **`has/have + been + V3 + preposition`**
+```
+Active:  They have looked after the child.
+Passive: The child has been looked after by them.
+
+Active:  They had looked after the child.
+Passive: The child had been looked after by them.
+```
 Di-transitive verbs
 ---
 
@@ -595,9 +2173,12 @@ Di-transitive verbs
 
 
 <details>
-  <summary> <b> Di-transitive verbs </b> </summary>
+  <summary> <b> Di-transitive verbs or Two objects passive</b>  </summary>
 
 <br/>
+
+
+> **Some verbs can take two objects, direct and indirect object, known as _Di-transitive verbs_.**
 
 A di-transitive verb can take two objects:
 1. Direct object
@@ -649,6 +2230,207 @@ A job was offered to Rahul by the manager.
 ```
 
 
+Exercise: Identify whether the verb is Transitive or Intransitive.
+```
+1. The boy kicked the ball.   - Transitive
+2. The baby cried.            - Intransitive
+3. She opened the window.     - Transitive
+4. The window opened.         - Intransitive
+5. They built a bridge.       - Transitive
+6. The children laughed.      - Intransitive
+7. He broke the glass.        - Transitive
+8. The glass broke.           - Intransitive
+9. We watched a movie.        - Transitive
+10. The train arrived.        - Intransitive
+```
+
+<details>
+  <summary> What is a Ditransitive Verb? </summary>
+
+<br/>
+
+A **ditransitive verb** is a verb that can take:
+> **`Subject + Verb + Indirect Object + Direct Object`**
+
+Example: `Ravi gave me a book.`
+
+| Part            | Word   |
+| --------------- | ------ |
+| Subject         | Ravi   |
+| Verb            | gave   |
+| Indirect Object | me     |
+| Direct Object   | a book |
+
+</details>
+<!-------------------->
+
+<details>
+  <summary> What is a Direct Object? </summary>
+
+<br/>
+
+> The direct object is usually the thing that is given, sent, shown, offered, etc.
+
+```
+Ravi gave me a book.
+
+Ask: Ravi gave what?
+Ans: a book
+So "a book" is the direct object.
+```
+  
+</details>
+<!-------------------->
+
+<details>
+  <summary> What is a Indirect Object? </summary>
+
+<br/>
+
+> The indirect object is usually the person who receives or benefits from the direct object.
+
+```
+Ravi gave me a book.
+
+Ask: Ravi gave a book to whom?
+Ans: me
+So "me" book is the direct object.
+```
+  
+</details>
+<!-------------------->
+
+<details>
+  <summary> Common Di-transitive verbs </summary>
+
+<br/>
+
+Some common verbs that can take two objects are:
+
+| Verb  | Example                         |
+| ----- | ------------------------------- |
+| give  | `She gave me a pen.`            |
+| send  | `He sent me a message.`         |
+| show  | `She showed me the picture.`    |
+| tell  | `He told me a story.`           |
+| offer | `They offered him a job.`       |
+| teach | `The teacher taught us English.`|
+| lend  | `She lent me some money.`       |
+| buy   | `He bought me a gift.`          |
+| bring | `She brought me some food.`     |
+| ask   | `He asked me a question.`       |
+
+
+</details>
+<!-------------------------->
+
+<details>
+  <summary> Two passive forms </summary>
+
+<br/>
+
+There are two possible passive structures. <br/>
+Passive 1 - Indirect object becomes subject <br/>
+Passive 2 - Direct object becomes subject
+
+Active: **`Subject + Verb + Indirect Object + Direct Object`** <br/>
+Passive 1: **`Direct Object + BE + V3 + to + Indirect Object + by + Subject`** <br/>
+Passive 2: **`Indirect Object + BE + V3 + Direct Object + by + Subject`**
+
+Example:
+```
+Active:    Ravi gave me a book.
+Passive 1: A book was given to me by Ravi.   [Subject = Direct Object, a book ]
+Passive 2: I was given a book by Ravi.       [Subject = Indirect Object, me -> I ] 
+
+Active:    She sent me a message.
+Passive 1: A message was sent to me by her.
+Passive 2: I was sent a message by her.
+
+Active:     He showed me the picture.
+Passive 1:  The picture was shown to me by him.
+Passive 2:  I was shown the picture by him.
+
+Active:     She told me a story.
+Passive 1:  A story was told to me by her.
+Passive 2:  I was told a story by her.
+
+Active:     The company offered him a job.
+Passive 1:  A job was offered to him by the company.
+Passive 2:  He was offered a job by the company.
+```
+
+Que: **Why do we need `to`?** <br/>
+Ans: When indirect object remains after the direct object in the second passive structure, we generally use `to`
+
+Example:
+```
+Active:  Ravi gave me a book.
+Passive: A book was given to me by Ravi.
+```
+
+Negative Sentences
+```
+Active:    Ravi did not give me a book.
+Passive 1: A book was not given to me by Ravi.
+Passive 2: I was not given a book by Ravi.
+```
+
+Interrogative/Question
+```
+Active:     Did Ravi give me a book?
+Passive 1:  Was a book given to me by Ravi?
+Passive 2:  Was I given a book by Ravi?
+```
+
+Tenses: Present/Past/Future
+```
+Active:    Ravi gives me a book.
+Passive 1: A book is given to me by Ravi.
+Passive 2: I am given a book by Ravi.
+
+Active:    Ravi has given me a book.
+Passive 1: A book has been given to me by Ravi.
+Passive 2: I have been given a book by Ravi.
+```
+
+Modal Verbs
+```
+Active:     Ravi can give me a book.
+Passive 1:  A book can be given to me by Ravi.
+Passive 2:  I can be given a book by Ravi.
+```
+
+**Not every verb works exactly the Same Way** <br/>
+Some verbs naturally allow two objects:
+```
+give me a book
+send me a message
+show me the picture
+tell me a story
+```
+
+Other verbs require a particular preposition or construction.
+```
+Active:     They explained the problem to me.
+Passive 1:  The problem was explained to me by them.
+Passive 2:  I was explained the problem by them. [Don't usually]
+
+---------------------------------------------------------
+
+Active:    Ravi gave me a book.
+Passive:   I was given a book by Ravi.
+Passive:   A book was given to me by Ravi.
+
+-----------------------------------------------------------
+
+Active:     Ravi explained the problem to me.
+Passive 1:  The problem was explained to me by Ravi.
+Passive 2:  I was explained the problem by Ravi. [Don't usually]
+```
+
+</details>
+<!-------------------------->
 
 "To be" constructions
 ---
@@ -685,8 +2467,296 @@ The door is opened by Ravi.
 `is + noun/adjective` -> often linking verb <br/>
 `is + V3` -> can form passive
 
+
+#### 1. What are `To Be` verbs?
+
+The different forms of to be are:
+
+| Form    | Example                    |
+| ------- | -------------------------- |
+| `am`    | I **am** happy.            |
+| `is`    | He **is** a teacher.       |
+| `are`   | They **are** ready.        |
+| `was`   | She **was** tired.         |
+| `were`  | We **were** late.          |
+| `be`    | It will **be** completed.  |
+| `been`  | It has **been** completed. |
+| `being` | It is **being** repaired.  |
+
+> A sentence containing am/is/are/was/were/will be is not necessarily passive.
+
+#### 2. `Be` as a Linking Verb
+
+Sometimes be simply connects the subject to information describing or identifying it.
+
+Example:
+```
+He is a teacher.
+- Break it down:
+- He = Subject
+- is = Linking verb
+- a teacher = Subject complement
+- There is no object.
+So we cannot convert it into passive voice.
+
+```
+
+**`Be` + Adjective**
+
+Example:
+```
+They are ready.
+- "Ready" describes they.
+- It isn't an object receiving an action.
+- Therefore, No normal passive conversion.
+```
+
+| Active/Original sentence | Passive? |
+| ------------------------ | -------- |
+| `He is a doctor.`        | No       |
+| `She is happy.`          | No       |
+| `They are ready.`        | No       |
+| `I am tired.`            | No       |
+| `We were late.`          | No       |
+
+
+#### An interesting case where context matters.
+
+```
+The door is closed.
+```
+It can have two interpretations.
+
+1. Meaning 1 - Passive action
+
+Someone closed the door.
+```
+The door is closed by the security guard.
+- Here, closed is V3 and the sentence is passive.
+```
+
+2. Meaning 2 — State/condition
+
+The door is simply in a closed state.
+```
+The door is closed.
+- Here, closed can function like an adjective describing the door.
+```
+
+```
+1. The door is closed.
+- The door is closed by the security guard. [Passive Action]
+- The door us closed.                       [State/Condition]
+
+2. He is tired.
+- He is tired by someone.    [Passive Action]
+- He is tired.               [State/Condition]
+```
+
+#### Compare Active, Linking, and Passive
+ 
+| Sentence                         | Structure               | Type    |
+| -------------------------------- | ----------------------- | ------- |
+| `Ravi writes a letter.`          | `S + V + O`             | Active  |
+| `The letter is written by Ravi.` | `S + be + V3 + agent`   | Passive |
+| `Ravi is a teacher.`             | `S + be + noun`         | Linking |
+| `Ravi is happy.`                 | `S + be + adjective`    | Linking |
+| `Ravi is in the room.`           | `S + be + place phrase` | Linking |
+| `The room is cleaned by Ravi.`   | `S + be + V3 + agent`   | Passive |
+
+
+#### Difference: BEEN vs BEING
+
+> **`been` -> Perfect**
+
+> **`being` -> Continuous**
+
+Perfect Passive: `Subject + has/have + been + V3`
+```
+The work has been completed.
+```
+
+Continuous Passive: `am/is/are + being + V3`
+```
+The work is being completed.
+```
+
+
 </details>
 <!------------"To be" constructions------------------>
+
+<details>
+  <summary> <b> Some sentences cannot be made passive </b> </summary>
+
+<br/>
+
+An intransitive verb cannot normally be changed into passive voice.
+
+Que: **What Is an Intransitive Verb?** <br/>
+Ans: An intransitive verb does not take a direct object.
+
+Example:
+```
+The baby slept.
+Ask: The baby slept what?
+Ans: There is no answer.
+Therefore, "slept" is intransitive.
+
+The boy ran.
+Ask: The boy ran what?
+Ans: No direct object.
+So, "ran" is intransitive.
+```
+
+Que: **Why can't we normally make it passive?** <br/>
+Ans: Normal passive voice requires something that can become the new subject.
+
+Example:
+```
+Active: Ravi opened the door.
+Here:
+- Ravi -> subject
+- opened -> verb
+- the door -> object
+Passive: The door was opened by Ravi.
+The object the door becomes the passive subject.
+------------------------------------------------
+Active: Ravi slept.
+- Ravi -> subject
+- slept -> verb
+- There is no object.
+So there is nothing that can move into the subject position.
+Passive: Slept was by Ravi. [We can't]
+```
+
+Some commonly used intransitive verbs are: `sleep, arrive, go, come, happen, occur, die, laugh, cry, sneeze, fall, 
+sit, stand, run, walk, swim, disappear, rise, appear`
+
+Examples:
+```
+He arrived.
+She slept.
+The baby cried.
+The accident happened.
+The weather changed.
+```
+These don't normally have direct objects.
+
+Therefore, they don't have ordinary passive forms.
+
+**No object does not mean no other words**
+
+```
+He slept on the bed.
+
+Don't think: "Bed" is an object, so passive should be possible. No.
+"On the bed" is a prepositional phrase.
+
+- slept -> intransitive verb
+- on -> preposition
+- the bed -> object of the preposition
+"The bed" is not a direct object of slept.
+Therefore: The bed was slept by him. But It is not correct.
+```
+
+```
+They arrived at the station.
+- "Station" is not the direct object of "arrived."
+- It is the object of the preposition at.
+So, The station was arrived at by them. But It is not correct.
+```
+
+> **Not every noun after a preposition can become a passive subject.**
+
+**Intransitive Verb + Adverb**
+```
+The baby cried loudly.
+- he baby -> Subject
+- cried -> Intransitive verb
+- loudly -> Adverb
+There is no object.
+So, The adverb doesn't become a passive subject.
+```
+
+**Intransitive Verb + Prepositional Phrase**
+```
+The students arrived at school.
+- students -> subject
+- arrived -> intransitive verb
+- at school -> prepositional phrase
+"School" isn't the direct object of "arrived."
+So ordinary passive isn't formed.
+```
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> Three-way classification </summary>
+
+<br/>
+
+When you see a sentence, classify it into one of these:
+
+### Type 1 - Transitive
+
+Object exists, Therefore Normal passive possible.
+
+```
+Active:  Ravi opened the door.
+Passive: The door was opened by Ravi.
+
+Active:    Ravi did not give me a book.
+Passive 1: A book was not given to me by Ravi.
+Passive 2: I was not given a book by Ravi.
+```
+
+### Type 2 - Intransitive
+
+No object, Therefore Normal passive not possible.
+
+```
+Active:   Ravi slept.
+Passive: No passive, bcuz of no object
+
+Active:  He arrived.
+Passive: No passive
+```
+
+### Type 3 - Verb + Preposition
+
+Object of preposition exists. Therefore, Prepositional passive may be possible.
+
+```
+Active:  Ravi laughed at the boy.
+Passive: The boy was laughed at by Ravi.
+Wrong Passive: He was laughed by Ravi.
+```
+
+### Same verb can be transitive as well as intransitive
+
+The same verb can be transitive in one sentence and intransitive in another.
+
+```
+The door opened.
+- intransitive
+- As there is no object, So no passive possible
+
+Ravi opened the door.
+- transitive
+- Object is there, so passive.
+Passive: The door was opened by Ravi.
+```
+
+### Don't mistake an object of a preposition for a direct object.
+
+```
+Ravi slept on the bed.
+- "bed" is the object of on, not the direct object of slept.
+```
+
+</details>
+<!----------------------------->
 
 ## Level 5 - Advanced
 
@@ -696,6 +2766,21 @@ The door is opened by Ravi.
 
 <br/>
 
+**It is used when a modal expresses something related to a past action.**
+
+**Ordinary Modal: `Subject + modal + be + V3`**
+```
+The work must be completed.
+- Meaning: The work needs to be completed.
+```
+
+**Modal Perfect: `Subject + modal + have been + V3`**
+```
+The work must have been completed.
+- Meaning: We believe or conclude that the work was completed in the past.
+```
+
+
 Passive Structure: **`Object + modal + have been + V3 + by + Subject`**
 
 ```
@@ -704,8 +2789,83 @@ Passive: The work must have been completed by them.
 
 Active:  She may have written the letter.
 Passive: The letter may have been written by her.
+
+Active:  Ravi may have completed the work.
+Passive: The work may have been completed by Ravi.
+
+Active:  Ram could have solved the problem.
+Passive: The problem could have been solved by Ram.
+
+Active:  Rahul should have completed the work.
+Passive: The work should have been completed by Rahul.
+
+Active:  They might have changed the plan.
+Passive: The plan might have been changed by them.
 ```
 
+Negative:
+```
+Active:  Ravi may not have completed the work.
+Passive: The work may not have been completed by Ravi.
+
+Active:  They should not have ignored the warning.
+Passive: The warning should not have been ignored by them.
+```
+
+Interrogative:
+```
+Active:  Could Ravi have completed the work?
+Passive: Could the work have been completed by Ravi?
+
+Active:  Should they have submitted the report?
+Passive: Should the report have been submitted by them?
+
+Active:
+Passive:
+```
+
+WH-Questions:
+```
+Active:  Why might Ravi have changed the plan?
+Passive: Why might the plan have been changed by Ravi?
+
+Active:  How could they have solved the problem?
+Passive: How could the problem have been solved by them?
+
+Active:  Who could have written the letter?
+Passive: By whom could the letter have been written?
+
+Active:  Who should have completed the project?
+Passive: By whom should the project have been completed?
+```
+
+Que: **Why do we need `Have`?** <br/>
+Ans: `have` connects the modal to the past perfect meaning.
+
+
+### Three Important Modal Patterns
+
+**Pattern 1 - Modal Passive `Subject + modal + be + V3`**
+
+Example:
+```
+The work must be completed.
+The work can be completed.
+```
+
+**Pattern 2 - Modal Perfect Active `Subject + modal + have + V3`**
+
+Example:
+```
+Ravi must have completed the work.
+```
+
+**Pattern 3 - Modal Perfect Passive `Subject + modal + have been + V3`**
+
+Example:
+```
+The work must have been completed by Ravi.
+```
 
 Perfect Passive
 ---
@@ -746,18 +2906,49 @@ The car was being repaired.
 The car is being repaired by the mechanic.
 ```
 
-Reporting Passive
+Passive with prepositional phrases
 ---
 
 </details>
 <!------------Continuous Passive------------------>
 
-
 <details>
-  <summary> <b> Reporting Passive </b> </summary>
+  <summary> <b> Passive with prepositional phrases </b> </summary>
 
 <br/>
 
+Sometimes the sentence contains a prepositional phrase.
+
+```
+Active:  Someone has stolen my bicycle from the garage.
+Passive: My bicycle has been stolen from the garage.
+
+- phrase = from the garage
+- Phrase doesn't need to change.
+- Only the relevant object becomes the passive subject.
+```
+
+Passive with two verbs or reporting passive constructions
+---
+
+</details>
+<!-----------Passive with Prepositional Phrases--------------------->
+
+<details>
+  <summary> <b> Passive with two verbs or Reporting passive constructions </b> </summary>
+
+<br/>
+
+```
+Active:  People say that he is honest.
+Passive: It is said that he is honest.
+Passive: He is said to be honest.
+
+Active:  People believe that she is innocent.
+Passive: It is believed that she is innocent.
+Passive: She is believed to be innocent.
+```
+These are called **reporting passive constructions**.
 
 Passive Infinitives
 ---
@@ -772,6 +2963,16 @@ Passive Infinitives
 <br/>
 
 
+```
+Active:  They expect him to win.
+Passive: He is expected to win.
+
+Active:  They want her to complete the work.
+Passive: She is wanted to complete the work.
+```
+
+However, not every verb behaves naturally this way, so learn the common patterns rather than mechanically converting every sentence.
+
 Passive Gerunds
 ---
 
@@ -784,8 +2985,244 @@ Passive Gerunds
 
 <br/>
 
+Gerund = Active ideas: `criticizing, interrupting, swimming, smoking` 
+
+Passive Gerund structure: replace gerund with **`being + V3`**
+```
+Active:  People dislike others criticizing them.
+Passive: People dislike being criticized.         criticizing -> being criticized
+
+Active:  I don't like people interrupting me.
+Passive: I don't like being interrupted.
+```
+
 </details>
 <!-----------Passive Gerunds------------------->
+
+
+<details>
+  <summary> <b> Difference between <code> by </code> and <code> with </code> in passive Voice </b> </summary>
+
+<br/>
+
+The basic difference is:
+> **`by` = Doer** <br/>
+> **`with` = Instrument or tool **
+```
+The letter was written by Ravi.  [by = Doer]
+- Ravi is the person who performed the action.
+
+The letter was written with a pen.  [with = Instrument or tool ]
+- A pen is the tool used to perform the action.
+```
+
+> `By` usually identifies the person or thing that performs the action.
+
+> `With` usually identifies the tool, instrument, or material used.
+
+
+### What is an Agent?
+
+> An agent is the person or thing that performs the action in a passive sentence.
+
+Examples:
+```
+Active:  Ravi broke the window.
+Passive: The window was broken by Ravi.
+Here,
+- The window = passive subject
+- was broken = passive verb
+- by Ravi = agent
+```
+
+|    Active sentence             |   Passive sentence                   |
+|--------------------------------|--------------------------------------|
+| The teacher praised Ravi.      | Ravi was praised by the teacher.     |
+| The police arrested the thief. | The thief was arrested by the police.| 
+| The chef prepared the meal.    | The meal was prepared by the chef.   |
+| The storm damaged the roof.    | The roof was damaged by the storm.   |
+
+In each sentence, `by` introduces the agent.
+
+### What is an Instrument/tool?
+
+> An instrument is a tool or object used to perform an action.
+
+Example:
+```
+Active:   Ravi cut the paper with scissors.
+Passive: The paper was cut with scissors by Ravi.
+Here,
+- by Ravi = agent
+- with scissors = instrument
+```
+
+|    Passive sentence                | Instrument |
+|------------------------------------|------------|
+| The letter was written with a pen. | a pen      |
+| The window was broken with a stone.| a stone    |
+| The wood was cut with a saw.       | a saw      |
+| The door was opened with a key.    | a key      |
+| The floor was cleaned with a mop.  | a mop      |
+
+Notice that the instrument is not usually introduced with by in these examples.
+
+
+### `by` and `with` in the same sentence
+
+`by`: Who wrote the letter? <br/>
+`with`: What tool was used?
+
+Example: 
+```
+The letter was written by Ravi with a pen.
+- by Ravi = Agent
+- with a pen = instrument
+
+The window was broken by the boy with a stone.
+- by the boy = agent
+- with a stone = instrument
+```
+The sentence identifies both the doer and the tool.
+
+### `by` always doesn't mean a person.
+
+The agent can also be a person, thing, force, or event.
+
+Examples:
+```
+The tree was damaged by the storm.
+The village was flooded by the river.
+The match was interrupted by rain.
+The road was blocked by a fallen tree.
+```
+`by` identifies the cause or source of the action.
+
+### `with` always doesn't mean a physical tool
+
+`with` can introduce a material or substance used in an action.
+
+Examples:
+```
+The wall was painted with blue paint.
+The dish was decorated with fresh herbs.
+The wound was covered with a clean cloth.
+The box was filled with sand.
+```
+the phrase introduced by `with` tells us what material or substance was used.
+
+### Active-to-Passive Conversion with both phrases `by` and `with`
+
+```
+Active:  Ravi opened the door with a key.
+Passive: The door was opened with a key by Ravi.
+Passive: The door was opened by Ravi with a key.
+```
+
+### We cam omit `by` + agent
+
+In passive voice, the agent is often omitted when it is unknown, obvious, or unimportant.
+
+Examples:
+```
+The window was broken.
+The window was broken by someone.
+
+The road was repaired yesterday.
+The road was repaired with heavy machinery.
+```
+
+### Summary
+
+| Question                  | Use        |
+|---------------------------|------------|
+| Who performed the action? | By         |
+| What tool was used?       | With       |
+| What material was used?   | Often with |
+| What caused an event?     | Often by   |
+
+
+
+</details>
+<!------------by and with in passive voice------------------->
+
+<details>
+  <summary> <b> Get-passive, Have something done</b> </summary>
+
+<br/>
+
+Get-passive: `The window got broken.`
+
+Have something done: `I had my car repaired.`
+
+<details>
+  <summary>  What is Get-Passive? </summary>
+
+<br/>
+
+In ordinary passive voice, we use a form of `be + V3`. But we can also use `get + V3` in many situations.
+
+Both describe something happening to the window, but the tone and emphasis can differ.
+
+| Be-passive               | Get-passive              |
+|--------------------------|--------------------------|
+| `be + V3`                | `get + V3`               |
+| `The window was broken.` | `The window got broken.` |
+| `He was injured.`        | `He got injured.`        |
+| `She was promoted.`      | `She got promoted.`      |
+| `They were married.`     | `They got married.`      |
+
+The get-passive is often more conversational and may emphasize a change, event, or experience.
+
+Active: `Subject + Verb + Object` <br/>
+Get-passive: `Object + get (correct tense) + V3 + (by + agent)`
+```
+Active:      Ravi broke the window.
+Be-passive:  The window was broken by Ravi.
+Get-passive: The window got broken.
+```
+Notice that we often omit the agent when it is unknown or unimportant.
+
+
+Examples:
+```
+Active:      Someone broke the window.
+Be-passive:  The window was broken by someone.
+Get-passive: The window got broken.
+--------------------------------------------------------
+Active:      The company promoted Ravi.
+Be-passive:  Ravi was promoted by the company. 
+Get-passive: Ravi got promoted.
+--------------------------------------------------------
+Active:      The courier delivered the package.
+Be-passive:  The package was delivered by the courier.
+Get-passive: The package got delivered.
+--------------------------------------------------------
+```
+</details>
+
+<details>
+  <summary> Get-Passive in different tenses  </summary>
+
+<br/>
+
+The form of get changes according to tense.
+
+| Tense              | Get-passive                | Example                          |
+|--------------------|----------------------------|----------------------------------|
+| Present Simple     | `get/gets + V3`            | `He gets promoted regularly.`    |
+| Past Simple        | `got + V3`                 | `He got promoted yesterday.`     |
+| Future Simple      | `will get + V3`            | `He will get promoted soon.`     |
+| Present Continuous | `am/is/are getting + V3`   | `He is getting promoted.`        |
+| Present Perfect    | `has/have got/gotten + V3` | `The package has got delivered.` |
+
+The be-passive remains the more neutral option in formal writing.
+
+</details>
+
+
+</details>
+<!-----------Get Passive, Have something done---------------->
 
 ## Summary
 
@@ -867,6 +3304,111 @@ PASSIVE : Object + Helping Verb + V3 + by + Subject
 </details>
 <!------------Summary----------------->
 
+<details>
+  <summary> <b> Rules: Active to Passve </b> </summary>
+
+<br/>
+
+### 1. The tense does not disappear
+
+When changing active to passive, the tense remains the same.
+
+**Present -> is/am/are + V3** <br/>
+**Past -> was/were + V3** <br/>
+**Future -> will be + V3** <br/>
+
+```
+Present
+Active:  Ravi writes a letter.
+Passive: A letter is written by Ravi.
+Past
+Active:  Ravi wrote a letter.
+Passive: A letter was written by Ravi.
+Future
+Active:  Ravi will write a letter.
+Passive: A letter will be written by Ravi.
+```
+
+### 2. Pronoun Changes
+
+When the original subject moves after by, its pronoun usually changes from the subject form to the object form.
+
+| Active Subject | After "by" |
+| -------------- | ---------- |
+| I              | me         |
+| we             | us         |
+| you            | you        |
+| he             | him        |
+| she            | her        |
+| they           | them       |
+| it             | it         |
+
+```
+Active:  I wrote the letter.
+Passive: The letter was written by me.
+Active:  She cleaned the room.
+Passive: The room was cleaned by her.
+Active:  They built the house.
+Passive: The house was built by them.
+```
+
+### 3. What happens to the Object?
+
+The active object's position changes. Active Object becomes Passive Subject
+
+```
+Active:  Rahul kicked the ball.
+Passive: The ball was kicked by Rahul.
+
+So, Active Object -> Passive Subject
+```
+
+
+### 4. What happens to the Subject?
+
+The active subject generally moves after by.
+
+```
+Active:  Rahul kicked the ball.
+Passive: The ball was kicked by Rahul.
+
+So, Active Subject -> by + agent
+```
+
+> **The person/thing performing the action in the passive sentence is called the agent.**
+
+### 5. What happens to the Verb?
+
+The main verb changes to V3. <br/>
+The helping verb changes according to the tense and subject.
+
+| Active Verb | Passive Verb |
+| ----------- | ------------ |
+| writes      | is written   |
+| wrote       | was written  |
+| eats        | is eaten     |
+| ate         | was eaten    |
+| makes       | is made      |
+| made        | was made     |
+| takes       | is taken     |
+| took        | was taken    |
+| breaks      | is broken    |
+| broke       | was broken   |
+
+### 6. `by` + Subject(Agent) is not always necessary
+
+Sometimes the agent is unknown, obvious, or unimportant.
+
+```
+Active:  Someone stole my phone.
+Passive: My phone was stolen.
+We don't need: My phone was stolen by someone.
+```
+
+> Note: **by + agent is optional when the agent isn't important or is obvious/unknown.**
+
+</details>
+<!----------------------------->
 
 <details>
   <summary> <b> Mind map of voice  </b> </summary>
