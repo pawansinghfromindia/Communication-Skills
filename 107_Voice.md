@@ -2958,20 +2958,127 @@ Passive Infinitives
 
 
 <details>
+  <summary> <b> Passive Voice with Infinitives and Gerunds </b> </summary>
+
+
+<br/>
+
+Before learning passive voice, let's revise two basic concepts.
+
+First, understand the difference between **Infinitive** and **Gerund**
+
+**Infinitive**
+> An infinitive is usually to + V1 (base form of the verb).
+
+Examples:
+```
+to eat
+to write
+to teach
+to learn
+to complete
+```
+```
+I want to learn English.
+We want to eat dinner.
+They want to teach Maths.
+```
+
+**Gerund**
+> A gerund is a verb ending in `-ing` that functions as a noun.
+
+Examples:
+```
+eating
+writing
+teaching
+completing
+```
+```
+Reading improves vocabulary.
+Smoking is injurious to health.
+Swimming is a good exercise.
+```
+
+Note: Not every word ending in -ing is a gerund. 
+```
+He is reading.
+- reading is part of the continuous verb form.
+```
+
+</details>
+<!--------------Passive Voice with Infinitives and Gerunds-------------------->
+
+
+<details>
   <summary> <b> Passive Infinitives </b> </summary>
 
 <br/>
 
+| Active form | Passive form   |
+| ------------|----------------|
+| to write    | to be written  |
+| to complete | to be completed|
+| to teach    | to be taught   | 
+| to invite   | to be invited  |
+| to repair   | to be repaired | 
+
+**Passive Inifinitives: `to be + V3`**
 
 ```
-Active:  They expect him to win.
-Passive: He is expected to win.
-
 Active:  They want her to complete the work.
 Passive: She is wanted to complete the work.
+
+Active:  I want someone to help me.
+Passive: I want to be helped.
+
+Active:  They want someone to repair the car.
+Passive: They want the car to be repaired.
+
+Active:  She expects someone to select her.
+Passive: She expects to be selected.
+
+Active:  They expect him to win.
+Passive: He is expected to win.
 ```
 
+**Passive perfect infinitive: `to have been + V3`**
+
+```
+Active idea: He seems to have completed the work.
+Passive:     The work seems to have been completed.
+
+Active idea: She appears to have written the letter.
+Passive:     The letter appears to have been written.
+```
+
+| Structure           | Example                                | Meaning                                     |
+|---------------------|----------------------------------------|---------------------------------------------|
+| `to be + V3`        | The work needs to be completed.        | The work still needs completion.            |
+| `to have been + V3` | The work seems to have been completed. | The completion apparently happened earlier. |
+
+
 However, not every verb behaves naturally this way, so learn the common patterns rather than mechanically converting every sentence.
+
+
+#### Verbs commonly used with infinitives
+
+Some verbs are frequently followed by infinitives:
+```
+want
+expect
+hope
+need
+seem
+appear
+```
+Examples:
+```
+The room needs to be cleaned.
+She expects to be promoted.
+The document seems to have been altered.
+```
+
 
 Passive Gerunds
 ---
@@ -2987,18 +3094,115 @@ Passive Gerunds
 
 Gerund = Active ideas: `criticizing, interrupting, swimming, smoking` 
 
+We use this after verbs or prepositions that are followed by an `-ing` form.
+
+| Active gerund  | Passive gerund  |
+|----------------|-----------------|
+| writing        | being written   |
+| completing     | being completed |
+| teaching       | being taught    |
+| inviting       | being invited   |
+| repairing      | being repaired  |
+
+
 Passive Gerund structure: replace gerund with **`being + V3`**
 ```
 Active:  People dislike others criticizing them.
 Passive: People dislike being criticized.         criticizing -> being criticized
 
+Active:  He hates people criticizing him.
+Passive: He hates being criticized.
+
+Active:  She dislikes people disturbing her.
+Passive: She dislikes being disturbed.
+
+Active:  I remember someone praising me.
+Passive: I remember being praised.
+
+Active:  They avoided people recognizing them.
+Passive: They avoided being recognized.
+
 Active:  I don't like people interrupting me.
 Passive: I don't like being interrupted.
 ```
 
+#### Passive gerunds after prepositions
+
+When a verb follows a preposition, we often use the `-ing` form.
+
+Prepositions  `of, about, for, by, without, etc`.
+
+| Active idea                                  | Passive form                       |
+|----------------------------------------------|------------------------------------|
+| He is **afraid of** people judging him.      | He is afraid of being judged.      |
+| She is **worried about** people blaming her. | She is worried about being blamed. |
+| He **left without** anyone noticing him.     | He left without being noticed.     |
+| They **talked about** people excluding them. | They talked about being excluded.  |
+| She is **tired of** people interrupting her. | She is tired of being interrupted. |
+
+Note: After a preposition, use a gerund rather than a regular infinitive.
+
+```
+Correct:   He is afraid of being judged.
+Incorrect: He is afraid of to be judged.
+```
+
+#### Passive perfect gerund: `having been + V3`
+
+We use it to emphasize that a passive action happened before another action or situation.
+
+Examples
+```
+Active idea: He regretted that people had misunderstood him.
+Passive:     He regretted having been misunderstood.
+
+Active idea: She was proud that the committee had selected her.
+Passive:     She was proud of having been selected by the committee.
+```
+
+| Structure          | Description                            | Example                       |
+|--------------------|----------------------------------------|-------------------------------|
+| `being + V3`       | focuses on an experience or action     | He dislikes being criticized. |
+| `having been + V3` | emphasizes an earlier completed action | He denied having been warned. |
+
+
+#### Verbs commonly used with gerunds
+
+Some verbs are commonly followed by gerunds:
+```
+enjoy
+dislike
+hate
+avoid
+remember
+regret
+```
+Examples:
+```
+He hates being interrupted.
+She avoided being photographed.
+He remembers being praised.
+```
+
+
 </details>
 <!-----------Passive Gerunds------------------->
 
+<details>
+  <summary> Summary of Infinitives and Gerunds </summary>
+
+<br/>
+
+| Structure                  |  Formula            | Example                             |
+|----------------------------|---------------------|-------------------------------------|
+| Passive infinitive         | `to be + V3`        | The room needs to be cleaned.       |
+| Perfect passive infinitive | `to have been + V3` | The letter seems to have been sent. |
+| Passive gerund             | `being + V3`        | He hates being criticized.          |
+| Perfect passive gerund     | `having been + V3`  | She remembers having been selected. |
+
+
+</details>
+<!--------------------------------------->
 
 <details>
   <summary> <b> Difference between <code> by </code> and <code> with </code> in passive Voice </b> </summary>
@@ -3199,6 +3403,20 @@ Be-passive:  The package was delivered by the courier.
 Get-passive: The package got delivered.
 --------------------------------------------------------
 ```
+
+Negative and Quetions
+```
+Active:      Someone did not invite Ravi.
+Get-passive: Ravi didn't get invited.
+
+Active:      Did someone invite Ravi?
+Get-passive: Did Ravi get invited?
+
+Ravi will not get selected.
+
+Is Ravi getting interviewed?
+```
+
 </details>
 
 <details>
@@ -3218,11 +3436,715 @@ The form of get changes according to tense.
 
 The be-passive remains the more neutral option in formal writing.
 
-</details>
 
+
+</details>
+<!--------------------------->
+
+<details>
+  <summary> <b> What is Have Something Done? </b> </summary>
+
+<br/>
+
+Consider `I had my car repaired.` <br/>
+Does this mean I personally repaired my car? <br/>
+Usually, **no**. <br/>
+It means I arranged for someone else to repair it, or I received the service.
+
+This construction is called the **causative have**.
+
+Active: **`Subject + have + object + V3`**
+
+The form of have changes with tense.
+
+| Tense              | Example                      |
+|--------------------|------------------------------|
+| Present Simple     | I have my car repaired.      |
+| Past Simple        | I had my car repaired.       |
+| Future Simple      | I will have my car repaired. |
+| Present Continuous | I am having my car repaired. |
+| Present Perfect    | I have had my car repaired.  |
+
+Examples:
+```
+1. I had my car repaired.
+- Meaning: I arranged for a mechanic to repair my car.
+
+2. She had her hair cut.
+- Meaning: Someone cut her hair, usually a hairdresser.
+
+3. They had their photograph taken.
+- Meaning: Someone took their photograph.
+
+4. I had my laptop repaired.
+
+5. She had her house painted.
+
+6. We had the documents printed.
+
+7. He had his eyes tested.
+
+8. They had the roof fixed.
+```
+
+</details>
+<!----------------------------->
+
+
+<details>
+  <summary> <b> Difference Between Ordinary Passive and "Have Something Done" </b> </summary>
+
+<br/>
+
+| Sentence               |    Meaning                                                   |
+|------------------------|--------------------------------------------------------------|
+| My car was repaired.   | The car received the action of repair.                       |
+| My car got repaired.   | The car became repaired; conversational passive.             |
+| I had my car repaired. | I arranged for someone to repair it, or received the service.|
+| I repaired my car.     | I personally repaired it, or was responsible for doing so.   |
+
+`I had my car repaired.` focuses on the person arranging or receiving the service, rather than the person doing the repair.
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Get Someone to Do Something </b> </summary>
+
+<br/>
+
+**`Get + person + to + V1`**
+
+```
+I got Ravi to repair my car.
+- Meaning: I persuaded, asked, or arranged for Ravi to repair my car.
+
+Have something done
+- I had my car repaired.
+
+Get someone to do something:
+- I got Ravi to repair my car.
+
+Ordinary passive:
+- My car was repaired by Ravi.
+```
+  
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Have Someone Do Something </b> </summary>
+
+<br/>
+
+**`Have + person + V1`**
+
+Example
+```
+I had Ravi repair my car.
+- Meaning: I arranged or instructed Ravi to repair it.
+```
+
+| Structure                | Example                       |
+|--------------------------|-------------------------------|
+| `Have + object + V3`     | I had my car repaired.        |
+| `Have + person + V1`     | I had Ravi repair my car.     |
+| `Get + person + to + V1` | I got Ravi to repair my car.  |
+| `Be-passive`             | My car was repaired by Ravi.  |
+
+</details>
+<!------------------------------>
+
+<details>
+  <summary> <b> Summary </b> </summary>
+
+<br/>
+
+> **Have something done: `object + V3`**
+
+> **Have someone do something: `person + V1`**
+
+> **Get someone to do something: `person + to + V1`**
+
+#### `Get` does not always mean passive
+
+Examples:
+```
+Ravi got a new car.
+- Here, got means received or obtained. It is not passive.
+
+Ravi got promoted.
+- Here, got promoted is a get-passive construction.
+
+She got tired.
+- Here, got means became. It is not passive voice.
+```
+
+
+</details>
+<!----------------------------->
 
 </details>
 <!-----------Get Passive, Have something done---------------->
+
+
+<details>
+  <summary> <b> Reporting Verbs and Passive Voice </b> </summary>
+
+<br/>
+
+We will learn how to convert sentences using reporting verbs such as say, believe, think, know, report, expect, and consider into passive voice.
+
+### 1. What are reporting verbs?
+
+> **Reporting verbs are verbs we use to communicate what people say, think, believe, or report.**
+
+Examples:
+```
+People say that he is honest.
+Everyone believes that she is talented.
+They think that Ravi is intelligent.
+People know that the Earth revolves around the Sun.
+They reported that the building was damaged.
+```
+These sentences report information, but they do not necessarily tell us exactly who originally said it.
+
+### 2. Two ways to make reporting passives
+
+We can convert it into passive voice in two ways.
+1. Impersonal passive
+2. Personal passive
+
+Example:
+```
+Active:             People say that he is honest.
+Impersonal passive: It is said that he is honest.
+Personal passive:   He is said to be honest.
+```
+
+**Method 1: Impersonal passive**
+
+> **`It + appropriate form of BE + V3 + that + clause`**
+
+|     Active voice                         |        Passive voice                      |
+|------------------------------------------|-------------------------------------------|
+| People say that he is honest.            | It is said that he is honest.             |
+| People believe that she is innocent.     | It is believed that she is innocent.      |
+| They think that Ravi is intelligent.     | It is thought that Ravi is intelligent.   |
+| People know that the Earth is round.     | It is known that the Earth is round.      |
+| They reported that the road was blocked. | It was reported that the road was blocked.|
+
+**Method 2: Personal passive**
+
+> **`Subject of the that-clause + appropriate form of BE + V3 + to-infinitive`**
+
+| Active voice                             |    Personal passive                 |
+|------------------------------------------|-------------------------------------|
+| People believe that she is innocent.     | She is believed to be innocent.     |
+| They think that Ravi is intelligent.     | Ravi is thought to be intelligent.  |
+| People know that he is a doctor.         | He is known to be a doctor.         |
+| They expect that the team will win.      | The team is expected to win.        |
+| People consider that the book is useful. | The book is considered to be useful.|
+
+
+#### 3. How do we choose the correct infinitive?
+
+The infinitive depends on the time relationship between the reported action and the reporting.
+
+**Case A: Same time or a general fact** <br/>
+Use `to + V1` or `to be + adjective/noun`, depending on the sentence.`
+```
+Active:  People say that he works hard.
+Passive: He is said to work hard.
+
+Active:  People believe that she is intelligent.
+Passive: She is believed to be intelligent.
+```
+
+**Case B: The action happened earlier** <br/>
+Use `to have + V3`. This is called the perfect infinitive.
+```
+Active:             People say that he stole the money.
+Impersonal passive: It is said that he stole the money.
+Personal passive:   He is said to have stolen the money.
+```
+
+Why do we use to have stolen instead of to steal? <br/>
+Because the stealing happened before the present-time reporting.
+
+|            Active voice                    |         Personal passive                    |
+|--------------------------------------------|---------------------------------------------|
+| People believe that he left the country.   | He is believed to have left the country.    |
+| They think that she won the competition.   | She is thought to have won the competition. |
+| People report that the building collapsed. | The building is reported to have collapsed. |
+
+**Case C: The action is in progress**  <br/>
+Use `to be + V-ing`.
+```
+Active:  People say that he is working abroad.
+Passive: He is said to be working abroad.
+
+Active:  They believe that she is preparing for the exam.
+Passive: She is believed to be preparing for the exam.
+```
+
+| Meaning                        | Infinitive structure    |  Example                 |
+|--------------------------------|-------------------------|--------------------------|
+| General or simultaneous action | `to + V1`               | He is said to work hard. |
+| State or identity              | `to be + noun/adjective`| He is said to be honest. |
+| Earlier completed action       | `to have + V3`          | He is said to have left. |
+| Action in progress             | `to be + V-ing`         | He is said to be working.|
+
+#### 4. What happens when the reporting verb is in the past?
+
+The passive form of the reporting verb must reflect the tense of the original reporting verb.
+
+```
+Active: People say that he is honest.
+Passive: It is said that he is honest.
+
+Active:  People said that he was honest.
+Passive: It was said that he was honest.
+
+Active:  They believe that he stole the money.
+Passive: He is believed to have stolen the money.
+
+Active:  They believed that he had stolen the money.
+Passive: He was believed to have stolen the money.
+```
+
+#### Summary
+
+1. Impersonal passive: `It + BE + V3 + that-clause`. <br/>
+Example: `It is believed that he is innocent.`
+
+2. Personal passive: `Subject + BE + V3 + infinitive`. <br/>
+Example: `He is believed to be innocent.`
+
+3. Earlier completed action: `Subject + BE + V3 + to have + V3`. <br/>
+Example: `He is believed to have left the country.`
+
+The key is to identify the reporting verb, select the appropriate passive form, and then choose the correct infinitive based on the timing of the reported action.
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Common reporting verbs </b> </summary>
+
+<br/>
+
+| Reporting verb |           Example                           |
+|----------------|---------------------------------------------|
+| Say            | `He is said to be honest.`                  |
+| Believe        | `She is believed to be innocent.`           |
+| Think          | `He is thought to be abroad.`               |
+| Know           | `He is known to be hardworking.`            |
+| Report         | `The road is reported to be blocked.`       |
+| Expect         | `The train is expected to arrive soon.`     |
+| Consider       | `The book is considered to be useful.`      |
+| Understand     | `The company is understood to be expanding.`|
+| Allege         | `He is alleged to have broken the rules.`   |
+
+Some reporting verbs can sound formal or legal, especially allege and understand.
+
+</details>
+<!----------------------------->
+
+<details>
+  <summary> <b> Passive Voice with Phrasal Verbs </b> </summary>
+
+<br/>
+
+#### 1. What is a phrasal verb?
+
+> A phrasal verb is a combination of a verb and one or more particles (such as an adverb or preposition) that together express a meaning.
+
+Examples:
+```
+They called off the meeting.
+The police looked into the case.
+She handed in the assignment.
+```
+
+| Phrasal verb  |  Meaning             |
+|---------------|----------------------|
+| Call off      | Cancel               |
+| Carry out     | Perform or conduct   |
+| Put off       | Postpone             | 
+| Look into     | Investigate          |
+| Turn down     | Reject               |
+| Bring up      | Mention or raise     |
+| Hand in       | Submit               |
+| Break into    | Enter by force       |
+| Look after    | Take care of         |
+| Set up        | Establish or arrange |
+
+#### Rules to convert phrasal verb
+
+**Keep the complete phrasal verb together.**
+
+Active: **`Active: Subject + phrasal verb + object`** <br/>
+Passive: **`Passive: Object + appropriate form of BE + V3 + remaining particle(s)`**
+
+Examples
+```
+Active voice:  The manager called off the meeting.
+Passive voice: The meeting was called off by the manager.
+
+Active:  They called off the match.
+Passive: The match was called off.
+
+Active:  The team carried out the experiment.
+Passive: The experiment was carried out by the team.
+
+Active:  They put off the meeting.
+Passive: The meeting was put off.
+ 
+Active:  The police looked into the matter.
+Passive: The matter was looked into by the police.
+
+Active:  She turned down the offer.
+Passive: The offer was turned down by her.
+
+Active:  He handed in the report.
+Passive: The report was handed in by him.
+
+Active:  They brought up an important issue.
+Passive: An important issue was brought up by them.
+
+Active:  The company set up a new office.
+Passive: A new office was set up by the company.
+```
+
+The `by + agent phrase` is often unnecessary when the person doing the action is unknown or unimportant.
+
+#### Phrasal verbs with prepositions
+
+Some common expressions have a verb followed by a preposition, such as:
+```
+Look after
+Look into
+Deal with
+Speak about
+Laugh at
+Rely on
+```
+In passive voice, the preposition usually stays after the verb.
+
+Examples:
+```
+Active: They look after the children.
+Passive: The children are looked after by them.
+
+Active: The police dealt with the complaint.
+Passive: The complaint was dealt with by the police.
+
+Active: Everyone laughed at him.
+Passive: He was laughed at by everyone.
+
+Active: We can rely on Ravi.
+Passive: Ravi can be relied on.
+```
+
+Note:  Do not move the preposition to an unrelated position or omit it.
+
+#### Passive voice with modal verbs and phrasal verbs
+
+We already learned that modal verbs use this structure: `Modal + be + V3`
+
+Examples:
+```
+Active:  They must carry out the plan.
+Passive: The plan must be carried out.
+
+Active:  We should look into the complaint.
+Passive: The complaint should be looked into.
+
+Active:  They may call off the event.
+Passive: The event may be called off.
+
+Active:  You can hand in the form tomorrow.
+Passive: The form can be handed in tomorrow.
+
+Active:  They might turn down the proposal.
+Passive: The proposal might be turned down.
+```
+
+The modal remains unchanged, and the main verb changes to V3.
+
+#### Negative and interrogative sentences
+
+Negative sentences: Place not after the appropriate auxiliary verb.
+```
+Active:  They did not call off the match.
+Passive: The match was not called off.
+
+Active:  They have not looked into the complaint.
+Passive: The complaint has not been looked into.
+```
+
+Interrogative sentences : Move the auxiliary verb before the new subject.
+```
+Active:  Did they call off the meeting?
+Passive: Was the meeting called off?
+
+Active:  Have they handed in the report?
+Passive: Has the report been handed in?
+
+Active:  Should we look into the matter?
+Passive: Should the matter be looked into?
+```
+
+</details>
+<!------------------------------> 
+
+<details>
+  <summary> <b> Passive Voice with two clauses and complex sentences </b> </summary>
+
+<br/>
+
+we will learn how to use passive voice in complex sentences containing words such as because, when, if, although, that, and after.
+
+Changing the voice of the clause that you want to make passive, while preserving the meaning and tense of the whole sentence.
+
+<details>
+  <summary> 1. What is a clause? </summary>
+
+<br/>
+
+> A clause is a group of words containing a subject and a verb.
+
+A sentence may contain one clause or multiple clauses.
+
+
+Example: One clause
+```
+Active:  Ravi completed the work.
+Passive: The work was completed by Ravi.
+```
+
+Example 2: Two clauses
+```
+Active:           The teacher praised Ravi because he completed the work.
+Main clause:      The teacher praised Ravi.
+Dependent clause: because he completed the work.
+
+We can change one or both clauses into passive voice, depending on what we want to emphasize.
+```
+
+
+</details>
+
+<details>
+  <summary> 2. Sentences with <code> because </code> </summary>
+
+<br/>
+
+```
+Active: The teacher praised Ravi because he completed the assignment.
+- We can change the main clause into passive:
+Passive: Ravi was praised by the teacher because he completed the assignment.
+- Or we can change the dependent clause into passive
+Passive: The teacher praised Ravi because the assignment was completed by him.
+
+Both are grammatically possible, though the first sounds more natural in most contexts. 
+```
+
+```
+Active:  The police arrested him because he broke the law. 
+Passive: He was arrested by the police because he broke the law. 
+
+Active:  She thanked me because I helped her.
+Passive: I was thanked by her because I helped her.  
+
+Active:  The manager rewarded Ravi because he achieved the target.
+Passive: Ravi was rewarded by the manager because he achieved the target.
+```
+Notice that **because** remains unchanged.
+
+</details>
+
+<details>
+  <summary> 3. Sentences with <code>  when </code> </summary>
+
+<br/>
+
+Example:
+```
+Active: When the police arrived, the thief opened the door.
+We can make the main clause passive
+Passive: When the police arrived, the door was opened by the thief.
+We can also make the first clause passive if the context permits it.
+
+Active:  When the manager selected Ravi, Ravi received the offer.
+Passive: When Ravi was selected by the manager, Ravi received the offer.
+```
+
+```
+Active:  When the teacher entered the room, the students stopped talking.
+Passive: When the room was entered by the teacher, the students stopped talking.
+
+Active:  When the company announced the results, everyone celebrated.
+Passive: When the results were announced by the company, everyone celebrated.
+```
+The first example is grammatically possible, but `When the teacher entered the room` is more natural because enter often sounds better in active voice in this context.
+
+Imp Note: Not every clause needs to be converted into passive voice. Prefer natural English.
+
+</details>
+
+<details>
+  <summary> 4. Sentences with <code> if </code> </summary>
+
+<br/>
+
+> The word **if** introduces a condition.
+
+Example:
+```
+Active:  If the manager approves the request, the company will release the payment.
+Passive: If the request is approved by the manager, the company will release the payment.
+
+Active clause: the manager approves the request.
+Passive clause: the request is approved by the manager.
+```
+
+```
+Active:  If the teacher accepts the answer, the student will get marks.
+Passive: If the answer is accepted by the teacher, the student will get marks.
+
+Active:  If the police catch the thief, they will arrest him.
+Passive: If the thief is caught by the police, he will be arrested.
+
+Active:  If the company selects me, I will join next month.
+Passive: If I am selected by the company, I will join next month.
+```
+The word `if` stays in its original position, and the tense and conditional meaning are preserved.
+
+</details>
+
+<details>
+  <summary> 5. Sentences with  <code> although </code> </summary>
+
+<br/>
+
+> **Although** expresses contrast.
+
+```
+Active:  Although the manager rejected the proposal, the team continued the project.
+Passive: Although the proposal was rejected by the manager, the team continued the project.
+
+Active:  Although the teacher criticized Ravi, she praised his effort.
+Passive: Although Ravi was criticized by the teacher, his effort was praised by her.
+```
+The connecting word although remains unchanged.
+
+</details>
+
+<details>
+  <summary> 6. Sentences with <code> that </code> </summary>
+
+<br/>
+
+> Some sentences contain a reporting verb followed by a that-clause.
+
+Examples:
+```
+Active: People believe that Ravi is honest.
+
+Method 1 - Impersonal passive
+Impersonal passive: It is believed that Ravi is honest.
+
+Method 2 - Personal passive
+Personal passive: Ravi is believed to be honest.
+```
+
+```
+Active:  People say that she is talented.
+Passive: It is said that she is talented.
+
+Active:  People think that he stole the money.
+Passive: He is thought to have stolen the money.
+
+Active:  They report that the building was damaged.
+Passive: It is reported that the building was damaged.
+
+Active:  People believe that he has completed the work.
+Passive: He is believed to have completed the work.
+```
+Here, remember that the `that`-clause has its own tense and meaning, so do not change it mechanically.
+
+</details>
+
+<details>
+  <summary> 7. Sentences with <code> after </code> and <code> before </code> </summary>
+
+<br/>
+
+> These words after and before show the order of events.
+
+```
+Active: After the police arrested the thief, they questioned him.
+Passive: After the thief was arrested by the police, he was questioned.
+
+Active: Before the manager approved the request, the employee submitted the documents.
+Passive: Before the request was approved by the manager, the documents were submitted by the employee.
+```
+The connecting words after and before remain unchanged.
+
+</details>
+
+<details>
+  <summary> 8. Key Rule: You do not need to change every clause </summary>
+
+<br/>
+
+```
+Active: The teacher gave Ravi a book because he answered correctly.
+Passive: Ravi was given a book by the teacher because he answered correctly.
+- Only the main clause needs to change.
+
+Active:  The company will promote Ravi if he performs well.
+Passive: Ravi will be promoted by the company if he performs well.
+
+The conditional clause remains active because it is already clear and natural.
+```
+
+**Remember these points**
+
+- Identify the clause containing the object you want to emphasize.
+
+- Change that clause into passive voice.
+
+- Preserve conjunctions such as because, if, when, and although.
+
+- Preserve the original tense and meaning.
+
+- Do not force passive voice when active voice sounds more natural.
+
+</details>
+
+<details>
+  <summary> Final Summary </summary>
+
+<br/>
+
+| Connecting word | Example of passive voice                                       |
+|-----------------|----------------------------------------------------------------| 
+| Because         | He was rewarded because he worked hard.                        |
+| When            | When the results were announced, everyone celebrated.          |
+| If              | If the request is approved, payment will be released.          |
+| Although        | Although the proposal was rejected, the team continued.        |
+| That            | It is believed that he is honest.                              |
+| After           | After the thief was arrested, he was questioned.               |
+| Before          | Before the request was approved, the documents were submitted. |
+
+</details>
+
+</details>
+<!---------passive of two clauses and complex sentences--------------------->
+
 
 ## Summary
 
